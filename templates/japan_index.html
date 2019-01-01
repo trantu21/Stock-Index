@@ -1,0 +1,70 @@
+{%extends "layout_new.html"%}
+{%block stock_content%}
+<link rel="stylesheet" href={{cdn_css | safe}} type="text/css" />
+<script type="text/javascript" src={{cdn_js | safe}}></script>
+<link rel="stylesheet" href="../static/css/main.css">
+
+<div class="about">
+  <div id="plot_1">
+    {{script1 | safe}}
+    {{div1 | safe}}
+  </div>
+  <div id="plot_2">
+    {{script2 | safe}}
+    {{div2 | safe}}
+  </div>
+</div>
+  {%endblock stock_content%}
+
+  {%block right_sidebar%}
+  <form  method="POST" >
+      <div>
+        <input class="form-control" list="browers8" name="japan_index_name">
+          <datalist id="browers8">
+          <option value="^N225">NIKKEI 225</option>
+          <option value="^NJAQ.OS" >NIKKEI JASDAQ STOCK AVERAGE</option>
+          <option value="1551.T" >NEKKEI JASDAQ 20</option>
+          <option value="1364.T" >JPX NEKKEI 400</option>
+          <option value="^N1000" >NIKKEI JAPAN 1000</option>
+          <option value="^N300">NEKKEI JAPAN 300</option>
+          <option value="^N500">NEKKEI JAPAN 500</option>
+          <option value="1306.T">NEKKEI TOPIX</option>
+          <option value="101280.KS" >NEKKEI TOPIX 100</option>
+        </datalist>
+
+      </div >
+      <label >Start Date</label>
+       <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="start_date_sp"></input>
+
+       <label >End Date</label>
+        <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="end_date_sp"></input>
+
+   <button type="submit" class="btn btn-primary m-2"  name="action" value="submit_sp" s>Submit</button>
+
+  </form>
+</div>
+
+<!--Create the form send to backend for companys in S&P500-->
+
+<div id="SP_company_form">
+<form method="POST" >
+  <div>
+    <input class="form-control" list="browers9" name="japan_company_name_index">
+      <datalist id="browers9">
+        {% for (index,name) in japan_list_company_name%}
+        <option value="{{index}}">{{name}}</option>
+        {% endfor %}
+      </datalist>
+
+  </div>
+<!--Time input for companys in S&P 500-->
+    <label>Start Date</label>
+     <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="start_date_company"></input>
+
+     <label>End Date</label>
+      <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="end_date_company"></input>
+
+ <button type="submit" class="btn btn-primary m-2" name="action" value="submit_company">Submit</button>
+
+</form>
+  {%endblock right_sidebar%}

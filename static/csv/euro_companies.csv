@@ -1,0 +1,1501 @@
+Symbol,Name
+0,MSFT.BA,Microsoft Corporation
+1,AAPL.BA,Apple Inc.
+2,GOOGL.BA,Alphabet Inc.
+3,RDSB.L,Royal Dutch Shell plc
+4,RDSA.L,Royal Dutch Shell plc
+5,TYT.L,Toyota Motor Corporation
+6,HSBA.L,HSBC Holdings plc
+7,XOM.BA,Exxon Mobil Corporation
+8,ULVR.L,Unilever PLC
+9,BP-A.L,BP p.l.c.
+10,BP-B.L,BP p.l.c.
+11,BP.L,BP p.l.c.
+12,VZ.BA,Verizon Communications Inc.
+13,BHP.L,BHP Group Plc
+14,INTC.BA,Intel Corporation
+15,CVX.BA,Chevron Corporation
+16,KO.BA,The Coca-Cola Company
+17,MRK.BA,"Merck & Co., Inc."
+18,AZN.L,AstraZeneca PLC
+19,GSK.L,GlaxoSmithKline plc
+20,DGE.L,Diageo plc
+21,DISN.BA,The Walt Disney Company
+22,RIO.L,Rio Tinto plc
+23,BATS.L,British American Tobacco p.l.c.
+24,BNC.L,"Banco Santander, S.A."
+25,MCD.BA,McDonald's Corporation
+26,C.BA,Citigroup Inc.
+27,RB.L,Reckitt Benckiser Group plc
+28,GACA.L,General Accident plc 8 7/8% CUM IRRD PRF GBP1
+29,VOD.L,Vodafone Group Plc
+30,SHP.L,Shire plc
+31,GLEN.L,Glencore Plc
+32,GACB.L,General Accident plc 7 7/8% CUM IRRD PRF GBP1
+33,PRU.L,Prudential plc
+34,LLOY.L,Lloyds Banking Group plc
+35,AXP.BA,American Express Company
+36,REL.L,RELX PLC
+37,LMT.BA,Lockheed Martin Corporation
+38,APBR.BA,Petróleo Brasileiro S.A. - Petrobras
+39,CRGR.MI,Banca Carige S.p.A. - Cassa di Risparmio di Genova e Imperia
+40,0Z4S.L,Tencent Holdings Limited
+41,STD.BA,"Banco Santander, S.A."
+42,CCL.L,Carnival plc
+43,NG.L,National Grid plc
+44,MEL.L,Mitsubishi Electric Corporation
+45,VALE.BA,Vale S.A.
+46,CPG.L,Compass Group PLC
+47,QCOM.BA,QUALCOMM Incorporated
+48,1S4.SG,Steris Plc
+49,BARC.L,Barclays PLC
+50,RBS.L,The Royal Bank of Scotland Group plc
+51,BT-A.L,BT Group plc
+52,GE.BA,General Electric Company
+53,IMB.L,Imperial Brands PLC
+54,AAL.L,Anglo American plc
+55,STAN.L,Standard Chartered PLC
+56,TSCO.L,Tesco PLC
+57,WPY.L,"Worldpay, Inc."
+58,0Q0C.L,Toshiba Corporation
+59,EXPN.L,Experian plc
+60,ABF.L,Associated British Foods plc
+61,TEF.BA,"Telefónica, S.A."
+62,CRH.L,CRH plc
+63,RR.L,Rolls-Royce Holdings plc
+64,BA.L,BAE Systems plc
+65,AV.L,Aviva plc
+66,LSE.L,London Stock Exchange Group plc
+67,LGEN.L,Legal & General Group Plc
+68,SN.L,Smith & Nephew plc
+69,EBAY.BA,eBay Inc.
+70,IAG.L,"International Consolidated Airlines Group, S.A."
+71,SSE.L,SSE plc
+72,WPP.L,WPP plc
+73,YPCUO.BA,YPF Sociedad Anonima 8.75% SNR NTS 04/04/2024 USD1000 'REGS'
+74,REP.BA,"Repsol, S.A."
+75,FERG.L,Ferguson plc
+76,S32.L,South32 Limited
+77,CCH.L,Coca-Cola HBC AG
+78,HL.L,Hargreaves Lansdown plc
+79,WTB.L,Whitbread PLC
+80,RICO.L,"Ricoh Company, Ltd."
+81,0SJQ.L,PAO Severstal
+82,INF.L,Informa plc
+83,BNZL.L,Bunzl plc
+84,MNDI.L,Mondi plc
+85,IHG.L,InterContinental Hotels Group PLC
+86,CNA.L,Centrica plc
+87,ITRK.L,Intertek Group plc
+88,AHT.L,Ashtead Group plc
+89,MRO.L,Melrose Industries PLC
+90,0R2V.L,Apple Inc.
+91,ANTO.L,Antofagasta plc
+92,III.L,3i Group Plc
+93,0QIU.L,Novo Nordisk A/S
+94,PSON.L,Pearson plc
+95,0HD6.L,Alphabet Inc.
+96,ESME.BA,Bodegas Esmeralda S.A.
+97,0RIH.L,Alphabet Inc.
+98,BRBY.L,Burberry Group plc
+99,EVR.L,EVRAZ plc
+100,MSF.F,Microsoft Corporation
+101,SMT.L,Scottish Mortgage Investment Trust plc
+102,TUI.L,TUI AG
+103,MSF.DE,Microsoft Corporation
+104,APC.F,Apple Inc.
+105,APC.DE,Apple Inc.
+106,AV-A.L,Aviva plc 8.75% CUM IRRD PRF GBP1
+107,SDR.L,Schroders plc
+108,SGE.L,The Sage Group plc
+109,SLA.L,Standard Life Aberdeen plc
+110,SDRC.L,Schroders plc
+111,FRES.L,Fresnillo PLC
+112,RRS.L,Randgold Resources Limited
+113,ABEA.F,Alphabet Inc.
+114,ECHA.F,Ecopetrol S.A.
+115,ABEA.F,Alphabet Inc.
+116,GOOG.MI,Alphabet Inc.
+117,LAND.L,Land Securities Group plc
+118,KNM.L,Konami Holdings Corporation
+119,SGRO.L,SEGRO Plc
+120,AMZ.F,"Amazon.com, Inc."
+121,AV-B.L,Aviva plc 8.375% CUM IRRD PRF GBP1
+122,ABEC.DE,Alphabet Inc.
+123,CRDA.L,Croda International Plc
+124,OMU.L,Old Mutual Ltd
+125,AMZ.F,"Amazon.com, Inc."
+126,RTO.L,Rentokil Initial plc
+127,ABG.F,Alphabet Inc.
+128,ABX.BA,Barrick Gold Corporation
+129,PSN.L,Persimmon Plc
+130,DCC.L,DCC plc
+131,SBRY.L,J Sainsbury plc
+132,MCRO.L,Micro Focus International plc
+133,NMC.L,NMC Health Plc
+134,MELI.BA,"MercadoLibre, Inc."
+135,NXT.L,NEXT plc
+136,SMIN.L,Smiths Group plc
+137,BTL.SG,BT Group plc
+138,ADM.L,Admiral Group plc
+139,JMAT.L,Johnson Matthey Plc
+140,MRW.L,Wm Morrison Supermarkets PLC
+141,BLND.L,British Land Company Plc
+142,OCDO.L,Ocado Group plc
+143,UU.L,United Utilities Group PLC
+144,RSA.L,RSA Insurance Group plc
+145,ITV.L,ITV plc
+146,PPB.L,Paddy Power Betfair plc
+147,HLMA.L,Halma plc
+148,SKG.L,Smurfit Kappa Group plc
+149,0R37.L,Berkshire Hathaway Inc.
+150,STJ.L,St. James's Place plc
+151,TS.BA,Tenaris S.A.
+152,BDEV.L,Barratt Developments PLC
+153,HSX.L,Hiscox Ltd
+154,KGF.L,Kingfisher plc
+155,SVT.L,Severn Trent Plc
+156,SPX.L,Spirax-Sarco Engineering plc
+157,TW.L,Taylor Wimpey plc
+158,BKG.L,The Berkeley Group Holdings plc
+159,EZJ.L,easyJet plc
+160,DLG.L,Direct Line Insurance Group plc
+161,HIK.L,Hikma Pharmaceuticals PLC
+162,AUTO.L,Auto Trader Group plc
+163,INVR.L,Investec plc
+164,BRYN.F,Berkshire Hathaway Inc.
+165,BRYN.DE,Berkshire Hathaway Inc.
+166,INVP.L,Investec plc
+167,BRH.F,Berkshire Hathaway Inc.
+168,ACAHJ.PA,Crédit Agricole S.A. 0% BDS
+169,SMDS.L,DS Smith Plc
+170,PHNX.L,Phoenix Group Holdings
+171,MKS.L,Marks and Spencer Group plc
+172,JLT.L,Jardine Lloyd Thompson Group plc
+173,POLY.L,Polymetal International plc
+174,ACAGM.PA,Crédit Agricole S.A. 0% SNR BDS
+175,ACAGP.PA,Crédit Agricole S.A. 0% SNR BDS
+176,0HCI.L,Alibaba Group Holding Limited
+177,GVC.L,GVC Holdings PLC
+178,JE.L,Just Eat plc
+179,0NX2.L,ABB Ltd
+180,0QZI.L,"Facebook, Inc."
+181,RMV.L,Rightmove plc
+182,AVV.L,AVEVA Group plc
+183,0LEA.L,Tencent Holdings Limited
+184,MGGT.L,Meggitt PLC
+185,SSU.SG,"Samsung Electronics Co., Ltd."
+186,BUR.L,Burford Capital Limited
+187,CINE.L,Cineworld Group plc
+188,FCIT.L,Foreign & Colonial Investment Trust PLC
+189,WG.L,John Wood Group PLC
+190,ACAGU.PA,Crédit Agricole S.A. 4.1% SNR BDS 17/04/2024 EUR10000
+191,FB2A.F,"Facebook, Inc."
+192,FB.MI,"Facebook, Inc."
+193,FB2A.DE,"Facebook, Inc."
+194,ACAFR.PA,Crédit Agricole S.A. 4.25% SNR BDS 04/02/2023 EUR1
+195,ACAGO.PA,Crédit Agricole S.A. 4.55% SNR BDS 08/02/2022 EUR1
+196,MERL.L,Merlin Entertainments plc
+197,DLN.L,Derwent London Plc
+198,WEIR.L,The Weir Group PLC
+199,ACAJI.PA,Crédit Agricole S.A. 4.5% SNR BDS 29/09/2021 EUR1
+200,ACAJN.PA,Crédit Agricole S.A. 3.39% BDS 18/10/23 EUR1
+201,ACAFO.PA,Crédit Agricole S.A. 4.2% SNR BDS 28/12/2022 EUR1000
+202,BTG.L,BTG plc
+203,ACAJP.PA,Crédit Agricole S.A. 3.15% SNR BDS 23/12/2023 EUR1
+204,ACAJD.PA,Crédit Agricole S.A. 3.15% SNR BDS 19/07/2023 EUR1
+205,ACAFZ.PA,Crédit Agricole S.A. 4.25% SNR BDS 04/07/2021 EUR1000
+206,TATE.L,Tate & Lyle plc
+207,ACAHM.PA,Crédit Agricole S.A. 3.5% BDS 02/10/2022 EUR1
+208,NNN1.F,Tencent Holdings Limited
+209,ACAJV.PA,Crédit Agricole S.A. 2.9% BDS 07/05/24 EUR1
+210,ACAHQ.PA,Crédit Agricole S.A. 3.15% SNR BDS 29/10/2022 EUR1
+211,NNND.F,Tencent Holdings Limited
+212,ACAJR.PA,Crédit Agricole S.A. 3.03% SNR EMTN 21/02/2024 EUR1
+213,JD.L,JD Sports Fashion plc
+214,ACAJY.PA,Crédit Agricole S.A. 2.75% SNR BDS 20/06/2024 EUR1
+215,ACAHS.PA,Crédit Agricole S.A. 2.8% NTS 27/12/2022 EUR1
+216,CAJAC.PA,Crédit Agricole S.A. 2.75% SNR NTS 17/04/2023 EUR1
+217,BWY.L,Bellway p.l.c.
+218,ACAGW.PA,Crédit Agricole S.A. 4% SNR BDS 29/06/2021 EUR1
+219,AHLA.DE,Alibaba Group Holding Limited
+220,AHLA.F,Alibaba Group Holding Limited
+221,ACAFF.PA,Crédit Agricole S.A.
+222,PNN.L,Pennon Group Plc
+223,0R1M.L,Exxon Mobil Corporation
+224,HCM.L,Hutchison China MediTech Limited
+225,JNJ.F,Johnson & Johnson
+226,RCP.L,RIT Capital Partners plc
+227,ACAKG.PA,Crédit Agricole S.A.
+228,JNJ.F,Johnson & Johnson
+229,ACAKI.PA,Crédit Agricole S.A.
+230,ACAHT.PA,Crédit Agricole S.A.
+231,GFS.L,G4S plc
+232,RSW.L,Renishaw plc
+233,ACAFU.PA,Crédit Agricole S.A.
+234,SSPG.L,SSP Group plc
+235,HSV.L,HomeServe plc
+236,ACAKN.PA,Crédit Agricole S.A. 1
+237,ACAKR.PA,Crédit Agricole S.A. 
+238,ACALS.PA,Crédit Agricole S.A.
+239,ACAKQ.PA,Crédit Agricole S.A.
+240,ACAKP.PA,Crédit Agricole S.A.
+241,ACAKZ.PA,Crédit Agricole S.A.
+242,BME.L,B&M European Value Retail S.A.
+243,ACALM.PA,Crédit Agricole S.A.
+244,ACAKV.PA,Crédit Agricole S.A.
+245,HICL.L,HICL Infrastructure Company Limited
+246,ACALB.PA,Crédit Agricole S.A.
+247,ACALK.PA,Crédit Agricole S.A.
+248,ACALL.PA,Crédit Agricole S.A.
+249,CMC.F,JPMorgan Chase & Co.
+250,ACALT.PA,Crédit Agricole S.A.
+251,CMC.DE,JPMorgan Chase & Co.
+252,0QZ0.L,Visa Inc.
+253,ACALW.PA,Crédit Agricole S.A.
+254,ACALV.PA,Crédit Agricole S.A.
+255,ACALH.PA,Crédit Agricole S.A.
+256,RMG.L,Royal Mail plc
+257,ACALG.PA,Crédit Agricole S.A.
+258,RPC.L,RPC Group Plc
+259,0O87.L,Telefonaktiebolaget LM Ericsson (publ)
+260,AML.L,Aston Martin Lagonda Global Holdings plc
+261,0O86.L,Telefonaktiebolaget LM Ericsson (publ)
+262,CTEC.L,Convatec Group Plc
+263,ICP.L,Intermediate Capital Group plc
+264,0R1W.L,Walmart Inc.
+265,TPK.L,Travis Perkins plc
+266,HMSO.L,Hammerson plc
+267,BEZ.L,Beazley plc
+268,SHB.L,Shaftesbury PLC
+269,CYBG.L,CYBG PLC
+270,SXS.L,Spectris plc
+271,XONA.DE,Exxon Mobil Corporation
+272,XONA.F,Exxon Mobil Corporation
+273,AVST.L,Avast Plc
+274,0R0O.L,UnitedHealth Group Incorporated
+275,HWDN.L,Howden Joinery Group Plc
+276,BAB.L,Babcock International Group PLC
+277,RG2A.F,Public Joint-Stock Company Federal Hydro-Generating Company - RusHydro
+278,3V64.F,Visa Inc.
+279,TECO2.BA,Telecom Argentina S.A.
+280,FEVR.L,Fevertree Drinks Plc
+281,3V64.DE,Visa Inc.
+282,IMI.L,IMI plc
+283,0XXV.L,Atlas Copco AB
+284,ASHM.L,Ashmore Group PLC
+285,0HTP.L,AB Volvo (publ)
+286,SMSD.L,"Samsung Electronics Co., Ltd."
+287,0KZC.L,SPDR S&P 500 ETF TRUST SPDR S&P
+288,SMSN.L,"Samsung Electronics Co., Ltd."
+289,COB.L,Cobham plc
+290,QACL.DU,Barclays Bank PLC 4.75%-FRN T1 PERP EUR10000'EURO T1''REGS
+291,TLW.L,Tullow Oil plc
+292,MDC.L,Mediclinic International plc
+293,KAZ.L,KAZ Minerals PLC
+294,R6C2.F,Royal Dutch Shell plc
+295,ATST.L,Alliance Trust PLC
+296,BC94.L,"Samsung Electronics Co., Ltd."
+297,INPP.L,International Public Partnerships Limited
+298,0GUX.L,Skandinaviska Enskilda Banken AB (publ.)
+299,0R2F.L,Wells Fargo & Company
+300,BBA.L,BBA Aviation plc
+301,INCH.L,Inchcape plc
+302,ECM.L,Electrocomponents plc
+303,R6C.DE,Royal Dutch Shell plc
+304,R6C3.DE,Royal Dutch Shell plc
+305,R6C.F,Royal Dutch Shell plc
+306,WMT.DE,Walmart Inc.
+307,WMT.F,Walmart Inc.
+308,R6C3.F,Royal Dutch Shell plc
+309,R6C1.F,Royal Dutch Shell plc
+310,QLT.L,Quilter plc
+311,NESN.MI,Nestlé S.A.
+312,NESR.F,Nestlé S.A.
+313,UTG.L,The Unite Group plc
+314,NESM.F,Nestlé S.A.
+315,NESR.DE,Nestlé S.A.
+316,NESM.DE,Nestlé S.A.
+317,0R2Q.L,Chevron Corporation
+318,ROR.L,Rotork plc
+319,BVIC.L,Britvic plc
+320,3IN.L,3i Infrastructure plc
+321,PFE.F,Pfizer Inc.
+322,CBG.L,Close Brothers Group plc
+323,PFE.DE,Pfizer Inc.
+324,DPH.L,Dechra Pharmaceuticals PLC
+325,NCB.F,Bank of America Corporation
+326,IGG.L,IG Group Holdings plc
+327,NCB.DE,Bank of America Corporation
+328,ABC.L,Abcam plc
+329,0QQ6.L,Roche Holding AG
+330,DMGT.L,Daily Mail and General Trust plc
+331,UNH.F,UnitedHealth Group Incorporated
+332,ICK.F,Industrial and Commercial Bank of China Limited
+333,CNS.SG,China Steel Corporation
+334,C6T.F,China Construction Bank Corporation
+335,HAS.L,Hays plc
+336,WIZZ.L,Wizz Air Holdings Plc
+337,EMG.L,Man Group plc
+338,0R7R.L,Svenska Handelsbanken AB (publ)
+339,PRG.DE,The Procter & Gamble Company
+340,YPFD.BA,YPF Sociedad Anonima
+341,BAC.DE,Verizon Communications Inc.
+342,BBOX.L,Tritax Big Box REIT plc
+343,CAPC.L,Capital & Counties Properties PLC
+344,PRG.F,The Procter & Gamble Company
+345,PGP.PA,The Procter & Gamble Company
+346,SSU.F,"Samsung Electronics Co., Ltd."
+347,BAC.F,Verizon Communications Inc.
+348,SSUN.F,"Samsung Electronics Co., Ltd."
+349,VCT.L,Victrex plc
+350,ISAT.L,Inmarsat Plc
+351,NWT.DE,Wells Fargo & Company
+352,0R2Z.L,Mastercard Incorporated
+353,NWT.F,Wells Fargo & Company
+354,GPOR.L,Great Portland Estates Plc
+355,SOBA.F,AT&T Inc.
+356,NEX.L,National Express Group PLC
+357,AGK.L,Aggreko Plc
+358,IWG.L,IWG PLC
+359,SOBA.DE,AT&T Inc.
+360,SMWH.L,WH Smith PLC
+361,ROG.MI,Roche Holding AG
+362,RHO5.DE,Roche Holding AG
+363,RHO5.F,Roche Holding AG
+364,RHO.DE,Roche Holding AG
+365,CPI.L,Capita plc
+366,0O77.L,A.P. Møller - Mærsk A/S
+367,RHO.F,Roche Holding AG
+368,CELU.BA,Celulosa Argentina S.A.
+369,INL.F,Intel Corporation
+370,RHO6.F,Roche Holding AG
+371,ASC.L,ASOS Plc
+372,INL.F,Intel Corporation
+373,BOO.L,boohoo group plc
+374,CCC3.F,The Coca-Cola Company
+375,CCC3.DE,The Coca-Cola Company
+376,CHV.DE,Chevron Corporation
+377,RDW.L,Redrow plc
+378,CHV.F,Chevron Corporation
+379,CTM.F,China Mobile Limited
+380,TEM.L,Templeton Emerging Markets Investment Trust
+381,BBYB.L,Balfour Beatty plc
+382,WTAN.L,Witan Investment Trust
+383,SYNC.L,Syncona Limited
+384,NOT.F,Novartis AG
+385,NOTA.F,Novartis AG
+386,BOE.L,The Boeing Company
+387,NOT.DE,Novartis AG
+388,SOPH.L,Sophos Group plc
+389,RHIM.L,RHI Magnesita N.V.
+390,BBY.L,Balfour Beatty plc
+391,TSFA.SG,Taiwan Semiconductor Manufacturing Company Limited
+392,M4I.DE,Mastercard Incorporated
+393,M4I.F,Mastercard Incorporated
+394,TCAP.L,TP ICAP plc
+395,CIS.F,"Cisco Systems, Inc."
+396,CTMA.F,China Mobile Limited
+397,CIS.DE,"Cisco Systems, Inc."
+398,6MK.DE,"Merck & Co., Inc."
+399,GNK.L,Greene King plc
+400,ETO.L,Entertainment One Ltd.
+401,MRK.PA,"Merck & Co., Inc."
+402,QQ.L,QinetiQ Group plc
+403,6MK.F,"Merck & Co., Inc."
+404,MTRO.L,Metro Bank PLC
+405,HDI.F,"The Home Depot, Inc."
+406,BCA.L,BCA Marketplace plc
+407,HDI.DE,"The Home Depot, Inc."
+408,JLG.L,John Laing Group plc
+409,TSFA.F,Taiwan Semiconductor Manufacturing Company Limited
+410,PC6.F,PetroChina Company Limited
+411,SSUN.SG,"Samsung Electronics Co., Ltd."
+412,MNKS.L,Monks Investment Trust
+413,PFC.L,Petrofac Limited
+414,CLDN.L,Caledonia Investments Plc
+415,INTU.L,intu properties plc
+416,VVO.L,Vivo Energy plc
+417,BCO.DE,The Boeing Company
+418,BCO.F,The Boeing Company
+419,TOMA.F,Toyota Motor Corporation
+420,ORC.F,Oracle Corporation
+421,GFTU.L,Grafton Group plc Grafton Units
+422,MLC.L,Millennium & Copthorne Hotels plc
+423,ORC.DE,Oracle Corporation
+424,UDG.L,UDG Healthcare plc
+425,WKP.L,Workspace Group plc
+426,ASCL.L,Ascential plc
+427,TOM.F,Toyota Motor Corporation
+428,HBC1.DE,HSBC Holdings plc
+429,PCT.L,Polar Capital Technology Trust
+430,PZX.F,"Ping An Insurance (Group) Company of China, Ltd."
+431,PLUS.L,Plus500 Ltd.
+432,MONY.L,Moneysupermarket.com Group PLC
+433,DC.L,Dixons Carphone plc
+434,HBC1.F,HSBC Holdings plc
+435,HSB.PA,HSBC Holdings plc
+436,BYG.L,Big Yellow Group Plc
+437,CTP2.F,Comcast Corporation
+438,PAGE.L,PageGroup plc
+439,GGAL.BA,Grupo Financiero Galicia S.A.
+440,PFG.L,Provident Financial plc
+441,0JFF.L,ISHARES S&P 500 ISHARES CORE S&
+442,HBC2.F,HSBC Holdings plc
+443,DRX.L,Drax Group plc
+444,UKW.L,Greencoat UK Wind PLC
+445,DPLM.L,Diploma PLC
+446,WDP.F,The Walt Disney Company
+447,WDP.DE,The Walt Disney Company
+448,MRC.L,Mercantile Investment Trust
+449,MYI.L,Murray International Trust Plc
+450,CTY.L,City of London Ord
+451,6D8.SG,DowDuPont Inc.
+452,CWK.L,Cranswick plc
+453,0R01.L,Citigroup Inc.
+454,EK7.F,Agricultural Bank of China Limited
+455,FGT.L,Finsbury Growth & Income Trust Plc
+456,BOY.L,Bodycote plc
+457,RWS.L,RWS Holdings plc
+458,GNS.L,Genus plc
+459,VSVS.L,Vesuvius plc
+460,RSAB.L,RSA Insurance Group plc 7.375% CUM IRR PRF GBP1
+461,WMH.L,William Hill plc
+462,PEP.DE,"PepsiCo, Inc."
+463,JUP.L,Jupiter Fund Management Plc
+464,TALK.L,TalkTalk Telecom Group PLC
+465,PEP.F,"PepsiCo, Inc."
+466,TRIG.L,The Renewables Infrastructure Group Limited
+467,AGR.L,Assura Plc
+468,W8V.F,Bank of China Limited
+469,CEY.L,Centamin plc
+470,GRG.L,Greggs plc
+471,0NXN.L,Unilever N.V.
+472,MOHF.F,LVMH Moët Hennessy Louis Vuitton S.E.
+473,UNI3.DE,Unilever N.V.
+474,UNI3.F,Unilever N.V.
+475,UNA.MI,Unilever N.V.
+476,0VL8.L,The Toronto-Dominion Bank
+477,CSP.L,Countryside Properties PLC
+478,TRVC.DE,Citigroup Inc.
+479,ERM.L,Euromoney Institutional Investor PLC
+480,UNIN.F,Unilever N.V.
+481,RAT.L,Rathbone Brothers Plc
+482,LVMH.MI,LVMH Moët Hennessy Louis Vuitton S.E.
+483,KOS.L,Kosmos Energy Ltd.
+484,LMP.L,LondonMetric Property Plc
+485,UNIN.DE,Unilever N.V.
+486,0Y6X.L,Medtronic plc
+487,GNC.L,Greencore Group plc
+488,MOH.F,LVMH Moët Hennessy Louis Vuitton S.E.
+489,MOH.DE,LVMH Moët Hennessy Louis Vuitton S.E.
+490,MC.PA,LVMH Moët Hennessy Louis Vuitton S.E.
+491,WWH.L,Worldwide Healthcare
+492,SPD.L,Sports Direct International plc
+493,PTEC.L,Playtech plc
+494,0RJI.L,Anheuser-Busch InBev SA/NV
+495,SIR.L,Secure Income REIT Plc
+496,AMGO.L,Amigo Holdings PLC
+497,GLO.L,ContourGlobal plc
+498,TOTA.F,TOTAL S.A.
+499,UNVA.F,Unilever PLC
+500,SYNT.L,Synthomer plc
+501,HSTG.L,Hastings Group Holdings plc
+502,TOTB.F,TOTAL S.A.
+503,TTA.L,TOTAL S.A.
+504,FP.PA,TOTAL S.A.
+505,UNVB.F,Unilever PLC
+506,TOT.MI,TOTAL S.A.
+507,TOTB.DE,TOTAL S.A.
+508,IPO.L,IP Group Plc
+509,0NVC.L,Danske Bank A/S
+510,LRE.L,Lancashire Holdings Limited
+511,MDO.F,McDonald's Corporation
+512,EDIN.L,Edinburgh Investment Trust Plc
+513,FXPO.L,Ferrexpo Plc
+514,1NBA.DE,Anheuser-Busch InBev SA/NV
+515,ESUR.L,esure Group plc
+516,1NBA.F,Anheuser-Busch InBev SA/NV
+517,37G1.F,Guaranty Trust Bank Plc
+518,MDO.DE,McDonald's Corporation
+519,TRY.L,TR Property Investment Trust
+520,SCT.L,Softcat plc
+521,PC6A.F,PetroChina Company Limited
+522,SAGA.L,Saga plc
+523,BVS.L,Bovis Homes Group PLC
+524,TRVC.F,Citigroup Inc.
+525,DTG.L,Dart Group PLC
+526,COA.L,Coats Group plc
+527,6GAA.F,Grupo Aval Acciones Y Valores S.A.
+528,OR.PA,L'Oréal S.A.
+529,SAFE.L,Safestore Holdings plc
+530,JDW.L,J D Wetherspoon plc
+531,LOR.F,L'Oréal S.A.
+532,0QYI.L,"Netflix, Inc."
+533,LOR.DE,L'Oréal S.A.
+534,BSU.SG,BP p.l.c.
+535,OR.MI,L'Oréal S.A.
+536,BPE5.F,BP p.l.c.
+537,CCC.L,Computacenter plc
+538,SLL.SG,Standard Life Aberdeen plc
+539,BPE5.DE,BP p.l.c.
+540,BPE.F,BP p.l.c.
+541,TEP.L,Telecom Plus PLC
+542,4AB.F,AbbVie Inc.
+543,BHP.F,BHP Group Limited
+544,BHP1.F,BHP Group Limited
+545,0AI4.L,Carlsberg A/S
+546,GCP.L,GCP Infrastructure Investments Limited
+547,SRP.L,Serco Group plc
+548,UKCM.L,UK COMMERCIAL PROPERTY REIT LIM
+549,BPE.DE,BP p.l.c.
+550,0ICQ.L,DowDuPont Inc.
+551,0YXG.L,Broadcom Inc.
+552,MAB.L,Mitchells & Butlers plc
+553,0QZ6.L,"NIKE, Inc."
+554,2M6.DE,Medtronic plc
+555,HVPE.L,HarbourVest Global Private Equity Ltd.
+556,SAPA.F,SAP SE
+557,PIN.L,Pantheon International PLC
+558,DOM.L,Domino's Pizza Group plc
+559,2M6.F,Medtronic plc
+560,SAP.MI,SAP SE
+561,SAP.F,SAP SE
+562,SAP.DE,SAP SE
+563,DNLM.L,Dunelm Group plc
+564,ABL.DE,Abbott Laboratories
+565,ELM.L,Elementis plc
+566,ABL.F,Abbott Laboratories
+567,ASL.L,Aberforth Smaller Companies Trust Plc
+568,JMG.L,JPMorgan Emerging Markets Ord
+569,AMG.DE,Amgen Inc.
+570,0R2E.L,Union Pacific Corporation
+571,AMG.F,Amgen Inc.
+572,FCPT.L,F&C Commercial Property Trust Limited
+573,PAG.L,Paragon Banking Group PLC
+574,HON.L,Honeywell International Inc.
+575,0QYJ.L,"salesforce.com, inc."
+576,0R9U.L,"PayPal Holdings, Inc."
+577,BREE.L,Breedon Group plc
+578,0R2N.L,United Technologies Corporation
+579,FGP.L,Firstgroup plc
+580,VEIL.L,Vietnam Enterprise Investments Limited
+581,SXX.L,Sirius Minerals Plc
+582,0Y0Y.L,Accenture plc
+583,NFLX.MI,"Netflix, Inc."
+584,CLIN.L,Clinigen Group Plc
+585,0OAW.L,Marine Harvest ASA
+586,BIL1.F,BHP Group Plc
+587,NOVA.DE,Novo Nordisk A/S
+588,BIL.F,BHP Group Plc
+589,NOVC.F,Novo Nordisk A/S
+590,BIL.DE,BHP Group Plc
+591,BMA.BA,Banco Macro S.A.
+592,BNKR.L,Bankers Investment Trust Plc
+593,NFC.F,"Netflix, Inc."
+594,NOVA.F,Novo Nordisk A/S
+595,SNW2.F,Sanofi
+596,NFC.DE,"Netflix, Inc."
+597,4XS.F,Express Scripts Holding Company
+598,SVS.L,Savills plc
+599,NKE.F,"NIKE, Inc."
+600,MMM.F,3M Company
+601,LKOD.L,PJSC LUKOIL
+602,ULE.L,Ultra Electronics Holdings plc
+603,NKE.DE,"NIKE, Inc."
+604,4I1.F,Philip Morris International Inc.
+605,SANF.MI,Sanofi
+606,DJAN.L,Daejan Holdings Plc
+607,SNW.DE,Sanofi
+608,SNW.F,Sanofi
+609,SAN.PA,Sanofi
+610,0R31.L,"Altria Group, Inc."
+611,MMM.DE,3M Company
+612,RIGD.L,Reliance Industries Limited
+613,ENOG.L,Energean Oil & Gas plc
+614,LLY.DE,Eli Lilly and Company
+615,0YSU.L,Epiroc AB (publ)
+616,GAW.L,Games Workshop Group PLC
+617,HILS.L,Hill & Smith Holdings PLC
+618,IHP.L,IntegraFin Holdings plc
+619,SONA.F,Sony Corporation09/08/22 EUR100
+620,LLY.F,Eli Lilly and Company
+621,0YSV.L,Epiroc AB (publ)
+622,PNL.L,Personal Assets Trust
+623,BAG.L,A.G. BARR p.l.c.
+624,FSJ.L,James Fisher and Sons plc
+625,JHD.L,James Halstead plc
+626,LLY.PA,Eli Lilly and Company
+627,ADB.F,Adobe Inc.
+628,MSLH.L,Marshalls plc
+629,IBM.F,International Business Machines Corporation
+630,CLI.L,CLS Holdings plc
+631,IBM.DE,International Business Machines Corporation
+632,FCH.L,Funding Circle Holdings Limited
+633,PZC.L,PZ Cussons Plc
+634,BBGI.L,BBGI Sicav S.A.
+635,ESNT.L,Essentra plc
+636,RSE.L,Riverstone Energy Limited
+637,GRI.L,Grainger plc
+638,SMP.L,St. Modwen Properties PLC
+639,0KCK.L,Stora Enso Oyj
+640,JAM.L,JPMorgan American Investment Trust
+641,JUST.L,Just Group Plc
+642,1YD.F,Broadcom Inc.
+643,TGSU2.BA,Transportadora de Gas del Sur S.A.
+644,BRW.L,Brewin Dolphin Holdings PLC
+645,UTC1.DE,United Technologies Corporation
+646,FRAN.BA,BBVA Banco Francés S.A.
+647,UNP.F,Union Pacific Corporation
+648,ZEG.F,AstraZeneca PLC
+649,FOO.F,"salesforce.com, inc."
+650,7A2.F,AIA Group Limited
+651,FEV.L,Fidelity European Values Ord
+652,HOC.L,Hochschild Mining plc
+653,RLI.F,Reliance Industries Limited
+654,FDM.L,FDM Group (Holdings) plc
+655,BVXB.MU,Itaú Unibanco Holding S.A.
+656,UTC1.F,United Technologies Corporation
+657,ZEGA.F,AstraZeneca PLC
+658,TIFS.L,TI Fluid Systems plc
+659,ZEG.DE,AstraZeneca PLC
+660,2PP.DE,"PayPal Holdings, Inc."
+661,BAKK.L,Bakkavor Group plc
+662,RYC.F,Royal Bank of Canada
+663,ALD.F,Honeywell International Inc.
+664,INDV.L,Indivior PLC
+665,EIG.L,Ei Group plc
+666,OSB.L,OneSavings Bank Plc
+667,2PP.F,"PayPal Holdings, Inc."
+668,CNE.L,Cairn Energy PLC
+669,0R1F.L,Bristol-Myers Squibb Company
+670,IBST.L,Ibstock plc
+671,GS7.DE,GlaxoSmithKline plc
+672,SSON.L,Smithson Investment Trust PLC
+673,GS7.F,GlaxoSmithKline plc
+674,PHP.L,Primary Health Properties Plc
+675,CRST.L,Crest Nicholson Holdings plc
+676,PHM7.F,"Altria Group, Inc."
+677,SNN.L,Sanne Group plc
+678,GS7A.F,GlaxoSmithKline plc
+679,0R3E.L,Lockheed Martin Corporation
+680,PHM7.DE,"Altria Group, Inc."
+681,PAMP.BA,Pampa Energía S.A.
+682,SIE.F,Siemens Aktiengesellschaft
+683,TDB.F,The Toronto-Dominion Bank
+684,SIE.DE,Siemens Aktiengesellschaft
+685,SIE.MI,Siemens Aktiengesellschaft
+686,JEO.L,Jupiter European Opportunities Trust PLC
+687,SNR.L,Senior plc
+688,SIEB.F,Siemens Aktiengesellschaft
+689,0NNR.L,Lundin Petroleum AB (publ)
+690,CRA1.F,Rio Tinto Limited
+691,CSA.F,Accenture plc
+692,SGC.L,Stagecoach Group plc
+693,NXWB.F,"Twenty-First Century Fox, Inc."
+694,GAMA.L,Gamma Communications plc
+695,GSS.L,Genesis Emerging Markets Fund
+696,SONA.F,Sony Corporation
+697,NWXA.F,"Twenty-First Century Fox, Inc."
+698,DAL.L,Dalata Hotel Group plc
+699,HFG.L,Hilton Food Group plc
+700,TBCG.L,TBC Bank Group PLC
+701,TMPL.L,Temple Bar Investment Trust Plc
+702,HUR.L,Hurricane Energy plc
+703,IBM.L,International Business Machines Corporation
+704,BRIO6.BA,Banco Santander Rio S.A.
+705,ACA.L,Acacia Mining plc
+706,CWW.F,Commonwealth Bank of Australia
+707,ITX.MI,"Industria de Diseño Textil, S.A."
+708,GUI.F,Diageo plc
+709,TN8.F,Thermo Fisher Scientific Inc.
+710,HTG.L,Hunting plc
+711,GUIA.F,Diageo plc
+712,CHU.F,China Petroleum & Chemical Corporation
+713,GUI.DE,Diageo plc
+714,CHUA.F,China Petroleum & Chemical Corporation
+715,0P6O.L,Volkswagen AG
+716,BGSC.L,F&C Global Smaller Companies Plc
+717,BRIO.BA,Banco Santander Rio S.A.
+718,BTEM.L,British Empire Trust plc
+719,NNWN.SG,Naspers Limited
+720,DGE.PA,Diageo plc
+721,LIN.DE,Linde plc
+722,LIN.F,Linde plc
+723,EQN.L,Equiniti Group plc
+724,CVS.F,CVS Health Corporation
+725,HRI.L,Herald Investment Trust
+726,CTO.F,Costco Wholesale Corporation
+727,0M2B.L,Linde plc
+728,0LSZ.L,"Walgreens Boots Alliance, Inc."
+729,ALV.MI,Allianz SE
+730,ALV.F,Allianz SE
+731,PRSM.L,Blue Prism Group plc
+732,MCS.L,McCarthy & Stone plc
+733,ALVA.F,Allianz SE
+734,ALV.DE,Allianz SE
+735,TII.F,Texas Instruments Incorporated
+736,M4B.F,"China Merchants Bank Co., Ltd."
+737,JII.L,JPMorgan Indian Investment Trust
+738,PLI.L,Perpetual Income and Growth Investment Trust Plc
+739,NNW.F,Naspers Limited
+740,0QYU.L,Morgan Stanley
+741,DTEA.DE,Deutsche Telekom AG
+742,NVD.DE,NVIDIA Corporation
+743,DTEA.F,Deutsche Telekom AG
+744,AEC1.DE,American Express Company
+745,AEC1.F,American Express Company
+746,VOW.DE,Volkswagen AG
+747,0R08.L,"United Parcel Service, Inc."
+748,HDFA.F,HDFC Bank Limited
+749,VOW3.F,Volkswagen AG
+750,VOW3.MI,Volkswagen AG
+751,VOW3.DE,Volkswagen AG
+752,DTE.DE,Deutsche Telekom AG
+753,GILD.MI,"Gilead Sciences, Inc."
+754,DTE.MI,Deutsche Telekom AG
+755,VOWB.F,Volkswagen AG
+756,DTE.F,Deutsche Telekom AG
+757,VOWA.F,Volkswagen AG
+758,GIS.DE,"Gilead Sciences, Inc."
+759,VOW.F,Volkswagen AG
+760,0HEU.L,American Tower Corporation (REIT)
+761,FP3.F,"NextEra Energy, Inc."
+762,APAX.L,Apax Global Alpha Limited
+763,NVD.F,NVIDIA Corporation
+764,MGAM.L,Morgan Advanced Materials plc
+765,SPT.L,Spirent Communications plc
+766,RTN.L,The Restaurant Group plc
+767,GIS.F,"Gilead Sciences, Inc."
+768,IXD1.F,"Industria de Diseño Textil, S.A."
+769,CLF.F,China Life Insurance Company Limited
+770,0QZA.L,ConocoPhillips
+771,BRM.DE,Bristol-Myers Squibb Company
+772,BRM.F,Bristol-Myers Squibb Company
+773,12D.F,Dell Technologies Inc.
+774,PPH.L,PPHE Hotel Group Limited
+775,DATA.L,GlobalData Plc
+776,PJX.F,Petróleo Brasileiro S.A. - Petrobras
+777,NTT.F,Nippon Telegraph and Telephone Corporation
+778,SEPL.L,Seplat Petroleum Development Company Plc
+779,SBRE.L,Sabre Insurance Group plc
+780,UPAB.F,"United Parcel Service, Inc."
+781,GOG.L,The Go-Ahead Group plc
+782,CHL.F,China Life Insurance Company Limited
+783,PJXB.F,Petróleo Brasileiro S.A. - Petrobras
+784,RIO1.F,Rio Tinto plc
+785,RIOA.F,Rio Tinto plc
+786,SOLG.L,SolGold plc
+787,CNPAP.PA,CNP Assurances SA VAR UNDATED NTS EUR1000
+788,RIO1.DE,Rio Tinto plc
+789,PJXA.F,Petróleo Brasileiro S.A. - Petrobras
+790,MCNA.F,"NTT DOCOMO, INC."
+791,SRB.F,Starbucks Corporation
+792,MCN.F,"NTT DOCOMO, INC."
+793,SDP.L,Schroder Asia Pacific Fund
+794,TED.L,Ted Baker Plc
+795,SRB.DE,Starbucks Corporation
+796,PCE1.F,Booking Holdings Inc.
+797,SBUX.MI,Starbucks Corporation
+798,SAMI.BA,S.A. San Miguel A.G.I.C.I. y F.
+799,PJXC.F,Petróleo Brasileiro S.A. - Petrobras
+800,HGT.L,HgCapital Trust Plc
+801,CQD.F,"Charter Communications, Inc."
+802,NLV.F,Nippon Telegraph and Telephone Corporation
+803,GFRD.L,Galliford Try plc
+804,BMTA.F,British American Tobacco p.l.c.
+805,WPCT.L,Woodford Patient Capital Trust plc
+806,EFM.L,Edinburgh Dragon Trust Plc
+807,SHI.L,SIG plc
+808,LOM.F,Lockheed Martin Corporation
+809,PLP.L,Polypipe Group plc
+810,LOM.DE,Lockheed Martin Corporation
+811,SANT.MI,"Banco Santander, S.A."
+812,ROSN.L,Public Joint Stock Company Rosneft Oil Company
+813,BGEO.L,Bank of Georgia Group PLC
+814,SFT.F,SoftBank Group Corp.
+815,BMT.DE,British American Tobacco p.l.c.
+816,BMT.F,British American Tobacco p.l.c.
+817,GBG.L,GB Group plc
+818,OTV2.L,Octopus Titan VCT Plc
+819,0HR2.L,CME Group Inc.
+820,NRR.L,NewRiver REIT plc
+821,NESF.L,NextEnergy Solar Fund Limited
+822,KWS.L,Keywords Studios PLC
+823,BSD2.F,"Banco Santander, S.A."
+824,BSD2.DE,"Banco Santander, S.A."
+825,UB5.F,U.S. Bancorp
+826,AIR.F,Airbus SE
+827,BSDK.F,"Banco Santander, S.A."
+828,AIR.PA,Airbus SE
+829,AIR.DE,Airbus SE
+830,DCG.L,Dairy Crest Group plc
+831,888.L,888 Holdings plc
+832,0R3G.L,"The Goldman Sachs Group, Inc."
+833,DNQ.F,Equinor ASA
+834,LWDB.L,Law Debenture Corporation
+835,CAT1.F,Caterpillar Inc.
+836,CAT1.DE,Caterpillar Inc.
+837,SFTU.F,SoftBank Group Corp.
+838,YNGA.L,"Young & Co.'s Brewery, P.L.C."
+839,A0T.F,American Tower Corporation (REIT)
+840,BGFD.L,Baillie Gifford Japan Trust PLC
+841,LWE.F,"Lowe's Companies, Inc."
+842,SBER.L,Sberbank of Russia
+843,0L6P.L,"Simon Property Group, Inc."
+844,DNQA.F,Equinor ASA
+845,YNGN.L,"Young & Co.'s Brewery, P.L.C."
+846,JFJ.L,JPMorgan Japanese Investment Trust
+847,0R19.L,"Becton, Dickinson and Company"
+848,SRE.L,Sirius Real Estate Limited
+849,ASML.MI,ASML Holding N.V.
+850,DIGS.L,GCP Student Living PLC
+851,VOF.L,VinaCapital Vietnam Opportunity Fund Limited
+852,P2P.L,P2P GLOBAL INVESTMENTS PLC
+853,DAP.F,Danaher Corporation
+854,FSV.L,Fidelity Special Values Ord
+855,0YIK.L,INVESCO QQQ TRUST SERIES 1 INVE
+856,CKN.L,Clarkson PLC
+857,DGOC.L,Diversified Gas & Oil PLC
+858,QCI.F,QUALCOMM Incorporated
+859,CVLC.F,Vale S.A.
+860,SOI.L,Schroder Oriental Income Fund Limited
+861,W8A.F,"Walgreens Boots Alliance, Inc."
+862,NC2B.F,CNOOC Limited
+863,TXAR.BA,Ternium Argentina S.A.
+864,QCI.DE,QUALCOMM Incorporated
+865,DWD.DE,Morgan Stanley
+866,DIO.F,Christian Dior SE
+867,CDI.PA,Christian Dior SE
+868,YCP.F,ConocoPhillips
+869,DWD.F,Morgan Stanley
+870,0HBT.L,Skanska AB (publ)
+871,0VQD.L,Chubb Limited
+872,FSFL.L,Foresight Solar Fund plc
+873,CVLB.F,Vale S.A.
+874,SMS.L,Smart Metering Systems plc
+875,AO.L,AO World plc
+876,SCIN.L,Scottish Investment Trust PLC
+877,PGR.L,Phoenix Global Resources plc
+878,APGN.L,Applegreen plc
+879,BRWM.L,BlackRock World Mining Trust plc
+880,VCP.L,Victoria plc
+881,MARS.L,Marston's PLC
+882,RNK.L,The Rank Group Plc
+883,MX4A.F,CME Group Inc.
+884,ASME.DE,ASML Holding N.V.
+885,YCP.DE,ConocoPhillips
+886,MIRG.BA,Mirgor S.A.C.I.F.I.A.
+887,PETS.L,Pets at Home Group Plc
+888,ASME.F,ASML Holding N.V.
+889,0LMP.L,VANGUARD EMERGING MARKETS STOCK
+890,ASMF.F,ASML Holding N.V.
+891,CARD.L,Card Factory plc
+892,BAYN.DE,Bayer Aktiengesellschaft
+893,BAY.MI,Bayer Aktiengesellschaft
+894,0HL1.L,"Baidu, Inc."
+895,NC2A.F,CNOOC Limited
+896,EMIS.L,EMIS Group plc
+897,BAYN.F,Bayer Aktiengesellschaft
+898,ICGT.L,ICG Enterprise Trust Ord
+899,HSL.L,Henderson Smaller Companies Investment Trust
+900,ESP.L,Empiric Student Property PLC
+901,AMS.L,Advanced Medical Solutions Group plc
+902,0JRV.L,The Kraft Heinz Company
+903,MFZ.F,"Mitsubishi UFJ Financial Group, Inc."
+904,GNE.PA,General Electric Company
+905,MFZA.SG,"Mitsubishi UFJ Financial Group, Inc."
+906,FPM.L,Faroe Petroleum plc
+907,BRSC.L,BlackRock Smaller Companies Trust
+908,GEC.F,General Electric Company
+909,GEC.DE,General Electric Company
+910,CRW.L,Craneware plc
+911,A58.F,"Anthem, Inc."
+912,BAYA.F,Bayer Aktiengesellschaft
+913,FDP.L,First Derivatives plc
+914,OJS1.F,Public Joint Stock Company Rosneft Oil Company
+915,CCFS.L,Charter Court Financial Services Group plc
+916,0R2L.L,"T-Mobile US, Inc."
+917,GOS.DE,"The Goldman Sachs Group, Inc."
+918,MTA.SG,ArcelorMittal
+919,BKN.F,The Bank of Nova Scotia
+920,BASF.MI,BASF SE
+921,BAYA.DE,Bayer Aktiengesellschaft
+922,BZF1.F,"VMware, Inc."
+923,GROW.L,Draper Esprit plc
+924,BAS.DE,BASF SE
+925,BASA.DE,BASF SE
+926,BAS.F,BASF SE
+927,BFA.L,BASF SE
+928,0R0X.L,"Tesla, Inc."
+929,GOS.F,"The Goldman Sachs Group, Inc."
+930,PEYS.L,PRINCESS PRIVATE EQUITY HOLDING
+931,0LQQ.L,Vodafone Group Plc
+932,PAY.L,PayPoint plc
+933,BRE.F,Banco Bradesco S.A.
+934,STOB.L,Stobart Group Limited
+935,D2MN.F,Duke Energy Corporation
+936,BASA.F,BASF SE
+937,SON1.F,Sony Corporation
+938,SCL.L,Schlumberger Limited
+939,SON1.F,Sony Corporation
+940,TPOS.L,THIRD POINT OFFSHORE INVESTORS
+941,RDI.L,RDI REIT P.L.C.
+942,SBNC.F,Sberbank of Russia
+943,AMNA.F,Ambev S.A.
+944,SQI.F,"Simon Property Group, Inc."
+945,0R0W.L,Express Scripts Holding Company
+946,0L60.L,Shire plc
+947,KEE.F,Keyence Corporation
+948,VTC.L,The Vitec Group plc
+949,JESC.L,JPMorgan European Smaller Companies Trust Plc
+950,OGZD.L,Public Joint Stock Company Gazprom
+951,NBPE.L,NB Private Equity Partners Limited
+952,WBC.F,Westpac Banking Corporation
+953,WBCC.F,Westpac Banking Corporation
+954,ENL.F,Enel SpA
+955,BREC.F,Banco Bradesco S.A.
+956,0IIH.L,Kering SA
+957,NBPS.L,NB PRIVATE EQUITY PARTNERS LIMI
+958,NBPP.L,NB Private Equity Partners Limited
+959,ENL.DE,Enel SpA
+960,JLEN.L,John Laing Environmental Assets Group Limited
+961,ENEL.MI,Enel SpA
+962,ENLA.F,Enel SpA
+963,BMN.L,Bushveld Minerals Limited
+964,REDD.L,Redde plc
+965,FOUR.L,4imprint Group plc
+966,BOX.F,"Becton, Dickinson and Company"
+967,NICL.L,Nichols plc
+968,NCC.L,NCC Group plc
+969,KTF.F,"Mondelez International, Inc."
+970,NTG.L,Northgate plc
+971,BLQA.F,"BlackRock, Inc."
+972,0NXX.L,Daimler AG
+973,ENI1.F,Eni S.p.A.
+974,WJG.L,Watkin Jones Plc
+975,KER.MI,Kering SA
+976,ALUA.BA,Aluar Aluminio Argentino S.A.I.C.
+977,NVTK.L,PAO NOVATEK
+978,IDP.DE,Biogen Inc.
+979,LTG.L,Learning Technologies Group plc
+980,CEPU.BA,Central Puerto S.A.
+981,EN3.F,Enbridge Inc.
+982,IDP.F,Biogen Inc.
+983,AEX.F,Chubb Limited
+984,OXIG.L,Oxford Instruments plc
+985,SYK.F,Stryker Corporation
+986,PPX.F,Kering SA
+987,PPX.DE,Kering SA
+988,KER.PA,Kering SA
+989,BGHS.L,BOUSSARD & GAVAUDAN HOLDING LIM
+990,0HQY.L,Cigna Corporation
+991,DAI.MI,Daimler AG
+992,0MCJ.L,Svenska Cellulosa Aktiebolaget SCA (publ)
+993,CSJA.F,CSL Limited
+994,SLPE.L,Standard Life Private Equity Trust
+995,DAI.DE,Daimler AG
+996,B1C.F,"Baidu, Inc."
+997,DAI.F,Daimler AG
+998,IQE.L,IQE plc
+999,ENI.MI,Eni S.p.A.
+1000,HMI.F,Hermès International Société en commandite par actions
+1001,HFD.L,Halfords Group plc
+1002,KNOS.L,Kainos Group plc
+1003,BNP.F,BNP Paribas SA
+1004,BNP.MI,BNP Paribas SA
+1005,BIFF.L,Biffa plc
+1006,BNPH.F,BNP Paribas SA
+1007,RMS.PA,Hermès International Société en commandite par actions
+1008,ENT.DE,Eni S.p.A.
+1009,CSJ.F,CSL Limited
+1010,BNP.PA,BNP Paribas SA
+1011,BNP.DE,BNP Paribas SA
+1012,ENI.F,Eni S.p.A.
+1013,CLAK.PA,Crédit Lyonnais S.A. 0% EMTN 13/07/2019 EUR100
+1014,FSTA.L,"Fuller, Smith & Turner P.L.C."
+1015,3RB.DE,Reckitt Benckiser Group plc
+1016,DIP.F,KDDI Corporation
+1017,SCAM.L,Scottish American Investment Company Plc
+1018,PRTC.L,PureTech Health plc
+1019,3RB.F,Reckitt Benckiser Group plc
+1020,3RBB.F,Reckitt Benckiser Group plc
+1021,TOT.L,Total Produce plc
+1022,ELLA.L,Ecclesiastical Insurance Office plc
+1023,MRCH.L,The Merchants Trust Plc
+1024,ADP.F,"Automatic Data Processing, Inc."
+1025,0Y7T.L,Allergan plc
+1026,BMWB.F,Bayerische Motoren Werke Aktiengesellschaft
+1027,C4C.F,"Bank of Communications Co., Ltd."
+1028,CSN.L,Chesnara plc
+1029,MUT.L,Murray Income Trust Plc
+1030,TM5.F,"T-Mobile US, Inc."
+1031,PRSR.L,The PRS REIT plc
+1032,CVSG.L,CVS Group plc
+1033,AEX.SG,Chubb Limited
+1034,VODI.F,Vodafone Group Plc
+1035,CY2.F,Canadian National Railway Company
+1036,ASAI.L,ASA International Group PLC
+1037,JPJ.L,JPJ Group plc
+1038,0KU4.L,Raytheon Company
+1039,TL0.DE,"Tesla, Inc."
+1040,SCPA.L,Scapa Group plc
+1041,UEM.L,Utilico Emerging Markets Limited
+1042,TSLA.MI,"Tesla, Inc."
+1043,PMO.L,Premier Oil plc
+1044,TL0.F,"Tesla, Inc."
+1045,MGNS.L,Morgan Sindall Group plc
+1046,BMW.F,Bayerische Motoren Werke Aktiengesellschaft
+1047,0R2P.L,Deere & Company
+1048,EPD.F,Enterprise Products Partners L.P.
+1049,BMW.MI,Bayerische Motoren Werke Aktiengesellschaft
+1050,VEC.L,Vectura Group plc
+1051,KHNZ.DE,The Kraft Heinz Company
+1052,SWG.F,The Charles Schwab Corporation
+1053,MFZA.F,"Mitsubishi UFJ Financial Group, Inc."
+1054,0IUC.L,General Dynamics Corporation
+1055,OTB.L,On the Beach Group plc
+1056,0HAR.L,AXA SA
+1057,BMW3.F,Bayerische Motoren Werke Aktiengesellschaft
+1058,BMW.DE,Bayerische Motoren Werke Aktiengesellschaft
+1059,0J8Z.L,"Illumina, Inc."
+1060,KHNZ.F,The Kraft Heinz Company
+1061,0H2Z.L,Fastighets AB Balder (publ)
+1062,TYMN.L,Tyman plc
+1063,EL.MI,EssilorLuxottica Société anonyme
+1064,FR7H.SG,"Fast Retailing Co., Ltd."
+1065,BMW3.DE,Bayerische Motoren Werke Aktiengesellschaft
+1066,EL.PA,EssilorLuxottica Société anonyme
+1067,ESL.F,EssilorLuxottica Société anonyme
+1068,PURE.L,PureCircle Limited
+1069,BGS.L,Baillie Gifford Shin Nippon
+1070,FR7.F,"Fast Retailing Co., Ltd."
+1071,TJX.F,"The TJX Companies, Inc."
+1072,PNP.F,"The PNC Financial Services Group, Inc."
+1073,CPA.F,Colgate-Palmolive Company
+1074,S7E.F,Shire plc
+1075,SP2.F,Shire plc
+1076,CPA.DE,Colgate-Palmolive Company
+1077,BVXB.F,Itaú Unibanco Holding S.A.
+1078,CREI.L,Custodian REIT Plc
+1079,AI.PA,L'Air Liquide S.A.
+1080,SAF.MI,Safran SA
+1081,HNK1.F,Heineken N.V.
+1082,EO5.F,"EOG Resources, Inc."
+1083,HNK2.F,Heineken N.V.
+1084,PCTN.L,Picton Property Income Limited
+1085,0K92.L,Northrop Grumman Corporation
+1086,HGM.L,Highland Gold Mining Limited
+1087,IEM.L,Impax Environmental Markets Trust Plc
+1088,SLB.PA,Schlumberger Limited
+1089,IUI1.F,"Intuitive Surgical, Inc."
+1090,0R0E.L,General Motors Company
+1091,AIL.DE,L'Air Liquide S.A.
+1092,AIL.F,L'Air Liquide S.A.
+1093,HNK1.DE,Heineken N.V.
+1094,SCL.F,Schlumberger Limited
+1095,8GCA.F,Glencore Plc
+1096,AXA.MI,AXA SA
+1097,0QYA.L,Celgene Corporation
+1098,AXA.F,AXA SA
+1099,0IJN.L,Exelon Corporation
+1100,AXA.DE,AXA SA
+1101,BSIF.L,Bluefield Solar Income Fund Ltd.
+1102,CXR.SG,CSX Corporation
+1103,CS.PA,AXA SA
+1104,AXAA.F,AXA SA
+1105,TNE2.SG,"Telefónica, S.A."
+1106,0JLK.L,ISHARES CORE MSCI EMERGING MARK
+1107,IBE1.F,"Iberdrola, S.A."
+1108,IGR.L,IG Design Group plc
+1109,N1O.F,PAO NOVATEK
+1110,CHG.L,Chemring Group PLC
+1111,PURP.L,Purplebricks Group plc
+1112,8GC.F,Glencore Plc
+1113,SDL.L,SDL plc
+1114,GPATR.PA,Groupama Assurances Mutuelles
+1115,ITE.L,ITE Group plc
+1116,OXB.L,Oxford BioMedica plc
+1117,IPF.L,International Personal Finance plc
+1118,0J1R.L,"HCA Healthcare, Inc."
+1119,ANB1.F,Australia and New Zealand Banking Group Limited
+1120,GAZ.DE,Public Joint Stock Company Gazprom
+1121,TCG.L,Thomas Cook Group plc
+1122,INDI.L,Indus Gas Limited
+1123,POLR.L,Polar Capital Holdings plc
+1124,GENL.L,Genel Energy plc
+1125,GAZ.F,Public Joint Stock Company Gazprom
+1126,ANB.F,Australia and New Zealand Banking Group Limited
+1127,FORT.L,Forterra plc
+1128,CVH.BA,Cablevisión Holding S.A.
+1129,DOD.F,"Dominion Energy, Inc."
+1130,SAF.PA,Safran SA
+1131,DLAR.L,De La Rue plc
+1132,SEJ1.F,Safran SA
+1133,EWI.L,Edinburgh Worldwide Investment Trust Plc
+1134,0JTM.L,The Estée Lauder Companies Inc.
+1135,AA.L,AA plc
+1136,ITU.F,Intuit Inc.
+1137,EDN.BA,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima
+1138,0R2M.L,"Regeneron Pharmaceuticals, Inc."
+1139,8GM.F,General Motors Company
+1140,YOU.L,YouGov plc
+1141,ATT.L,Allianz Technology Trust Plc
+1142,E2F.F,Electricité de France S.A.
+1143,JSG.L,Johnson Service Group PLC
+1144,LXI.L,LXI REIT plc
+1145,HFEL.L,Henderson Far East Income Limited
+1146,DCO.DE,Deere & Company
+1147,8GM.DE,General Motors Company
+1148,SPI.L,Spire Healthcare Group plc
+1149,0KOD.L,"Prologis, Inc."
+1150,THRL.L,Target Healthcare REIT Limited
+1151,MNZS.L,John Menzies plc
+1152,E2F.DE,Electricité de France S.A.
+1153,STCK.L,Stock Spirits Group PLC
+1154,XMFA.F,"Sumitomo Mitsui Financial Group, Inc."
+1155,DCO.F,Deere & Company
+1156,XPP.L,XP Power Limited
+1157,XMF.F,"Sumitomo Mitsui Financial Group, Inc."
+1158,OCN.L,Ocean Wilsons Holdings Limited
+1159,SLS.L,Standard Life UK Smaller Companies Trust Plc
+1160,CXR.F,CSX Corporation
+1161,MV9L.F,"América Móvil, S.A.B. de C.V."
+1162,MTO.L,Mitie Group plc
+1163,MRKC.SG,MERCK Kommanditgesellschaft auf Aktien
+1164,EDF.PA,Electricité de France S.A.
+1165,BHIU.L,BMO UK HIGH INCOME TRUST PLC UN
+1166,OPC.DE,Occidental Petroleum Corporation
+1167,MV9.F,"América Móvil, S.A.B. de C.V."
+1168,MRK.F,MERCK Kommanditgesellschaft auf Aktien
+1169,MIDW.L,Midwich Group Plc
+1170,MRK.DE,MERCK Kommanditgesellschaft auf Aktien
+1171,MRK.MI,MERCK Kommanditgesellschaft auf Aktien
+1172,LLD.F,Lloyds Banking Group plc
+1173,HDMA.F,"Honda Motor Co., Ltd."
+1174,BRFI.L,BlackRock Frontiers Investment Trust Plc
+1175,BSN.F,Danone SA
+1176,SOT.F,The Southern Company
+1177,PRU.F,Prudential plc
+1178,GDX.F,General Dynamics Corporation
+1179,BHMG.L,BH Macro Limited
+1180,NFC.L,Next Fifteen Communications Group plc
+1181,JTC.L,JTC PLC
+1182,PRU2.F,Prudential plc
+1183,BSX.F,Boston Scientific Corporation
+1184,RST.L,Restore plc
+1185,BN.PA,Danone SA
+1186,BSN.DE,Danone SA
+1187,DG.PA,VINCI SA
+1188,1JP.F,"Japan Post Holdings Co., Ltd."
+1189,HDM.F,"Honda Motor Co., Ltd."
+1190,TRG.L,TR European Growth Trust
+1191,LLD.DE,Lloyds Banking Group plc
+1192,OPC.F,Occidental Petroleum Corporation
+1193,CG3.DE,Celgene Corporation
+1194,DNN.MI,Danone SA
+1195,SQU.F,VINCI SA
+1196,CGN.F,Cigna Corporation
+1197,CPF.F,CITIC Limited
+1198,0JG6.L,ISHARES S&P MIDCAP 400 INDEX FU
+1199,IKF.F,China Shenhua Energy Company Limited
+1200,8CW.F,Crown Castle International Corp. (REIT)
+1201,BN9.F,The Bank of New York Mellon Corporation
+1202,HEN3.F,Henkel AG & Co. KGaA
+1203,INNA.DE,ING Groep N.V.
+1204,CLAL.PA,Crédit Lyonnais S.A. 4.4% BDS 13/07/2021 EUR1
+1205,FUTR.L,Future PLC
+1206,BZG2.F,PT Bank Central Asia Tbk
+1207,CG3.F,Celgene Corporation
+1208,HEN3.DE,Henkel AG & Co. KGaA
+1209,RTN1.F,Raytheon Company
+1210,NAL.F,National Australia Bank Limited
+1211,MZ8A.F,"Mizuho Financial Group, Inc."
+1212,DFS.L,DFS Furniture plc
+1213,CGEO.L,Georgia Capital PLC
+1214,ELAA.F,The Estée Lauder Companies Inc.
+1215,A60.F,Allergan plc
+1216,HEN1.SG,Henkel AG & Co. KGaA
+1217,0IFX.L,Electronic Arts Inc.
+1218,JETI.L,JPMorgan European Investment Trust Income Pool
+1219,TEF.MI,"Telefónica, S.A."
+1220,HEN.DE,Henkel AG & Co. KGaA
+1221,HEN3.MI,Henkel AG & Co. KGaA
+1222,RWA.L,Robert Walters plc
+1223,RICA.L,Ruffer Investment Company Limited
+1224,HEN.F,Henkel AG & Co. KGaA
+1225,HENE.SG,Henkel AG & Co. KGaA
+1226,PEO.F,Exelon Corporation
+1227,LLD2.F,Lloyds Banking Group plc
+1228,JATA.F,Japan Tobacco Inc.
+1229,ACSO.L,accesso Technology Group plc
+1230,HSTN.L,Hansteen Holdings PLC
+1231,SM3.F,Suncor Energy Inc.
+1232,NAS.L,North Atlantic Smaller Companies
+1233,TDE.L,"Telefónica, S.A."
+1234,0UB.F,UBS Group AG
+1235,0JYA.L,Marathon Petroleum Corporation
+1236,GKP.L,Gulf Keystone Petroleum Limited
+1237,TNE2.F,"Telefónica, S.A."
+1238,ZFI1.F,Zurich Insurance Group AG
+1239,TNE5.DE,"Telefónica, S.A."
+1240,ERCA.F,Telefonaktiebolaget LM Ericsson (publ)
+1241,JAT.F,Japan Tobacco Inc.
+1242,ZFIN.F,Zurich Insurance Group AG
+1243,TNE5.F,"Telefónica, S.A."
+1244,MCP.SG,LVMH Moët Hennessy Louis Vuitton S.E.
+1245,RI.PA,Pernod Ricard SA
+1246,PER.F,Pernod Ricard SA
+1247,ZFIN.DE,Zurich Insurance Group AG
+1248,FTE.F,Orange S.A.
+1249,FTE.DE,Orange S.A.
+1250,PMTA.F,PTC Inc.
+1251,HLCL.L,Helical plc
+1252,0JGN.L,ISHARES RUSSELL 2000 ETF ISHARE
+1253,ORA.PA,Orange S.A.
+1254,UANC.L,Urban&Civic plc
+1255,FTE1.F,Orange S.A.
+1256,AVON.L,Avon Rubber p.l.c.
+1257,KIE.L,Kier Group plc
+1258,JCH.L,JPMorgan Claverhouse Investment Trust Plc
+1259,ILU.F,"Illumina, Inc."
+1260,AJB.L,AJ Bell PLC
+1261,VP.L,Vp plc
+1262,MBI.F,Mitsubishi Corporation
+1263,FDX.F,FedEx Corporation
+1264,ADIG.L,Aberdeen Diversified Income & Growth Plc
+1265,DEVL.F,DBS Group Holdings Ltd
+1266,HEAD.L,Headlam Group plc
+1267,NTH.F,Northrop Grumman Corporation
+1268,HSB.F,Hang Seng Bank Limited
+1269,ORA.MI,Orange S.A.
+1270,ADS.MI,adidas AG
+1271,ADS1.SG,adidas AG
+1272,CSRT.L,Consort Medical plc
+1273,ECJ.F,Ecolab Inc.
+1274,ADS.DE,adidas AG
+1275,ESL.L,Eddie Stobart Logistics plc
+1276,JPGI.L,JPMorgan Global Growth & Income Investment Trust
+1277,LUK.F,PJSC LUKOIL
+1278,MPE.L,M.P. Evans Group plc
+1279,0PMJ.L,Siemens Healthineers AG
+1280,SHL.DE,Siemens Healthineers AG
+1281,ADS.F,adidas AG
+1282,SDRY.L,Superdry Plc
+1283,BZZ.F,Bank of Montreal
+1284,SHL.F,Siemens Healthineers AG
+1285,CLAG.PA,Crédit Lyonnais S.A. 4.15% SNR BDS 19/04/2019 EUR1
+1286,SHL1.F,Siemens Healthineers AG
+1287,IC2.F,"Intercontinental Exchange, Inc."
+1288,INNA.F,ING Groep N.V.
+1289,HWG.L,Harworth Group plc
+1290,DBSA.F,Banco Santander (Brasil) S.A.
+1291,0QDX.L,AB Sagax (publ)
+1292,0QZ4.L,"Delta Air Lines, Inc."
+1293,JZCZ.L,JZ CAPITAL PARTNERS LIMITED ZER
+1294,FDX.DE,FedEx Corporation
+1295,CAML.L,Central Asia Metals plc
+1296,SBID.L,State Bank of India
+1297,2BH.MU,"HCA Healthcare, Inc."
+1298,LOOK.L,Lookers plc
+1299,INN1.F,ING Groep N.V.
+1300,0JYW.L,"Marriott International, Inc."
+1301,MTVW.L,Mountview Estates P.L.C.
+1302,SGT.F,"Seattle Genetics, Inc."
+1303,MER.L,Mears Group plc
+1304,JZCP.L,JZ Capital Partners Limited
+1305,STHR.L,SThree plc
+1306,PTOG.F,PTT Public Company Limited
+1307,0R2T.L,"Micron Technology, Inc."
+1308,MHL.F,S&P Global Inc.
+1309,LIN.MI,Linde Aktiengesellschaft
+1310,LNA.DE,Linde Aktiengesellschaft
+1311,SHG.F,Sun Hung Kai Properties Limited
+1312,LNA.F,Linde Aktiengesellschaft
+1313,5JP.F,"JAPAN POST BANK Co.,Ltd."
+1314,ZCH.F,China Telecom Corporation Limited
+1315,0HBC.L,Intesa Sanpaolo S.p.A.
+1316,0H8X.L,"Activision Blizzard, Inc."
+1317,OCI.L,Oakley Capital Investments Limited
+1318,2BH.F,"HCA Healthcare, Inc."
+1319,NAIT.L,The North American Income Trust plc
+1320,ILT.F,Illinois Tool Works Inc.
+1321,4GNB.F,"Wal-Mart de México, S.A.B. de C.V."
+1322,ZCHA.F,China Telecom Corporation Limited
+1323,SCH.L,SafeCharge International Group Limited
+1324,IOY.SG,Infosys Limited
+1325,1RH.F,"Recruit Holdings Co., Ltd."
+1326,IOY.F,Infosys Limited
+1327,ABJA.F,ABB Ltd
+1328,NVA3.F,PTT Public Company Limited
+1329,CTH.L,CareTech Holdings PLC
+1330,APH.L,Alliance Pharma plc
+1331,0M18.L,"Workday, Inc."
+1332,RDED.F,RELX PLC
+1333,RDEB.F,RELX PLC
+1334,IOM.L,iomart Group plc
+1335,GYM.L,The Gym Group plc
+1336,POJN.F,"Prologis, Inc."
+1337,JAP.F,Central Japan Railway Company
+1338,VX1.F,Vertex Pharmaceuticals Incorporated
+1339,HNT.L,Huntsworth plc
+1340,SOHO.L,Triple Point Social Housing REIT plc
+1341,ABJ.F,ABB Ltd
+1342,ABJ.DE,ABB Ltd
+1343,LCR.F,Las Vegas Sands Corp.
+1344,KLR.L,Keller Group plc
+1345,0QMU.L,Compagnie Financière Richemont SA
+1346,LWI.L,Lowland Investment Company Plc
+1347,EV1.F,China Evergrande Group
+1348,W7D.F,"Workday, Inc."
+1349,MSN.F,"Marsh & McLennan Companies, Inc."
+1350,ALFA.L,Alfa Financial Software Holdings PLC
+1351,MPN.F,Marathon Petroleum Corporation
+1352,GABI.L,GCP ASSET BACKED INCOME FUND LI
+1353,GLE.L,MJ Gleeson plc
+1354,MZ8A.SG,"Mizuho Financial Group, Inc."
+1355,0RQL.L,Altaba Inc.
+1356,AAS.L,Aberdeen Asian Smaller Companies Investment Trust Plc
+1357,ZOE.F,Zoetis Inc.
+1358,IES.DE,Intesa Sanpaolo S.p.A.
+1359,DIG.L,Dunedin Income Growth Investment Trust PLC
+1360,IES.F,Intesa Sanpaolo S.p.A.
+1361,R66.F,Phillips 66
+1362,2CK.F,CK Hutchison Holdings Limited
+1363,MZ8.F,"Mizuho Financial Group, Inc."
+1364,AAIF.L,Aberdeen Asian Income Fund Limited
+1365,ISP.MI,Intesa Sanpaolo S.p.A.
+1366,RGL.L,Regional REIT Limited
+1367,KMY.F,Kimberly-Clark Corporation
+1368,BIOG.L,Biotech Growth Ord
+1369,0H68.L,Aflac Incorporated
+1370,SLI.L,Standard Life Investments Property Income Trust Limited
+1371,DTY.L,Dignity plc
+1372,CSH.L,Civitas Social Housing PLC
+1373,BHGG.L,BH Global Limited
+1374,RGO.F,"Regeneron Pharmaceuticals, Inc."
+1375,MXF.L,MedicX Fund Limited
+1376,CSHC.L,Civitas Social Housing PLC
+1377,KCOM.L,KCOM Group PLC
+1378,EAT.L,European Assets Trust NV
+1379,NFS.F,Norfolk Southern Corporation
+1380,NSU.F,AUDI AG
+1381,STAF.L,Staffline Group plc
+1382,BOWL.L,Hollywood Bowl Group plc
+1383,PAC.L,Pacific Assets Trust
+1384,0LD8.L,Target Corporation
+1385,S6M.F,"Seven & i Holdings Co., Ltd."
+1386,0P4F.L,Ford Motor Company
+1387,RCDO.L,Ricardo plc
+1388,2CKA.F,CK Hutchison Holdings Limited
+1389,S6MA.F,"Seven & i Holdings Co., Ltd."
+1390,SID.F,State Bank of India
+1391,MWZ.F,"MetLife, Inc."
+1392,BCE1.SG,BCE Inc.
+1393,MPN.SG,Marathon Petroleum Corporation
+1394,BKAA.F,Brookfield Asset Management Inc.
+1395,TRS.L,Tarsus Group plc
+1396,0K8D.L,Nokia Corporation
+1397,AEP.F,"American Electric Power Company, Inc."
+1398,HUM.F,Humana Inc.
+1399,0HFN.L,"Analog Devices, Inc."
+1400,NSU.DE,AUDI AG
+1401,COST.L,Costain Group PLC
+1402,CPP.F,China Overseas Land & Investment Limited
+1403,3CP.F,Xiaomi Corporation
+1404,BOOT.L,Henry Boot PLC
+1405,UWS.F,"Waste Management, Inc."
+1406,EUT.L,The European Investment Trust Plc
+1407,THRG.L,BlackRock Throgmorton Trust plc
+1408,PHTM.L,Photo-Me International plc
+1409,PDL.L,Petra Diamonds Limited
+1410,SND.DE,Schneider Electric S.E.
+1411,XPS.L,XPS Pensions Group Plc
+1412,SU.PA,Schneider Electric S.E.
+1413,BCE1.F,BCE Inc.
+1414,D7C.F,China CITIC Bank Corporation Limited
+1415,0J2E.L,HP Inc.
+1416,GHH.L,Gooch & Housego PLC
+1417,SND.F,Schneider Electric S.E.
+1418,0K6G.L,"NetEase, Inc."
+1419,18V.F,"China Vanke Co., Ltd."
+1420,MAQ.F,"Marriott International, Inc."
+1421,COZ.F,Cognizant Technology Solutions Corporation
+1422,HK2C.F,Hong Kong Exchanges and Clearing Limited
+1423,POH3.F,Carnival plc
+1424,ENQ.L,EnQuest PLC
+1425,AIY.F,"Activision Blizzard, Inc."
+1426,JAI.L,JPMorgan Asian Ord
+1427,MNOD.L,Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel
+1428,BOY.DE,"Banco Bilbao Vizcaya Argentaria, S.A."
+1429,MTE.DE,"Micron Technology, Inc."
+1430,BMK.L,Benchmark Holdings plc
+1431,MTE.F,"Micron Technology, Inc."
+1432,0LK6.L,Valero Energy Corporation
+1433,EMR.F,Emerson Electric Co.
+1434,BVA.L,"Banco Bilbao Vizcaya Argentaria, S.A."
+1435,HOTC.L,Hotel Chocolat Group Plc
+1436,SJ3.F,The Sherwin-Williams Company
+1437,SFOR.L,S4 Capital plc
+1438,0KUI.L,"Red Hat, Inc."
+1439,MKLW.L,A & J Mucklow Group Plc
+1440,POH1.F,Carnival plc
+1441,TRS.F,TransCanada Corporation
+1442,ARW.L,Arrow Global Group PLC
+1443,MU.MI,"Micron Technology, Inc."
+1444,BOY.F,"Banco Bilbao Vizcaya Argentaria, S.A."
+1445,BBVA.DE,"Banco Bilbao Vizcaya Argentaria, S.A."
+1446,WIN.L,Wincanton plc
+1447,9H6.F,Aon plc
+1448,CVC1.F,Carnival Corporation
+1449,PUP.F,Public Storage
+1450,KAO.F,Kao Corporation
+1451,RITN.F,Compagnie Financière Richemont SA
+1452,RIU1.F,Compagnie Financière Richemont SA
+1453,PDG.L,Pendragon PLC
+1454,0KZF.L,SPDR GOLD SHARES SPDR GOLD SHAR
+1455,RPS.L,RPS Group plc
+1456,0JFI.L,ISHARES IBOXX $ INVESTMENT GRAD
+1457,BBVA.F,"Banco Bilbao Vizcaya Argentaria, S.A."
+1458,ATR.L,Schroder Asian Total Return Inv. Company
+1459,PGV.F,The Progressive Corporation
+1460,599A.F,Sands China Ltd.
+1461,TTG.L,TT Electronics plc
+1462,CFX.F,Capital One Financial Corporation
+1463,AINN.F,"American International Group, Inc."
+1464,TFW.L,FW Thorpe Plc
+1465,SQZ.L,Serica Energy plc
+1466,GZFB.F,ENGIE SA
+1467,CMCX.L,CMC Markets Plc
+1468,DP5.F,Keurig Dr Pepper Inc.
+1469,BUT.L,Brunner Investment Trust Plc
+1470,NNGD.F,National Grid plc
+1471,MH6.F,"Tokio Marine Holdings, Inc."
+1472,AINN.DE,"American International Group, Inc."
+1473,ALA.F,Altaba Inc.
+1474,GZF.F,ENGIE SA
+1475,DNO.F,DENSO Corporation
+1476,CAI.F,Canadian Imperial Bank of Commerce
+1477,ALA.DE,Altaba Inc.
+1478,ENGI.MI,ENGIE SA
+1479,CUP.F,"Chugai Pharmaceutical Co., Ltd."
+1480,NIB1.F,Nidec Corporation
+1481,GZF.DE,ENGIE SA
+1482,SIT4.F,Singapore Telecommunications Limited
+1483,OYC.F,"Delta Air Lines, Inc."
+1484,XCI.F,China Unicom (Hong Kong) Limited
+1485,ENGI.PA,ENGIE SA
+1486,OCBA.F,Oversea-Chinese Banking Corporation Limited
+1487,RYS2.F,The Royal Bank of Scotland Group plc
+1488,LCR.DE,Las Vegas Sands Corp.
+1489,PHIA.MI,Koninklijke Philips N.V.
+1490,NNGF.F,National Grid plc
+1491,FDEV.L,Frontier Developments plc
+1492,ATYM.L,Atalaya Mining Plc
+1493,DPW.F,Deutsche Post AG
+1494,DPW.MI,Deutsche Post AG
+1495,0HAI.L,Crédit Agricole S.A.
+1496,ICBA.F,ICICI Bank Limited
+1497,2KD.F,"Kinder Morgan, Inc."
+1498,BOF.F,BOC Hong Kong (Holdings) Limited
+1499,DPW.DE,Deutsche Post AG

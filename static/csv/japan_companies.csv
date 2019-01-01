@@ -1,0 +1,4001 @@
+,Symbol,Name
+0,7203.T,Toyota Motor Corporation
+1,9437.T,"NTT DOCOMO, INC."
+2,9432.T,Nippon Telegraph and Telephone Corporation
+3,9984.T,SoftBank Group Corp.
+4,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+5,6758.T,Sony Corporation
+6,6861.T,Keyence Corporation
+7,9433.T,KDDI Corporation
+8,9434.T,SoftBank Corp.
+9,9983.T,"Fast Retailing Co., Ltd."
+10,6178.T,"Japan Post Holdings Co., Ltd."
+11,7267.T,"Honda Motor Co., Ltd."
+12,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+13,8058.T,Mitsubishi Corporation
+14,2914.T,Japan Tobacco Inc.
+15,9022.T,Central Japan Railway Company
+16,7182.T,"JAPAN POST BANK Co.,Ltd."
+17,6098.T,"Recruit Holdings Co., Ltd."
+18,8411.T,"Mizuho Financial Group, Inc."
+19,3382.T,"Seven & i Holdings Co., Ltd."
+20,4452.T,Kao Corporation
+21,8686.T,Aflac Incorporated
+22,6902.T,DENSO Corporation
+23,8766.T,"Tokio Marine Holdings, Inc."
+24,9020.T,East Japan Railway Company
+25,6594.T,Nidec Corporation
+26,4063.T,"Shin-Etsu Chemical Co., Ltd."
+27,4661.T,"Oriental Land Co., Ltd."
+28,7974.T,"Nintendo Co., Ltd."
+29,4519.T,"Chugai Pharmaceutical Co., Ltd."
+30,7201.T,"Nissan Motor Co., Ltd."
+31,6367.T,"Daikin Industries,Ltd."
+32,7751.T,Canon Inc.
+33,6954.T,Fanuc Corporation
+34,6981.T,"Murata Manufacturing Co., Ltd."
+35,5108.T,Bridgestone Corporation
+36,8031.T,"Mitsui & Co., Ltd."
+37,4502.T,Takeda Pharmaceutical Company Limited
+38,8001.T,ITOCHU Corporation
+39,6501.T,"Hitachi, Ltd."
+40,4911.T,"Shiseido Company, Limited"
+41,4503.T,Astellas Pharma Inc.
+42,6503.T,Mitsubishi Electric Corporation
+43,7269.T,Suzuki Motor Corporation
+44,7741.T,HOYA Corporation
+45,4523.T,"Eisai Co., Ltd."
+46,4578.T,"Otsuka Holdings Co., Ltd."
+47,8801.T,"Mitsui Fudosan Co., Ltd."
+48,8802.T,"Mitsubishi Estate Co., Ltd."
+49,1925.T,"Daiwa House Industry Co.,Ltd."
+50,6752.T,Panasonic Corporation
+51,4543.T,Terumo Corporation
+52,4568.T,"Daiichi Sankyo Company, Limited"
+53,6273.T,SMC Corporation
+54,6301.T,Komatsu Ltd.
+55,8113.T,Unicharm Corporation
+56,8591.T,ORIX Corporation
+57,8035.T,Tokyo Electron Limited
+58,2503.T,"Kirin Holdings Company, Limited"
+59,6971.T,Kyocera Corporation
+60,9735.T,"SECOM CO., LTD."
+61,8750.T,"Dai-ichi Life Holdings, Inc."
+62,2502.T,"Asahi Group Holdings, Ltd."
+63,5020.T,"JXTG Holdings, Inc."
+64,8053.T,Sumitomo Corporation
+65,4507.T,"Shionogi & Co., Ltd."
+66,6326.T,Kubota Corporation
+67,8830.T,"Sumitomo Realty & Development Co., Ltd."
+68,8725.T,"MS&AD Insurance Group Holdings, Inc."
+69,6502.T,Toshiba Corporation
+70,7270.T,Subaru Corporation
+71,8267.T,"Aeon Co., Ltd."
+72,4901.T,FUJIFILM Holdings Corporation
+73,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+74,9613.T,NTT DATA Corporation
+75,5401.T,Nippon Steel & Sumitomo Metal Corporation
+76,8421.T,Shinkin Central Bank
+77,6201.T,Toyota Industries Corporation
+78,3407.T,Asahi Kasei Corporation
+79,9843.T,"Nitori Holdings Co., Ltd."
+80,2587.T,Suntory Beverage & Food Limited
+81,7181.T,"Japan Post Insurance Co., Ltd."
+82,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+83,9021.T,West Japan Railway Company
+84,9503.T,"The Kansai Electric Power Company, Incorporated"
+85,7309.T,Shimano Inc.
+86,1605.T,Inpex Corporation
+87,6702.T,Fujitsu Limited
+88,4689.T,Yahoo Japan Corporation
+89,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+90,4324.T,Dentsu Inc.
+91,9201.T,"Japan Airlines Co., Ltd."
+92,8002.T,Marubeni Corporation
+93,8604.T,"Nomura Holdings, Inc."
+94,7011.T,"Mitsubishi Heavy Industries, Ltd."
+95,9202.T,ANA Holdings Inc.
+96,2269.T,"Meiji Holdings Co., Ltd."
+97,3659.T,"NEXON Co., Ltd."
+98,9531.T,"Tokyo Gas Co., Ltd."
+99,2267.T,"Yakult Honsha Co.,Ltd."
+100,7203.T,Toyota Motor Corporation
+101,9437.T,"NTT DOCOMO, INC."
+102,9432.T,Nippon Telegraph and Telephone Corporation
+103,9984.T,SoftBank Group Corp.
+104,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+105,6758.T,Sony Corporation
+106,6861.T,Keyence Corporation
+107,9433.T,KDDI Corporation
+108,9434.T,SoftBank Corp.
+109,9983.T,"Fast Retailing Co., Ltd."
+110,6178.T,"Japan Post Holdings Co., Ltd."
+111,7267.T,"Honda Motor Co., Ltd."
+112,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+113,8058.T,Mitsubishi Corporation
+114,2914.T,Japan Tobacco Inc.
+115,9022.T,Central Japan Railway Company
+116,7182.T,"JAPAN POST BANK Co.,Ltd."
+117,6098.T,"Recruit Holdings Co., Ltd."
+118,8411.T,"Mizuho Financial Group, Inc."
+119,3382.T,"Seven & i Holdings Co., Ltd."
+120,4452.T,Kao Corporation
+121,8686.T,Aflac Incorporated
+122,6902.T,DENSO Corporation
+123,8766.T,"Tokio Marine Holdings, Inc."
+124,9020.T,East Japan Railway Company
+125,6594.T,Nidec Corporation
+126,4063.T,"Shin-Etsu Chemical Co., Ltd."
+127,4661.T,"Oriental Land Co., Ltd."
+128,7974.T,"Nintendo Co., Ltd."
+129,4519.T,"Chugai Pharmaceutical Co., Ltd."
+130,7201.T,"Nissan Motor Co., Ltd."
+131,6367.T,"Daikin Industries,Ltd."
+132,7751.T,Canon Inc.
+133,6954.T,Fanuc Corporation
+134,6981.T,"Murata Manufacturing Co., Ltd."
+135,5108.T,Bridgestone Corporation
+136,8031.T,"Mitsui & Co., Ltd."
+137,4502.T,Takeda Pharmaceutical Company Limited
+138,8001.T,ITOCHU Corporation
+139,6501.T,"Hitachi, Ltd."
+140,4911.T,"Shiseido Company, Limited"
+141,4503.T,Astellas Pharma Inc.
+142,6503.T,Mitsubishi Electric Corporation
+143,7269.T,Suzuki Motor Corporation
+144,7741.T,HOYA Corporation
+145,4523.T,"Eisai Co., Ltd."
+146,4578.T,"Otsuka Holdings Co., Ltd."
+147,8801.T,"Mitsui Fudosan Co., Ltd."
+148,8802.T,"Mitsubishi Estate Co., Ltd."
+149,1925.T,"Daiwa House Industry Co.,Ltd."
+150,6752.T,Panasonic Corporation
+151,4543.T,Terumo Corporation
+152,4568.T,"Daiichi Sankyo Company, Limited"
+153,6273.T,SMC Corporation
+154,6301.T,Komatsu Ltd.
+155,8113.T,Unicharm Corporation
+156,8591.T,ORIX Corporation
+157,8035.T,Tokyo Electron Limited
+158,2503.T,"Kirin Holdings Company, Limited"
+159,6971.T,Kyocera Corporation
+160,9735.T,"SECOM CO., LTD."
+161,8750.T,"Dai-ichi Life Holdings, Inc."
+162,2502.T,"Asahi Group Holdings, Ltd."
+163,5020.T,"JXTG Holdings, Inc."
+164,8053.T,Sumitomo Corporation
+165,4507.T,"Shionogi & Co., Ltd."
+166,6326.T,Kubota Corporation
+167,8830.T,"Sumitomo Realty & Development Co., Ltd."
+168,8725.T,"MS&AD Insurance Group Holdings, Inc."
+169,6502.T,Toshiba Corporation
+170,7270.T,Subaru Corporation
+171,8267.T,"Aeon Co., Ltd."
+172,4901.T,FUJIFILM Holdings Corporation
+173,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+174,9613.T,NTT DATA Corporation
+175,5401.T,Nippon Steel & Sumitomo Metal Corporation
+176,8421.T,Shinkin Central Bank
+177,6201.T,Toyota Industries Corporation
+178,3407.T,Asahi Kasei Corporation
+179,9843.T,"Nitori Holdings Co., Ltd."
+180,2587.T,Suntory Beverage & Food Limited
+181,7181.T,"Japan Post Insurance Co., Ltd."
+182,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+183,9021.T,West Japan Railway Company
+184,9503.T,"The Kansai Electric Power Company, Incorporated"
+185,7309.T,Shimano Inc.
+186,1605.T,Inpex Corporation
+187,6702.T,Fujitsu Limited
+188,4689.T,Yahoo Japan Corporation
+189,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+190,4324.T,Dentsu Inc.
+191,9201.T,"Japan Airlines Co., Ltd."
+192,8002.T,Marubeni Corporation
+193,8604.T,"Nomura Holdings, Inc."
+194,7011.T,"Mitsubishi Heavy Industries, Ltd."
+195,9202.T,ANA Holdings Inc.
+196,2269.T,"Meiji Holdings Co., Ltd."
+197,3659.T,"NEXON Co., Ltd."
+198,9531.T,"Tokyo Gas Co., Ltd."
+199,2267.T,"Yakult Honsha Co.,Ltd."
+200,7203.T,Toyota Motor Corporation
+201,9437.T,"NTT DOCOMO, INC."
+202,9432.T,Nippon Telegraph and Telephone Corporation
+203,9984.T,SoftBank Group Corp.
+204,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+205,6758.T,Sony Corporation
+206,6861.T,Keyence Corporation
+207,9433.T,KDDI Corporation
+208,9434.T,SoftBank Corp.
+209,9983.T,"Fast Retailing Co., Ltd."
+210,6178.T,"Japan Post Holdings Co., Ltd."
+211,7267.T,"Honda Motor Co., Ltd."
+212,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+213,8058.T,Mitsubishi Corporation
+214,2914.T,Japan Tobacco Inc.
+215,9022.T,Central Japan Railway Company
+216,7182.T,"JAPAN POST BANK Co.,Ltd."
+217,6098.T,"Recruit Holdings Co., Ltd."
+218,8411.T,"Mizuho Financial Group, Inc."
+219,3382.T,"Seven & i Holdings Co., Ltd."
+220,4452.T,Kao Corporation
+221,8686.T,Aflac Incorporated
+222,6902.T,DENSO Corporation
+223,8766.T,"Tokio Marine Holdings, Inc."
+224,9020.T,East Japan Railway Company
+225,6594.T,Nidec Corporation
+226,4063.T,"Shin-Etsu Chemical Co., Ltd."
+227,4661.T,"Oriental Land Co., Ltd."
+228,7974.T,"Nintendo Co., Ltd."
+229,4519.T,"Chugai Pharmaceutical Co., Ltd."
+230,7201.T,"Nissan Motor Co., Ltd."
+231,6367.T,"Daikin Industries,Ltd."
+232,7751.T,Canon Inc.
+233,6954.T,Fanuc Corporation
+234,6981.T,"Murata Manufacturing Co., Ltd."
+235,5108.T,Bridgestone Corporation
+236,8031.T,"Mitsui & Co., Ltd."
+237,4502.T,Takeda Pharmaceutical Company Limited
+238,8001.T,ITOCHU Corporation
+239,6501.T,"Hitachi, Ltd."
+240,4911.T,"Shiseido Company, Limited"
+241,4503.T,Astellas Pharma Inc.
+242,6503.T,Mitsubishi Electric Corporation
+243,7269.T,Suzuki Motor Corporation
+244,7741.T,HOYA Corporation
+245,4523.T,"Eisai Co., Ltd."
+246,4578.T,"Otsuka Holdings Co., Ltd."
+247,8801.T,"Mitsui Fudosan Co., Ltd."
+248,8802.T,"Mitsubishi Estate Co., Ltd."
+249,1925.T,"Daiwa House Industry Co.,Ltd."
+250,6752.T,Panasonic Corporation
+251,4543.T,Terumo Corporation
+252,4568.T,"Daiichi Sankyo Company, Limited"
+253,6273.T,SMC Corporation
+254,6301.T,Komatsu Ltd.
+255,8113.T,Unicharm Corporation
+256,8591.T,ORIX Corporation
+257,8035.T,Tokyo Electron Limited
+258,2503.T,"Kirin Holdings Company, Limited"
+259,6971.T,Kyocera Corporation
+260,9735.T,"SECOM CO., LTD."
+261,8750.T,"Dai-ichi Life Holdings, Inc."
+262,2502.T,"Asahi Group Holdings, Ltd."
+263,5020.T,"JXTG Holdings, Inc."
+264,8053.T,Sumitomo Corporation
+265,4507.T,"Shionogi & Co., Ltd."
+266,6326.T,Kubota Corporation
+267,8830.T,"Sumitomo Realty & Development Co., Ltd."
+268,8725.T,"MS&AD Insurance Group Holdings, Inc."
+269,6502.T,Toshiba Corporation
+270,7270.T,Subaru Corporation
+271,8267.T,"Aeon Co., Ltd."
+272,4901.T,FUJIFILM Holdings Corporation
+273,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+274,9613.T,NTT DATA Corporation
+275,5401.T,Nippon Steel & Sumitomo Metal Corporation
+276,8421.T,Shinkin Central Bank
+277,6201.T,Toyota Industries Corporation
+278,3407.T,Asahi Kasei Corporation
+279,9843.T,"Nitori Holdings Co., Ltd."
+280,2587.T,Suntory Beverage & Food Limited
+281,7181.T,"Japan Post Insurance Co., Ltd."
+282,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+283,9021.T,West Japan Railway Company
+284,9503.T,"The Kansai Electric Power Company, Incorporated"
+285,7309.T,Shimano Inc.
+286,1605.T,Inpex Corporation
+287,6702.T,Fujitsu Limited
+288,4689.T,Yahoo Japan Corporation
+289,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+290,4324.T,Dentsu Inc.
+291,9201.T,"Japan Airlines Co., Ltd."
+292,8002.T,Marubeni Corporation
+293,8604.T,"Nomura Holdings, Inc."
+294,7011.T,"Mitsubishi Heavy Industries, Ltd."
+295,9202.T,ANA Holdings Inc.
+296,2269.T,"Meiji Holdings Co., Ltd."
+297,3659.T,"NEXON Co., Ltd."
+298,9531.T,"Tokyo Gas Co., Ltd."
+299,2267.T,"Yakult Honsha Co.,Ltd."
+300,7203.T,Toyota Motor Corporation
+301,9437.T,"NTT DOCOMO, INC."
+302,9432.T,Nippon Telegraph and Telephone Corporation
+303,9984.T,SoftBank Group Corp.
+304,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+305,6758.T,Sony Corporation
+306,6861.T,Keyence Corporation
+307,9433.T,KDDI Corporation
+308,9434.T,SoftBank Corp.
+309,9983.T,"Fast Retailing Co., Ltd."
+310,6178.T,"Japan Post Holdings Co., Ltd."
+311,7267.T,"Honda Motor Co., Ltd."
+312,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+313,8058.T,Mitsubishi Corporation
+314,2914.T,Japan Tobacco Inc.
+315,9022.T,Central Japan Railway Company
+316,7182.T,"JAPAN POST BANK Co.,Ltd."
+317,6098.T,"Recruit Holdings Co., Ltd."
+318,8411.T,"Mizuho Financial Group, Inc."
+319,3382.T,"Seven & i Holdings Co., Ltd."
+320,4452.T,Kao Corporation
+321,8686.T,Aflac Incorporated
+322,6902.T,DENSO Corporation
+323,8766.T,"Tokio Marine Holdings, Inc."
+324,9020.T,East Japan Railway Company
+325,6594.T,Nidec Corporation
+326,4063.T,"Shin-Etsu Chemical Co., Ltd."
+327,4661.T,"Oriental Land Co., Ltd."
+328,7974.T,"Nintendo Co., Ltd."
+329,4519.T,"Chugai Pharmaceutical Co., Ltd."
+330,7201.T,"Nissan Motor Co., Ltd."
+331,6367.T,"Daikin Industries,Ltd."
+332,7751.T,Canon Inc.
+333,6954.T,Fanuc Corporation
+334,6981.T,"Murata Manufacturing Co., Ltd."
+335,5108.T,Bridgestone Corporation
+336,8031.T,"Mitsui & Co., Ltd."
+337,4502.T,Takeda Pharmaceutical Company Limited
+338,8001.T,ITOCHU Corporation
+339,6501.T,"Hitachi, Ltd."
+340,4911.T,"Shiseido Company, Limited"
+341,4503.T,Astellas Pharma Inc.
+342,6503.T,Mitsubishi Electric Corporation
+343,7269.T,Suzuki Motor Corporation
+344,7741.T,HOYA Corporation
+345,4523.T,"Eisai Co., Ltd."
+346,4578.T,"Otsuka Holdings Co., Ltd."
+347,8801.T,"Mitsui Fudosan Co., Ltd."
+348,8802.T,"Mitsubishi Estate Co., Ltd."
+349,1925.T,"Daiwa House Industry Co.,Ltd."
+350,6752.T,Panasonic Corporation
+351,4543.T,Terumo Corporation
+352,4568.T,"Daiichi Sankyo Company, Limited"
+353,6273.T,SMC Corporation
+354,6301.T,Komatsu Ltd.
+355,8113.T,Unicharm Corporation
+356,8591.T,ORIX Corporation
+357,8035.T,Tokyo Electron Limited
+358,2503.T,"Kirin Holdings Company, Limited"
+359,6971.T,Kyocera Corporation
+360,9735.T,"SECOM CO., LTD."
+361,8750.T,"Dai-ichi Life Holdings, Inc."
+362,2502.T,"Asahi Group Holdings, Ltd."
+363,5020.T,"JXTG Holdings, Inc."
+364,8053.T,Sumitomo Corporation
+365,4507.T,"Shionogi & Co., Ltd."
+366,6326.T,Kubota Corporation
+367,8830.T,"Sumitomo Realty & Development Co., Ltd."
+368,8725.T,"MS&AD Insurance Group Holdings, Inc."
+369,6502.T,Toshiba Corporation
+370,7270.T,Subaru Corporation
+371,8267.T,"Aeon Co., Ltd."
+372,4901.T,FUJIFILM Holdings Corporation
+373,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+374,9613.T,NTT DATA Corporation
+375,5401.T,Nippon Steel & Sumitomo Metal Corporation
+376,8421.T,Shinkin Central Bank
+377,6201.T,Toyota Industries Corporation
+378,3407.T,Asahi Kasei Corporation
+379,9843.T,"Nitori Holdings Co., Ltd."
+380,2587.T,Suntory Beverage & Food Limited
+381,7181.T,"Japan Post Insurance Co., Ltd."
+382,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+383,9021.T,West Japan Railway Company
+384,9503.T,"The Kansai Electric Power Company, Incorporated"
+385,7309.T,Shimano Inc.
+386,1605.T,Inpex Corporation
+387,6702.T,Fujitsu Limited
+388,4689.T,Yahoo Japan Corporation
+389,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+390,4324.T,Dentsu Inc.
+391,9201.T,"Japan Airlines Co., Ltd."
+392,8002.T,Marubeni Corporation
+393,8604.T,"Nomura Holdings, Inc."
+394,7011.T,"Mitsubishi Heavy Industries, Ltd."
+395,9202.T,ANA Holdings Inc.
+396,2269.T,"Meiji Holdings Co., Ltd."
+397,3659.T,"NEXON Co., Ltd."
+398,9531.T,"Tokyo Gas Co., Ltd."
+399,2267.T,"Yakult Honsha Co.,Ltd."
+400,7203.T,Toyota Motor Corporation
+401,9437.T,"NTT DOCOMO, INC."
+402,9432.T,Nippon Telegraph and Telephone Corporation
+403,9984.T,SoftBank Group Corp.
+404,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+405,6758.T,Sony Corporation
+406,6861.T,Keyence Corporation
+407,9433.T,KDDI Corporation
+408,9434.T,SoftBank Corp.
+409,9983.T,"Fast Retailing Co., Ltd."
+410,6178.T,"Japan Post Holdings Co., Ltd."
+411,7267.T,"Honda Motor Co., Ltd."
+412,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+413,8058.T,Mitsubishi Corporation
+414,2914.T,Japan Tobacco Inc.
+415,9022.T,Central Japan Railway Company
+416,7182.T,"JAPAN POST BANK Co.,Ltd."
+417,6098.T,"Recruit Holdings Co., Ltd."
+418,8411.T,"Mizuho Financial Group, Inc."
+419,3382.T,"Seven & i Holdings Co., Ltd."
+420,4452.T,Kao Corporation
+421,8686.T,Aflac Incorporated
+422,6902.T,DENSO Corporation
+423,8766.T,"Tokio Marine Holdings, Inc."
+424,9020.T,East Japan Railway Company
+425,6594.T,Nidec Corporation
+426,4063.T,"Shin-Etsu Chemical Co., Ltd."
+427,4661.T,"Oriental Land Co., Ltd."
+428,7974.T,"Nintendo Co., Ltd."
+429,4519.T,"Chugai Pharmaceutical Co., Ltd."
+430,7201.T,"Nissan Motor Co., Ltd."
+431,6367.T,"Daikin Industries,Ltd."
+432,7751.T,Canon Inc.
+433,6954.T,Fanuc Corporation
+434,6981.T,"Murata Manufacturing Co., Ltd."
+435,5108.T,Bridgestone Corporation
+436,8031.T,"Mitsui & Co., Ltd."
+437,4502.T,Takeda Pharmaceutical Company Limited
+438,8001.T,ITOCHU Corporation
+439,6501.T,"Hitachi, Ltd."
+440,4911.T,"Shiseido Company, Limited"
+441,4503.T,Astellas Pharma Inc.
+442,6503.T,Mitsubishi Electric Corporation
+443,7269.T,Suzuki Motor Corporation
+444,7741.T,HOYA Corporation
+445,4523.T,"Eisai Co., Ltd."
+446,4578.T,"Otsuka Holdings Co., Ltd."
+447,8801.T,"Mitsui Fudosan Co., Ltd."
+448,8802.T,"Mitsubishi Estate Co., Ltd."
+449,1925.T,"Daiwa House Industry Co.,Ltd."
+450,6752.T,Panasonic Corporation
+451,4543.T,Terumo Corporation
+452,4568.T,"Daiichi Sankyo Company, Limited"
+453,6273.T,SMC Corporation
+454,6301.T,Komatsu Ltd.
+455,8113.T,Unicharm Corporation
+456,8591.T,ORIX Corporation
+457,8035.T,Tokyo Electron Limited
+458,2503.T,"Kirin Holdings Company, Limited"
+459,6971.T,Kyocera Corporation
+460,9735.T,"SECOM CO., LTD."
+461,8750.T,"Dai-ichi Life Holdings, Inc."
+462,2502.T,"Asahi Group Holdings, Ltd."
+463,5020.T,"JXTG Holdings, Inc."
+464,8053.T,Sumitomo Corporation
+465,4507.T,"Shionogi & Co., Ltd."
+466,6326.T,Kubota Corporation
+467,8830.T,"Sumitomo Realty & Development Co., Ltd."
+468,8725.T,"MS&AD Insurance Group Holdings, Inc."
+469,6502.T,Toshiba Corporation
+470,7270.T,Subaru Corporation
+471,8267.T,"Aeon Co., Ltd."
+472,4901.T,FUJIFILM Holdings Corporation
+473,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+474,9613.T,NTT DATA Corporation
+475,5401.T,Nippon Steel & Sumitomo Metal Corporation
+476,8421.T,Shinkin Central Bank
+477,6201.T,Toyota Industries Corporation
+478,3407.T,Asahi Kasei Corporation
+479,9843.T,"Nitori Holdings Co., Ltd."
+480,2587.T,Suntory Beverage & Food Limited
+481,7181.T,"Japan Post Insurance Co., Ltd."
+482,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+483,9021.T,West Japan Railway Company
+484,9503.T,"The Kansai Electric Power Company, Incorporated"
+485,7309.T,Shimano Inc.
+486,1605.T,Inpex Corporation
+487,6702.T,Fujitsu Limited
+488,4689.T,Yahoo Japan Corporation
+489,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+490,4324.T,Dentsu Inc.
+491,9201.T,"Japan Airlines Co., Ltd."
+492,8002.T,Marubeni Corporation
+493,8604.T,"Nomura Holdings, Inc."
+494,7011.T,"Mitsubishi Heavy Industries, Ltd."
+495,9202.T,ANA Holdings Inc.
+496,2269.T,"Meiji Holdings Co., Ltd."
+497,3659.T,"NEXON Co., Ltd."
+498,9531.T,"Tokyo Gas Co., Ltd."
+499,2267.T,"Yakult Honsha Co.,Ltd."
+500,7203.T,Toyota Motor Corporation
+501,9437.T,"NTT DOCOMO, INC."
+502,9432.T,Nippon Telegraph and Telephone Corporation
+503,9984.T,SoftBank Group Corp.
+504,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+505,6758.T,Sony Corporation
+506,6861.T,Keyence Corporation
+507,9433.T,KDDI Corporation
+508,9434.T,SoftBank Corp.
+509,9983.T,"Fast Retailing Co., Ltd."
+510,6178.T,"Japan Post Holdings Co., Ltd."
+511,7267.T,"Honda Motor Co., Ltd."
+512,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+513,8058.T,Mitsubishi Corporation
+514,2914.T,Japan Tobacco Inc.
+515,9022.T,Central Japan Railway Company
+516,7182.T,"JAPAN POST BANK Co.,Ltd."
+517,6098.T,"Recruit Holdings Co., Ltd."
+518,8411.T,"Mizuho Financial Group, Inc."
+519,3382.T,"Seven & i Holdings Co., Ltd."
+520,4452.T,Kao Corporation
+521,8686.T,Aflac Incorporated
+522,6902.T,DENSO Corporation
+523,8766.T,"Tokio Marine Holdings, Inc."
+524,9020.T,East Japan Railway Company
+525,6594.T,Nidec Corporation
+526,4063.T,"Shin-Etsu Chemical Co., Ltd."
+527,4661.T,"Oriental Land Co., Ltd."
+528,7974.T,"Nintendo Co., Ltd."
+529,4519.T,"Chugai Pharmaceutical Co., Ltd."
+530,7201.T,"Nissan Motor Co., Ltd."
+531,6367.T,"Daikin Industries,Ltd."
+532,7751.T,Canon Inc.
+533,6954.T,Fanuc Corporation
+534,6981.T,"Murata Manufacturing Co., Ltd."
+535,5108.T,Bridgestone Corporation
+536,8031.T,"Mitsui & Co., Ltd."
+537,4502.T,Takeda Pharmaceutical Company Limited
+538,8001.T,ITOCHU Corporation
+539,6501.T,"Hitachi, Ltd."
+540,4911.T,"Shiseido Company, Limited"
+541,4503.T,Astellas Pharma Inc.
+542,6503.T,Mitsubishi Electric Corporation
+543,7269.T,Suzuki Motor Corporation
+544,7741.T,HOYA Corporation
+545,4523.T,"Eisai Co., Ltd."
+546,4578.T,"Otsuka Holdings Co., Ltd."
+547,8801.T,"Mitsui Fudosan Co., Ltd."
+548,8802.T,"Mitsubishi Estate Co., Ltd."
+549,1925.T,"Daiwa House Industry Co.,Ltd."
+550,6752.T,Panasonic Corporation
+551,4543.T,Terumo Corporation
+552,4568.T,"Daiichi Sankyo Company, Limited"
+553,6273.T,SMC Corporation
+554,6301.T,Komatsu Ltd.
+555,8113.T,Unicharm Corporation
+556,8591.T,ORIX Corporation
+557,8035.T,Tokyo Electron Limited
+558,2503.T,"Kirin Holdings Company, Limited"
+559,6971.T,Kyocera Corporation
+560,9735.T,"SECOM CO., LTD."
+561,8750.T,"Dai-ichi Life Holdings, Inc."
+562,2502.T,"Asahi Group Holdings, Ltd."
+563,5020.T,"JXTG Holdings, Inc."
+564,8053.T,Sumitomo Corporation
+565,4507.T,"Shionogi & Co., Ltd."
+566,6326.T,Kubota Corporation
+567,8830.T,"Sumitomo Realty & Development Co., Ltd."
+568,8725.T,"MS&AD Insurance Group Holdings, Inc."
+569,6502.T,Toshiba Corporation
+570,7270.T,Subaru Corporation
+571,8267.T,"Aeon Co., Ltd."
+572,4901.T,FUJIFILM Holdings Corporation
+573,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+574,9613.T,NTT DATA Corporation
+575,5401.T,Nippon Steel & Sumitomo Metal Corporation
+576,8421.T,Shinkin Central Bank
+577,6201.T,Toyota Industries Corporation
+578,3407.T,Asahi Kasei Corporation
+579,9843.T,"Nitori Holdings Co., Ltd."
+580,2587.T,Suntory Beverage & Food Limited
+581,7181.T,"Japan Post Insurance Co., Ltd."
+582,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+583,9021.T,West Japan Railway Company
+584,9503.T,"The Kansai Electric Power Company, Incorporated"
+585,7309.T,Shimano Inc.
+586,1605.T,Inpex Corporation
+587,6702.T,Fujitsu Limited
+588,4689.T,Yahoo Japan Corporation
+589,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+590,4324.T,Dentsu Inc.
+591,9201.T,"Japan Airlines Co., Ltd."
+592,8002.T,Marubeni Corporation
+593,8604.T,"Nomura Holdings, Inc."
+594,7011.T,"Mitsubishi Heavy Industries, Ltd."
+595,9202.T,ANA Holdings Inc.
+596,2269.T,"Meiji Holdings Co., Ltd."
+597,3659.T,"NEXON Co., Ltd."
+598,9531.T,"Tokyo Gas Co., Ltd."
+599,2267.T,"Yakult Honsha Co.,Ltd."
+600,7203.T,Toyota Motor Corporation
+601,9437.T,"NTT DOCOMO, INC."
+602,9432.T,Nippon Telegraph and Telephone Corporation
+603,9984.T,SoftBank Group Corp.
+604,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+605,6758.T,Sony Corporation
+606,6861.T,Keyence Corporation
+607,9433.T,KDDI Corporation
+608,9434.T,SoftBank Corp.
+609,9983.T,"Fast Retailing Co., Ltd."
+610,6178.T,"Japan Post Holdings Co., Ltd."
+611,7267.T,"Honda Motor Co., Ltd."
+612,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+613,8058.T,Mitsubishi Corporation
+614,2914.T,Japan Tobacco Inc.
+615,9022.T,Central Japan Railway Company
+616,7182.T,"JAPAN POST BANK Co.,Ltd."
+617,6098.T,"Recruit Holdings Co., Ltd."
+618,8411.T,"Mizuho Financial Group, Inc."
+619,3382.T,"Seven & i Holdings Co., Ltd."
+620,4452.T,Kao Corporation
+621,8686.T,Aflac Incorporated
+622,6902.T,DENSO Corporation
+623,8766.T,"Tokio Marine Holdings, Inc."
+624,9020.T,East Japan Railway Company
+625,6594.T,Nidec Corporation
+626,4063.T,"Shin-Etsu Chemical Co., Ltd."
+627,4661.T,"Oriental Land Co., Ltd."
+628,7974.T,"Nintendo Co., Ltd."
+629,4519.T,"Chugai Pharmaceutical Co., Ltd."
+630,7201.T,"Nissan Motor Co., Ltd."
+631,6367.T,"Daikin Industries,Ltd."
+632,7751.T,Canon Inc.
+633,6954.T,Fanuc Corporation
+634,6981.T,"Murata Manufacturing Co., Ltd."
+635,5108.T,Bridgestone Corporation
+636,8031.T,"Mitsui & Co., Ltd."
+637,4502.T,Takeda Pharmaceutical Company Limited
+638,8001.T,ITOCHU Corporation
+639,6501.T,"Hitachi, Ltd."
+640,4911.T,"Shiseido Company, Limited"
+641,4503.T,Astellas Pharma Inc.
+642,6503.T,Mitsubishi Electric Corporation
+643,7269.T,Suzuki Motor Corporation
+644,7741.T,HOYA Corporation
+645,4523.T,"Eisai Co., Ltd."
+646,4578.T,"Otsuka Holdings Co., Ltd."
+647,8801.T,"Mitsui Fudosan Co., Ltd."
+648,8802.T,"Mitsubishi Estate Co., Ltd."
+649,1925.T,"Daiwa House Industry Co.,Ltd."
+650,6752.T,Panasonic Corporation
+651,4543.T,Terumo Corporation
+652,4568.T,"Daiichi Sankyo Company, Limited"
+653,6273.T,SMC Corporation
+654,6301.T,Komatsu Ltd.
+655,8113.T,Unicharm Corporation
+656,8591.T,ORIX Corporation
+657,8035.T,Tokyo Electron Limited
+658,2503.T,"Kirin Holdings Company, Limited"
+659,6971.T,Kyocera Corporation
+660,9735.T,"SECOM CO., LTD."
+661,8750.T,"Dai-ichi Life Holdings, Inc."
+662,2502.T,"Asahi Group Holdings, Ltd."
+663,5020.T,"JXTG Holdings, Inc."
+664,8053.T,Sumitomo Corporation
+665,4507.T,"Shionogi & Co., Ltd."
+666,6326.T,Kubota Corporation
+667,8830.T,"Sumitomo Realty & Development Co., Ltd."
+668,8725.T,"MS&AD Insurance Group Holdings, Inc."
+669,6502.T,Toshiba Corporation
+670,7270.T,Subaru Corporation
+671,8267.T,"Aeon Co., Ltd."
+672,4901.T,FUJIFILM Holdings Corporation
+673,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+674,9613.T,NTT DATA Corporation
+675,5401.T,Nippon Steel & Sumitomo Metal Corporation
+676,8421.T,Shinkin Central Bank
+677,6201.T,Toyota Industries Corporation
+678,3407.T,Asahi Kasei Corporation
+679,9843.T,"Nitori Holdings Co., Ltd."
+680,2587.T,Suntory Beverage & Food Limited
+681,7181.T,"Japan Post Insurance Co., Ltd."
+682,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+683,9021.T,West Japan Railway Company
+684,9503.T,"The Kansai Electric Power Company, Incorporated"
+685,7309.T,Shimano Inc.
+686,1605.T,Inpex Corporation
+687,6702.T,Fujitsu Limited
+688,4689.T,Yahoo Japan Corporation
+689,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+690,4324.T,Dentsu Inc.
+691,9201.T,"Japan Airlines Co., Ltd."
+692,8002.T,Marubeni Corporation
+693,8604.T,"Nomura Holdings, Inc."
+694,7011.T,"Mitsubishi Heavy Industries, Ltd."
+695,9202.T,ANA Holdings Inc.
+696,2269.T,"Meiji Holdings Co., Ltd."
+697,3659.T,"NEXON Co., Ltd."
+698,9531.T,"Tokyo Gas Co., Ltd."
+699,2267.T,"Yakult Honsha Co.,Ltd."
+700,7203.T,Toyota Motor Corporation
+701,9437.T,"NTT DOCOMO, INC."
+702,9432.T,Nippon Telegraph and Telephone Corporation
+703,9984.T,SoftBank Group Corp.
+704,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+705,6758.T,Sony Corporation
+706,6861.T,Keyence Corporation
+707,9433.T,KDDI Corporation
+708,9434.T,SoftBank Corp.
+709,9983.T,"Fast Retailing Co., Ltd."
+710,6178.T,"Japan Post Holdings Co., Ltd."
+711,7267.T,"Honda Motor Co., Ltd."
+712,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+713,8058.T,Mitsubishi Corporation
+714,2914.T,Japan Tobacco Inc.
+715,9022.T,Central Japan Railway Company
+716,7182.T,"JAPAN POST BANK Co.,Ltd."
+717,6098.T,"Recruit Holdings Co., Ltd."
+718,8411.T,"Mizuho Financial Group, Inc."
+719,3382.T,"Seven & i Holdings Co., Ltd."
+720,4452.T,Kao Corporation
+721,8686.T,Aflac Incorporated
+722,6902.T,DENSO Corporation
+723,8766.T,"Tokio Marine Holdings, Inc."
+724,9020.T,East Japan Railway Company
+725,6594.T,Nidec Corporation
+726,4063.T,"Shin-Etsu Chemical Co., Ltd."
+727,4661.T,"Oriental Land Co., Ltd."
+728,7974.T,"Nintendo Co., Ltd."
+729,4519.T,"Chugai Pharmaceutical Co., Ltd."
+730,7201.T,"Nissan Motor Co., Ltd."
+731,6367.T,"Daikin Industries,Ltd."
+732,7751.T,Canon Inc.
+733,6954.T,Fanuc Corporation
+734,6981.T,"Murata Manufacturing Co., Ltd."
+735,5108.T,Bridgestone Corporation
+736,8031.T,"Mitsui & Co., Ltd."
+737,4502.T,Takeda Pharmaceutical Company Limited
+738,8001.T,ITOCHU Corporation
+739,6501.T,"Hitachi, Ltd."
+740,4911.T,"Shiseido Company, Limited"
+741,4503.T,Astellas Pharma Inc.
+742,6503.T,Mitsubishi Electric Corporation
+743,7269.T,Suzuki Motor Corporation
+744,7741.T,HOYA Corporation
+745,4523.T,"Eisai Co., Ltd."
+746,4578.T,"Otsuka Holdings Co., Ltd."
+747,8801.T,"Mitsui Fudosan Co., Ltd."
+748,8802.T,"Mitsubishi Estate Co., Ltd."
+749,1925.T,"Daiwa House Industry Co.,Ltd."
+750,6752.T,Panasonic Corporation
+751,4543.T,Terumo Corporation
+752,4568.T,"Daiichi Sankyo Company, Limited"
+753,6273.T,SMC Corporation
+754,6301.T,Komatsu Ltd.
+755,8113.T,Unicharm Corporation
+756,8591.T,ORIX Corporation
+757,8035.T,Tokyo Electron Limited
+758,2503.T,"Kirin Holdings Company, Limited"
+759,6971.T,Kyocera Corporation
+760,9735.T,"SECOM CO., LTD."
+761,8750.T,"Dai-ichi Life Holdings, Inc."
+762,2502.T,"Asahi Group Holdings, Ltd."
+763,5020.T,"JXTG Holdings, Inc."
+764,8053.T,Sumitomo Corporation
+765,4507.T,"Shionogi & Co., Ltd."
+766,6326.T,Kubota Corporation
+767,8830.T,"Sumitomo Realty & Development Co., Ltd."
+768,8725.T,"MS&AD Insurance Group Holdings, Inc."
+769,6502.T,Toshiba Corporation
+770,7270.T,Subaru Corporation
+771,8267.T,"Aeon Co., Ltd."
+772,4901.T,FUJIFILM Holdings Corporation
+773,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+774,9613.T,NTT DATA Corporation
+775,5401.T,Nippon Steel & Sumitomo Metal Corporation
+776,8421.T,Shinkin Central Bank
+777,6201.T,Toyota Industries Corporation
+778,3407.T,Asahi Kasei Corporation
+779,9843.T,"Nitori Holdings Co., Ltd."
+780,2587.T,Suntory Beverage & Food Limited
+781,7181.T,"Japan Post Insurance Co., Ltd."
+782,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+783,9021.T,West Japan Railway Company
+784,9503.T,"The Kansai Electric Power Company, Incorporated"
+785,7309.T,Shimano Inc.
+786,1605.T,Inpex Corporation
+787,6702.T,Fujitsu Limited
+788,4689.T,Yahoo Japan Corporation
+789,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+790,4324.T,Dentsu Inc.
+791,9201.T,"Japan Airlines Co., Ltd."
+792,8002.T,Marubeni Corporation
+793,8604.T,"Nomura Holdings, Inc."
+794,7011.T,"Mitsubishi Heavy Industries, Ltd."
+795,9202.T,ANA Holdings Inc.
+796,2269.T,"Meiji Holdings Co., Ltd."
+797,3659.T,"NEXON Co., Ltd."
+798,9531.T,"Tokyo Gas Co., Ltd."
+799,2267.T,"Yakult Honsha Co.,Ltd."
+800,7203.T,Toyota Motor Corporation
+801,9437.T,"NTT DOCOMO, INC."
+802,9432.T,Nippon Telegraph and Telephone Corporation
+803,9984.T,SoftBank Group Corp.
+804,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+805,6758.T,Sony Corporation
+806,6861.T,Keyence Corporation
+807,9433.T,KDDI Corporation
+808,9434.T,SoftBank Corp.
+809,9983.T,"Fast Retailing Co., Ltd."
+810,6178.T,"Japan Post Holdings Co., Ltd."
+811,7267.T,"Honda Motor Co., Ltd."
+812,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+813,8058.T,Mitsubishi Corporation
+814,2914.T,Japan Tobacco Inc.
+815,9022.T,Central Japan Railway Company
+816,7182.T,"JAPAN POST BANK Co.,Ltd."
+817,6098.T,"Recruit Holdings Co., Ltd."
+818,8411.T,"Mizuho Financial Group, Inc."
+819,3382.T,"Seven & i Holdings Co., Ltd."
+820,4452.T,Kao Corporation
+821,8686.T,Aflac Incorporated
+822,6902.T,DENSO Corporation
+823,8766.T,"Tokio Marine Holdings, Inc."
+824,9020.T,East Japan Railway Company
+825,6594.T,Nidec Corporation
+826,4063.T,"Shin-Etsu Chemical Co., Ltd."
+827,4661.T,"Oriental Land Co., Ltd."
+828,7974.T,"Nintendo Co., Ltd."
+829,4519.T,"Chugai Pharmaceutical Co., Ltd."
+830,7201.T,"Nissan Motor Co., Ltd."
+831,6367.T,"Daikin Industries,Ltd."
+832,7751.T,Canon Inc.
+833,6954.T,Fanuc Corporation
+834,6981.T,"Murata Manufacturing Co., Ltd."
+835,5108.T,Bridgestone Corporation
+836,8031.T,"Mitsui & Co., Ltd."
+837,4502.T,Takeda Pharmaceutical Company Limited
+838,8001.T,ITOCHU Corporation
+839,6501.T,"Hitachi, Ltd."
+840,4911.T,"Shiseido Company, Limited"
+841,4503.T,Astellas Pharma Inc.
+842,6503.T,Mitsubishi Electric Corporation
+843,7269.T,Suzuki Motor Corporation
+844,7741.T,HOYA Corporation
+845,4523.T,"Eisai Co., Ltd."
+846,4578.T,"Otsuka Holdings Co., Ltd."
+847,8801.T,"Mitsui Fudosan Co., Ltd."
+848,8802.T,"Mitsubishi Estate Co., Ltd."
+849,1925.T,"Daiwa House Industry Co.,Ltd."
+850,6752.T,Panasonic Corporation
+851,4543.T,Terumo Corporation
+852,4568.T,"Daiichi Sankyo Company, Limited"
+853,6273.T,SMC Corporation
+854,6301.T,Komatsu Ltd.
+855,8113.T,Unicharm Corporation
+856,8591.T,ORIX Corporation
+857,8035.T,Tokyo Electron Limited
+858,2503.T,"Kirin Holdings Company, Limited"
+859,6971.T,Kyocera Corporation
+860,9735.T,"SECOM CO., LTD."
+861,8750.T,"Dai-ichi Life Holdings, Inc."
+862,2502.T,"Asahi Group Holdings, Ltd."
+863,5020.T,"JXTG Holdings, Inc."
+864,8053.T,Sumitomo Corporation
+865,4507.T,"Shionogi & Co., Ltd."
+866,6326.T,Kubota Corporation
+867,8830.T,"Sumitomo Realty & Development Co., Ltd."
+868,8725.T,"MS&AD Insurance Group Holdings, Inc."
+869,6502.T,Toshiba Corporation
+870,7270.T,Subaru Corporation
+871,8267.T,"Aeon Co., Ltd."
+872,4901.T,FUJIFILM Holdings Corporation
+873,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+874,9613.T,NTT DATA Corporation
+875,5401.T,Nippon Steel & Sumitomo Metal Corporation
+876,8421.T,Shinkin Central Bank
+877,6201.T,Toyota Industries Corporation
+878,3407.T,Asahi Kasei Corporation
+879,9843.T,"Nitori Holdings Co., Ltd."
+880,2587.T,Suntory Beverage & Food Limited
+881,7181.T,"Japan Post Insurance Co., Ltd."
+882,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+883,9021.T,West Japan Railway Company
+884,9503.T,"The Kansai Electric Power Company, Incorporated"
+885,7309.T,Shimano Inc.
+886,1605.T,Inpex Corporation
+887,6702.T,Fujitsu Limited
+888,4689.T,Yahoo Japan Corporation
+889,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+890,4324.T,Dentsu Inc.
+891,9201.T,"Japan Airlines Co., Ltd."
+892,8002.T,Marubeni Corporation
+893,8604.T,"Nomura Holdings, Inc."
+894,7011.T,"Mitsubishi Heavy Industries, Ltd."
+895,9202.T,ANA Holdings Inc.
+896,2269.T,"Meiji Holdings Co., Ltd."
+897,3659.T,"NEXON Co., Ltd."
+898,9531.T,"Tokyo Gas Co., Ltd."
+899,2267.T,"Yakult Honsha Co.,Ltd."
+900,7203.T,Toyota Motor Corporation
+901,9437.T,"NTT DOCOMO, INC."
+902,9432.T,Nippon Telegraph and Telephone Corporation
+903,9984.T,SoftBank Group Corp.
+904,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+905,6758.T,Sony Corporation
+906,6861.T,Keyence Corporation
+907,9433.T,KDDI Corporation
+908,9434.T,SoftBank Corp.
+909,9983.T,"Fast Retailing Co., Ltd."
+910,6178.T,"Japan Post Holdings Co., Ltd."
+911,7267.T,"Honda Motor Co., Ltd."
+912,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+913,8058.T,Mitsubishi Corporation
+914,2914.T,Japan Tobacco Inc.
+915,9022.T,Central Japan Railway Company
+916,7182.T,"JAPAN POST BANK Co.,Ltd."
+917,6098.T,"Recruit Holdings Co., Ltd."
+918,8411.T,"Mizuho Financial Group, Inc."
+919,3382.T,"Seven & i Holdings Co., Ltd."
+920,4452.T,Kao Corporation
+921,8686.T,Aflac Incorporated
+922,6902.T,DENSO Corporation
+923,8766.T,"Tokio Marine Holdings, Inc."
+924,9020.T,East Japan Railway Company
+925,6594.T,Nidec Corporation
+926,4063.T,"Shin-Etsu Chemical Co., Ltd."
+927,4661.T,"Oriental Land Co., Ltd."
+928,7974.T,"Nintendo Co., Ltd."
+929,4519.T,"Chugai Pharmaceutical Co., Ltd."
+930,7201.T,"Nissan Motor Co., Ltd."
+931,6367.T,"Daikin Industries,Ltd."
+932,7751.T,Canon Inc.
+933,6954.T,Fanuc Corporation
+934,6981.T,"Murata Manufacturing Co., Ltd."
+935,5108.T,Bridgestone Corporation
+936,8031.T,"Mitsui & Co., Ltd."
+937,4502.T,Takeda Pharmaceutical Company Limited
+938,8001.T,ITOCHU Corporation
+939,6501.T,"Hitachi, Ltd."
+940,4911.T,"Shiseido Company, Limited"
+941,4503.T,Astellas Pharma Inc.
+942,6503.T,Mitsubishi Electric Corporation
+943,7269.T,Suzuki Motor Corporation
+944,7741.T,HOYA Corporation
+945,4523.T,"Eisai Co., Ltd."
+946,4578.T,"Otsuka Holdings Co., Ltd."
+947,8801.T,"Mitsui Fudosan Co., Ltd."
+948,8802.T,"Mitsubishi Estate Co., Ltd."
+949,1925.T,"Daiwa House Industry Co.,Ltd."
+950,6752.T,Panasonic Corporation
+951,4543.T,Terumo Corporation
+952,4568.T,"Daiichi Sankyo Company, Limited"
+953,6273.T,SMC Corporation
+954,6301.T,Komatsu Ltd.
+955,8113.T,Unicharm Corporation
+956,8591.T,ORIX Corporation
+957,8035.T,Tokyo Electron Limited
+958,2503.T,"Kirin Holdings Company, Limited"
+959,6971.T,Kyocera Corporation
+960,9735.T,"SECOM CO., LTD."
+961,8750.T,"Dai-ichi Life Holdings, Inc."
+962,2502.T,"Asahi Group Holdings, Ltd."
+963,5020.T,"JXTG Holdings, Inc."
+964,8053.T,Sumitomo Corporation
+965,4507.T,"Shionogi & Co., Ltd."
+966,6326.T,Kubota Corporation
+967,8830.T,"Sumitomo Realty & Development Co., Ltd."
+968,8725.T,"MS&AD Insurance Group Holdings, Inc."
+969,6502.T,Toshiba Corporation
+970,7270.T,Subaru Corporation
+971,8267.T,"Aeon Co., Ltd."
+972,4901.T,FUJIFILM Holdings Corporation
+973,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+974,9613.T,NTT DATA Corporation
+975,5401.T,Nippon Steel & Sumitomo Metal Corporation
+976,8421.T,Shinkin Central Bank
+977,6201.T,Toyota Industries Corporation
+978,3407.T,Asahi Kasei Corporation
+979,9843.T,"Nitori Holdings Co., Ltd."
+980,2587.T,Suntory Beverage & Food Limited
+981,7181.T,"Japan Post Insurance Co., Ltd."
+982,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+983,9021.T,West Japan Railway Company
+984,9503.T,"The Kansai Electric Power Company, Incorporated"
+985,7309.T,Shimano Inc.
+986,1605.T,Inpex Corporation
+987,6702.T,Fujitsu Limited
+988,4689.T,Yahoo Japan Corporation
+989,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+990,4324.T,Dentsu Inc.
+991,9201.T,"Japan Airlines Co., Ltd."
+992,8002.T,Marubeni Corporation
+993,8604.T,"Nomura Holdings, Inc."
+994,7011.T,"Mitsubishi Heavy Industries, Ltd."
+995,9202.T,ANA Holdings Inc.
+996,2269.T,"Meiji Holdings Co., Ltd."
+997,3659.T,"NEXON Co., Ltd."
+998,9531.T,"Tokyo Gas Co., Ltd."
+999,2267.T,"Yakult Honsha Co.,Ltd."
+1000,7203.T,Toyota Motor Corporation
+1001,9437.T,"NTT DOCOMO, INC."
+1002,9432.T,Nippon Telegraph and Telephone Corporation
+1003,9984.T,SoftBank Group Corp.
+1004,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1005,6758.T,Sony Corporation
+1006,6861.T,Keyence Corporation
+1007,9433.T,KDDI Corporation
+1008,9434.T,SoftBank Corp.
+1009,9983.T,"Fast Retailing Co., Ltd."
+1010,6178.T,"Japan Post Holdings Co., Ltd."
+1011,7267.T,"Honda Motor Co., Ltd."
+1012,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1013,8058.T,Mitsubishi Corporation
+1014,2914.T,Japan Tobacco Inc.
+1015,9022.T,Central Japan Railway Company
+1016,7182.T,"JAPAN POST BANK Co.,Ltd."
+1017,6098.T,"Recruit Holdings Co., Ltd."
+1018,8411.T,"Mizuho Financial Group, Inc."
+1019,3382.T,"Seven & i Holdings Co., Ltd."
+1020,4452.T,Kao Corporation
+1021,8686.T,Aflac Incorporated
+1022,6902.T,DENSO Corporation
+1023,8766.T,"Tokio Marine Holdings, Inc."
+1024,9020.T,East Japan Railway Company
+1025,6594.T,Nidec Corporation
+1026,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1027,4661.T,"Oriental Land Co., Ltd."
+1028,7974.T,"Nintendo Co., Ltd."
+1029,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1030,7201.T,"Nissan Motor Co., Ltd."
+1031,6367.T,"Daikin Industries,Ltd."
+1032,7751.T,Canon Inc.
+1033,6954.T,Fanuc Corporation
+1034,6981.T,"Murata Manufacturing Co., Ltd."
+1035,5108.T,Bridgestone Corporation
+1036,8031.T,"Mitsui & Co., Ltd."
+1037,4502.T,Takeda Pharmaceutical Company Limited
+1038,8001.T,ITOCHU Corporation
+1039,6501.T,"Hitachi, Ltd."
+1040,4911.T,"Shiseido Company, Limited"
+1041,4503.T,Astellas Pharma Inc.
+1042,6503.T,Mitsubishi Electric Corporation
+1043,7269.T,Suzuki Motor Corporation
+1044,7741.T,HOYA Corporation
+1045,4523.T,"Eisai Co., Ltd."
+1046,4578.T,"Otsuka Holdings Co., Ltd."
+1047,8801.T,"Mitsui Fudosan Co., Ltd."
+1048,8802.T,"Mitsubishi Estate Co., Ltd."
+1049,1925.T,"Daiwa House Industry Co.,Ltd."
+1050,6752.T,Panasonic Corporation
+1051,4543.T,Terumo Corporation
+1052,4568.T,"Daiichi Sankyo Company, Limited"
+1053,6273.T,SMC Corporation
+1054,6301.T,Komatsu Ltd.
+1055,8113.T,Unicharm Corporation
+1056,8591.T,ORIX Corporation
+1057,8035.T,Tokyo Electron Limited
+1058,2503.T,"Kirin Holdings Company, Limited"
+1059,6971.T,Kyocera Corporation
+1060,9735.T,"SECOM CO., LTD."
+1061,8750.T,"Dai-ichi Life Holdings, Inc."
+1062,2502.T,"Asahi Group Holdings, Ltd."
+1063,5020.T,"JXTG Holdings, Inc."
+1064,8053.T,Sumitomo Corporation
+1065,4507.T,"Shionogi & Co., Ltd."
+1066,6326.T,Kubota Corporation
+1067,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1068,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1069,6502.T,Toshiba Corporation
+1070,7270.T,Subaru Corporation
+1071,8267.T,"Aeon Co., Ltd."
+1072,4901.T,FUJIFILM Holdings Corporation
+1073,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1074,9613.T,NTT DATA Corporation
+1075,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1076,8421.T,Shinkin Central Bank
+1077,6201.T,Toyota Industries Corporation
+1078,3407.T,Asahi Kasei Corporation
+1079,9843.T,"Nitori Holdings Co., Ltd."
+1080,2587.T,Suntory Beverage & Food Limited
+1081,7181.T,"Japan Post Insurance Co., Ltd."
+1082,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1083,9021.T,West Japan Railway Company
+1084,9503.T,"The Kansai Electric Power Company, Incorporated"
+1085,7309.T,Shimano Inc.
+1086,1605.T,Inpex Corporation
+1087,6702.T,Fujitsu Limited
+1088,4689.T,Yahoo Japan Corporation
+1089,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1090,4324.T,Dentsu Inc.
+1091,9201.T,"Japan Airlines Co., Ltd."
+1092,8002.T,Marubeni Corporation
+1093,8604.T,"Nomura Holdings, Inc."
+1094,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1095,9202.T,ANA Holdings Inc.
+1096,2269.T,"Meiji Holdings Co., Ltd."
+1097,3659.T,"NEXON Co., Ltd."
+1098,9531.T,"Tokyo Gas Co., Ltd."
+1099,2267.T,"Yakult Honsha Co.,Ltd."
+1100,7203.T,Toyota Motor Corporation
+1101,9437.T,"NTT DOCOMO, INC."
+1102,9432.T,Nippon Telegraph and Telephone Corporation
+1103,9984.T,SoftBank Group Corp.
+1104,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1105,6758.T,Sony Corporation
+1106,6861.T,Keyence Corporation
+1107,9433.T,KDDI Corporation
+1108,9434.T,SoftBank Corp.
+1109,9983.T,"Fast Retailing Co., Ltd."
+1110,6178.T,"Japan Post Holdings Co., Ltd."
+1111,7267.T,"Honda Motor Co., Ltd."
+1112,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1113,8058.T,Mitsubishi Corporation
+1114,2914.T,Japan Tobacco Inc.
+1115,9022.T,Central Japan Railway Company
+1116,7182.T,"JAPAN POST BANK Co.,Ltd."
+1117,6098.T,"Recruit Holdings Co., Ltd."
+1118,8411.T,"Mizuho Financial Group, Inc."
+1119,3382.T,"Seven & i Holdings Co., Ltd."
+1120,4452.T,Kao Corporation
+1121,8686.T,Aflac Incorporated
+1122,6902.T,DENSO Corporation
+1123,8766.T,"Tokio Marine Holdings, Inc."
+1124,9020.T,East Japan Railway Company
+1125,6594.T,Nidec Corporation
+1126,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1127,4661.T,"Oriental Land Co., Ltd."
+1128,7974.T,"Nintendo Co., Ltd."
+1129,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1130,7201.T,"Nissan Motor Co., Ltd."
+1131,6367.T,"Daikin Industries,Ltd."
+1132,7751.T,Canon Inc.
+1133,6954.T,Fanuc Corporation
+1134,6981.T,"Murata Manufacturing Co., Ltd."
+1135,5108.T,Bridgestone Corporation
+1136,8031.T,"Mitsui & Co., Ltd."
+1137,4502.T,Takeda Pharmaceutical Company Limited
+1138,8001.T,ITOCHU Corporation
+1139,6501.T,"Hitachi, Ltd."
+1140,4911.T,"Shiseido Company, Limited"
+1141,4503.T,Astellas Pharma Inc.
+1142,6503.T,Mitsubishi Electric Corporation
+1143,7269.T,Suzuki Motor Corporation
+1144,7741.T,HOYA Corporation
+1145,4523.T,"Eisai Co., Ltd."
+1146,4578.T,"Otsuka Holdings Co., Ltd."
+1147,8801.T,"Mitsui Fudosan Co., Ltd."
+1148,8802.T,"Mitsubishi Estate Co., Ltd."
+1149,1925.T,"Daiwa House Industry Co.,Ltd."
+1150,6752.T,Panasonic Corporation
+1151,4543.T,Terumo Corporation
+1152,4568.T,"Daiichi Sankyo Company, Limited"
+1153,6273.T,SMC Corporation
+1154,6301.T,Komatsu Ltd.
+1155,8113.T,Unicharm Corporation
+1156,8591.T,ORIX Corporation
+1157,8035.T,Tokyo Electron Limited
+1158,2503.T,"Kirin Holdings Company, Limited"
+1159,6971.T,Kyocera Corporation
+1160,9735.T,"SECOM CO., LTD."
+1161,8750.T,"Dai-ichi Life Holdings, Inc."
+1162,2502.T,"Asahi Group Holdings, Ltd."
+1163,5020.T,"JXTG Holdings, Inc."
+1164,8053.T,Sumitomo Corporation
+1165,4507.T,"Shionogi & Co., Ltd."
+1166,6326.T,Kubota Corporation
+1167,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1168,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1169,6502.T,Toshiba Corporation
+1170,7270.T,Subaru Corporation
+1171,8267.T,"Aeon Co., Ltd."
+1172,4901.T,FUJIFILM Holdings Corporation
+1173,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1174,9613.T,NTT DATA Corporation
+1175,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1176,8421.T,Shinkin Central Bank
+1177,6201.T,Toyota Industries Corporation
+1178,3407.T,Asahi Kasei Corporation
+1179,9843.T,"Nitori Holdings Co., Ltd."
+1180,2587.T,Suntory Beverage & Food Limited
+1181,7181.T,"Japan Post Insurance Co., Ltd."
+1182,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1183,9021.T,West Japan Railway Company
+1184,9503.T,"The Kansai Electric Power Company, Incorporated"
+1185,7309.T,Shimano Inc.
+1186,1605.T,Inpex Corporation
+1187,6702.T,Fujitsu Limited
+1188,4689.T,Yahoo Japan Corporation
+1189,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1190,4324.T,Dentsu Inc.
+1191,9201.T,"Japan Airlines Co., Ltd."
+1192,8002.T,Marubeni Corporation
+1193,8604.T,"Nomura Holdings, Inc."
+1194,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1195,9202.T,ANA Holdings Inc.
+1196,2269.T,"Meiji Holdings Co., Ltd."
+1197,3659.T,"NEXON Co., Ltd."
+1198,9531.T,"Tokyo Gas Co., Ltd."
+1199,2267.T,"Yakult Honsha Co.,Ltd."
+1200,7203.T,Toyota Motor Corporation
+1201,9437.T,"NTT DOCOMO, INC."
+1202,9432.T,Nippon Telegraph and Telephone Corporation
+1203,9984.T,SoftBank Group Corp.
+1204,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1205,6758.T,Sony Corporation
+1206,6861.T,Keyence Corporation
+1207,9433.T,KDDI Corporation
+1208,9434.T,SoftBank Corp.
+1209,9983.T,"Fast Retailing Co., Ltd."
+1210,6178.T,"Japan Post Holdings Co., Ltd."
+1211,7267.T,"Honda Motor Co., Ltd."
+1212,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1213,8058.T,Mitsubishi Corporation
+1214,2914.T,Japan Tobacco Inc.
+1215,9022.T,Central Japan Railway Company
+1216,7182.T,"JAPAN POST BANK Co.,Ltd."
+1217,6098.T,"Recruit Holdings Co., Ltd."
+1218,8411.T,"Mizuho Financial Group, Inc."
+1219,3382.T,"Seven & i Holdings Co., Ltd."
+1220,4452.T,Kao Corporation
+1221,8686.T,Aflac Incorporated
+1222,6902.T,DENSO Corporation
+1223,8766.T,"Tokio Marine Holdings, Inc."
+1224,9020.T,East Japan Railway Company
+1225,6594.T,Nidec Corporation
+1226,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1227,4661.T,"Oriental Land Co., Ltd."
+1228,7974.T,"Nintendo Co., Ltd."
+1229,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1230,7201.T,"Nissan Motor Co., Ltd."
+1231,6367.T,"Daikin Industries,Ltd."
+1232,7751.T,Canon Inc.
+1233,6954.T,Fanuc Corporation
+1234,6981.T,"Murata Manufacturing Co., Ltd."
+1235,5108.T,Bridgestone Corporation
+1236,8031.T,"Mitsui & Co., Ltd."
+1237,4502.T,Takeda Pharmaceutical Company Limited
+1238,8001.T,ITOCHU Corporation
+1239,6501.T,"Hitachi, Ltd."
+1240,4911.T,"Shiseido Company, Limited"
+1241,4503.T,Astellas Pharma Inc.
+1242,6503.T,Mitsubishi Electric Corporation
+1243,7269.T,Suzuki Motor Corporation
+1244,7741.T,HOYA Corporation
+1245,4523.T,"Eisai Co., Ltd."
+1246,4578.T,"Otsuka Holdings Co., Ltd."
+1247,8801.T,"Mitsui Fudosan Co., Ltd."
+1248,8802.T,"Mitsubishi Estate Co., Ltd."
+1249,1925.T,"Daiwa House Industry Co.,Ltd."
+1250,6752.T,Panasonic Corporation
+1251,4543.T,Terumo Corporation
+1252,4568.T,"Daiichi Sankyo Company, Limited"
+1253,6273.T,SMC Corporation
+1254,6301.T,Komatsu Ltd.
+1255,8113.T,Unicharm Corporation
+1256,8591.T,ORIX Corporation
+1257,8035.T,Tokyo Electron Limited
+1258,2503.T,"Kirin Holdings Company, Limited"
+1259,6971.T,Kyocera Corporation
+1260,9735.T,"SECOM CO., LTD."
+1261,8750.T,"Dai-ichi Life Holdings, Inc."
+1262,2502.T,"Asahi Group Holdings, Ltd."
+1263,5020.T,"JXTG Holdings, Inc."
+1264,8053.T,Sumitomo Corporation
+1265,4507.T,"Shionogi & Co., Ltd."
+1266,6326.T,Kubota Corporation
+1267,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1268,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1269,6502.T,Toshiba Corporation
+1270,7270.T,Subaru Corporation
+1271,8267.T,"Aeon Co., Ltd."
+1272,4901.T,FUJIFILM Holdings Corporation
+1273,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1274,9613.T,NTT DATA Corporation
+1275,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1276,8421.T,Shinkin Central Bank
+1277,6201.T,Toyota Industries Corporation
+1278,3407.T,Asahi Kasei Corporation
+1279,9843.T,"Nitori Holdings Co., Ltd."
+1280,2587.T,Suntory Beverage & Food Limited
+1281,7181.T,"Japan Post Insurance Co., Ltd."
+1282,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1283,9021.T,West Japan Railway Company
+1284,9503.T,"The Kansai Electric Power Company, Incorporated"
+1285,7309.T,Shimano Inc.
+1286,1605.T,Inpex Corporation
+1287,6702.T,Fujitsu Limited
+1288,4689.T,Yahoo Japan Corporation
+1289,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1290,4324.T,Dentsu Inc.
+1291,9201.T,"Japan Airlines Co., Ltd."
+1292,8002.T,Marubeni Corporation
+1293,8604.T,"Nomura Holdings, Inc."
+1294,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1295,9202.T,ANA Holdings Inc.
+1296,2269.T,"Meiji Holdings Co., Ltd."
+1297,3659.T,"NEXON Co., Ltd."
+1298,9531.T,"Tokyo Gas Co., Ltd."
+1299,2267.T,"Yakult Honsha Co.,Ltd."
+1300,7203.T,Toyota Motor Corporation
+1301,9437.T,"NTT DOCOMO, INC."
+1302,9432.T,Nippon Telegraph and Telephone Corporation
+1303,9984.T,SoftBank Group Corp.
+1304,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1305,6758.T,Sony Corporation
+1306,6861.T,Keyence Corporation
+1307,9433.T,KDDI Corporation
+1308,9434.T,SoftBank Corp.
+1309,9983.T,"Fast Retailing Co., Ltd."
+1310,6178.T,"Japan Post Holdings Co., Ltd."
+1311,7267.T,"Honda Motor Co., Ltd."
+1312,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1313,8058.T,Mitsubishi Corporation
+1314,2914.T,Japan Tobacco Inc.
+1315,9022.T,Central Japan Railway Company
+1316,7182.T,"JAPAN POST BANK Co.,Ltd."
+1317,6098.T,"Recruit Holdings Co., Ltd."
+1318,8411.T,"Mizuho Financial Group, Inc."
+1319,3382.T,"Seven & i Holdings Co., Ltd."
+1320,4452.T,Kao Corporation
+1321,8686.T,Aflac Incorporated
+1322,6902.T,DENSO Corporation
+1323,8766.T,"Tokio Marine Holdings, Inc."
+1324,9020.T,East Japan Railway Company
+1325,6594.T,Nidec Corporation
+1326,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1327,4661.T,"Oriental Land Co., Ltd."
+1328,7974.T,"Nintendo Co., Ltd."
+1329,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1330,7201.T,"Nissan Motor Co., Ltd."
+1331,6367.T,"Daikin Industries,Ltd."
+1332,7751.T,Canon Inc.
+1333,6954.T,Fanuc Corporation
+1334,6981.T,"Murata Manufacturing Co., Ltd."
+1335,5108.T,Bridgestone Corporation
+1336,8031.T,"Mitsui & Co., Ltd."
+1337,4502.T,Takeda Pharmaceutical Company Limited
+1338,8001.T,ITOCHU Corporation
+1339,6501.T,"Hitachi, Ltd."
+1340,4911.T,"Shiseido Company, Limited"
+1341,4503.T,Astellas Pharma Inc.
+1342,6503.T,Mitsubishi Electric Corporation
+1343,7269.T,Suzuki Motor Corporation
+1344,7741.T,HOYA Corporation
+1345,4523.T,"Eisai Co., Ltd."
+1346,4578.T,"Otsuka Holdings Co., Ltd."
+1347,8801.T,"Mitsui Fudosan Co., Ltd."
+1348,8802.T,"Mitsubishi Estate Co., Ltd."
+1349,1925.T,"Daiwa House Industry Co.,Ltd."
+1350,6752.T,Panasonic Corporation
+1351,4543.T,Terumo Corporation
+1352,4568.T,"Daiichi Sankyo Company, Limited"
+1353,6273.T,SMC Corporation
+1354,6301.T,Komatsu Ltd.
+1355,8113.T,Unicharm Corporation
+1356,8591.T,ORIX Corporation
+1357,8035.T,Tokyo Electron Limited
+1358,2503.T,"Kirin Holdings Company, Limited"
+1359,6971.T,Kyocera Corporation
+1360,9735.T,"SECOM CO., LTD."
+1361,8750.T,"Dai-ichi Life Holdings, Inc."
+1362,2502.T,"Asahi Group Holdings, Ltd."
+1363,5020.T,"JXTG Holdings, Inc."
+1364,8053.T,Sumitomo Corporation
+1365,4507.T,"Shionogi & Co., Ltd."
+1366,6326.T,Kubota Corporation
+1367,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1368,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1369,6502.T,Toshiba Corporation
+1370,7270.T,Subaru Corporation
+1371,8267.T,"Aeon Co., Ltd."
+1372,4901.T,FUJIFILM Holdings Corporation
+1373,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1374,9613.T,NTT DATA Corporation
+1375,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1376,8421.T,Shinkin Central Bank
+1377,6201.T,Toyota Industries Corporation
+1378,3407.T,Asahi Kasei Corporation
+1379,9843.T,"Nitori Holdings Co., Ltd."
+1380,2587.T,Suntory Beverage & Food Limited
+1381,7181.T,"Japan Post Insurance Co., Ltd."
+1382,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1383,9021.T,West Japan Railway Company
+1384,9503.T,"The Kansai Electric Power Company, Incorporated"
+1385,7309.T,Shimano Inc.
+1386,1605.T,Inpex Corporation
+1387,6702.T,Fujitsu Limited
+1388,4689.T,Yahoo Japan Corporation
+1389,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1390,4324.T,Dentsu Inc.
+1391,9201.T,"Japan Airlines Co., Ltd."
+1392,8002.T,Marubeni Corporation
+1393,8604.T,"Nomura Holdings, Inc."
+1394,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1395,9202.T,ANA Holdings Inc.
+1396,2269.T,"Meiji Holdings Co., Ltd."
+1397,3659.T,"NEXON Co., Ltd."
+1398,9531.T,"Tokyo Gas Co., Ltd."
+1399,2267.T,"Yakult Honsha Co.,Ltd."
+1400,7203.T,Toyota Motor Corporation
+1401,9437.T,"NTT DOCOMO, INC."
+1402,9432.T,Nippon Telegraph and Telephone Corporation
+1403,9984.T,SoftBank Group Corp.
+1404,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1405,6758.T,Sony Corporation
+1406,6861.T,Keyence Corporation
+1407,9433.T,KDDI Corporation
+1408,9434.T,SoftBank Corp.
+1409,9983.T,"Fast Retailing Co., Ltd."
+1410,6178.T,"Japan Post Holdings Co., Ltd."
+1411,7267.T,"Honda Motor Co., Ltd."
+1412,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1413,8058.T,Mitsubishi Corporation
+1414,2914.T,Japan Tobacco Inc.
+1415,9022.T,Central Japan Railway Company
+1416,7182.T,"JAPAN POST BANK Co.,Ltd."
+1417,6098.T,"Recruit Holdings Co., Ltd."
+1418,8411.T,"Mizuho Financial Group, Inc."
+1419,3382.T,"Seven & i Holdings Co., Ltd."
+1420,4452.T,Kao Corporation
+1421,8686.T,Aflac Incorporated
+1422,6902.T,DENSO Corporation
+1423,8766.T,"Tokio Marine Holdings, Inc."
+1424,9020.T,East Japan Railway Company
+1425,6594.T,Nidec Corporation
+1426,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1427,4661.T,"Oriental Land Co., Ltd."
+1428,7974.T,"Nintendo Co., Ltd."
+1429,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1430,7201.T,"Nissan Motor Co., Ltd."
+1431,6367.T,"Daikin Industries,Ltd."
+1432,7751.T,Canon Inc.
+1433,6954.T,Fanuc Corporation
+1434,6981.T,"Murata Manufacturing Co., Ltd."
+1435,5108.T,Bridgestone Corporation
+1436,8031.T,"Mitsui & Co., Ltd."
+1437,4502.T,Takeda Pharmaceutical Company Limited
+1438,8001.T,ITOCHU Corporation
+1439,6501.T,"Hitachi, Ltd."
+1440,4911.T,"Shiseido Company, Limited"
+1441,4503.T,Astellas Pharma Inc.
+1442,6503.T,Mitsubishi Electric Corporation
+1443,7269.T,Suzuki Motor Corporation
+1444,7741.T,HOYA Corporation
+1445,4523.T,"Eisai Co., Ltd."
+1446,4578.T,"Otsuka Holdings Co., Ltd."
+1447,8801.T,"Mitsui Fudosan Co., Ltd."
+1448,8802.T,"Mitsubishi Estate Co., Ltd."
+1449,1925.T,"Daiwa House Industry Co.,Ltd."
+1450,6752.T,Panasonic Corporation
+1451,4543.T,Terumo Corporation
+1452,4568.T,"Daiichi Sankyo Company, Limited"
+1453,6273.T,SMC Corporation
+1454,6301.T,Komatsu Ltd.
+1455,8113.T,Unicharm Corporation
+1456,8591.T,ORIX Corporation
+1457,8035.T,Tokyo Electron Limited
+1458,2503.T,"Kirin Holdings Company, Limited"
+1459,6971.T,Kyocera Corporation
+1460,9735.T,"SECOM CO., LTD."
+1461,8750.T,"Dai-ichi Life Holdings, Inc."
+1462,2502.T,"Asahi Group Holdings, Ltd."
+1463,5020.T,"JXTG Holdings, Inc."
+1464,8053.T,Sumitomo Corporation
+1465,4507.T,"Shionogi & Co., Ltd."
+1466,6326.T,Kubota Corporation
+1467,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1468,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1469,6502.T,Toshiba Corporation
+1470,7270.T,Subaru Corporation
+1471,8267.T,"Aeon Co., Ltd."
+1472,4901.T,FUJIFILM Holdings Corporation
+1473,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1474,9613.T,NTT DATA Corporation
+1475,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1476,8421.T,Shinkin Central Bank
+1477,6201.T,Toyota Industries Corporation
+1478,3407.T,Asahi Kasei Corporation
+1479,9843.T,"Nitori Holdings Co., Ltd."
+1480,2587.T,Suntory Beverage & Food Limited
+1481,7181.T,"Japan Post Insurance Co., Ltd."
+1482,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1483,9021.T,West Japan Railway Company
+1484,9503.T,"The Kansai Electric Power Company, Incorporated"
+1485,7309.T,Shimano Inc.
+1486,1605.T,Inpex Corporation
+1487,6702.T,Fujitsu Limited
+1488,4689.T,Yahoo Japan Corporation
+1489,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1490,4324.T,Dentsu Inc.
+1491,9201.T,"Japan Airlines Co., Ltd."
+1492,8002.T,Marubeni Corporation
+1493,8604.T,"Nomura Holdings, Inc."
+1494,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1495,9202.T,ANA Holdings Inc.
+1496,2269.T,"Meiji Holdings Co., Ltd."
+1497,3659.T,"NEXON Co., Ltd."
+1498,9531.T,"Tokyo Gas Co., Ltd."
+1499,2267.T,"Yakult Honsha Co.,Ltd."
+1500,7203.T,Toyota Motor Corporation
+1501,9437.T,"NTT DOCOMO, INC."
+1502,9432.T,Nippon Telegraph and Telephone Corporation
+1503,9984.T,SoftBank Group Corp.
+1504,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1505,6758.T,Sony Corporation
+1506,6861.T,Keyence Corporation
+1507,9433.T,KDDI Corporation
+1508,9434.T,SoftBank Corp.
+1509,9983.T,"Fast Retailing Co., Ltd."
+1510,6178.T,"Japan Post Holdings Co., Ltd."
+1511,7267.T,"Honda Motor Co., Ltd."
+1512,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1513,8058.T,Mitsubishi Corporation
+1514,2914.T,Japan Tobacco Inc.
+1515,9022.T,Central Japan Railway Company
+1516,7182.T,"JAPAN POST BANK Co.,Ltd."
+1517,6098.T,"Recruit Holdings Co., Ltd."
+1518,8411.T,"Mizuho Financial Group, Inc."
+1519,3382.T,"Seven & i Holdings Co., Ltd."
+1520,4452.T,Kao Corporation
+1521,8686.T,Aflac Incorporated
+1522,6902.T,DENSO Corporation
+1523,8766.T,"Tokio Marine Holdings, Inc."
+1524,9020.T,East Japan Railway Company
+1525,6594.T,Nidec Corporation
+1526,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1527,4661.T,"Oriental Land Co., Ltd."
+1528,7974.T,"Nintendo Co., Ltd."
+1529,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1530,7201.T,"Nissan Motor Co., Ltd."
+1531,6367.T,"Daikin Industries,Ltd."
+1532,7751.T,Canon Inc.
+1533,6954.T,Fanuc Corporation
+1534,6981.T,"Murata Manufacturing Co., Ltd."
+1535,5108.T,Bridgestone Corporation
+1536,8031.T,"Mitsui & Co., Ltd."
+1537,4502.T,Takeda Pharmaceutical Company Limited
+1538,8001.T,ITOCHU Corporation
+1539,6501.T,"Hitachi, Ltd."
+1540,4911.T,"Shiseido Company, Limited"
+1541,4503.T,Astellas Pharma Inc.
+1542,6503.T,Mitsubishi Electric Corporation
+1543,7269.T,Suzuki Motor Corporation
+1544,7741.T,HOYA Corporation
+1545,4523.T,"Eisai Co., Ltd."
+1546,4578.T,"Otsuka Holdings Co., Ltd."
+1547,8801.T,"Mitsui Fudosan Co., Ltd."
+1548,8802.T,"Mitsubishi Estate Co., Ltd."
+1549,1925.T,"Daiwa House Industry Co.,Ltd."
+1550,6752.T,Panasonic Corporation
+1551,4543.T,Terumo Corporation
+1552,4568.T,"Daiichi Sankyo Company, Limited"
+1553,6273.T,SMC Corporation
+1554,6301.T,Komatsu Ltd.
+1555,8113.T,Unicharm Corporation
+1556,8591.T,ORIX Corporation
+1557,8035.T,Tokyo Electron Limited
+1558,2503.T,"Kirin Holdings Company, Limited"
+1559,6971.T,Kyocera Corporation
+1560,9735.T,"SECOM CO., LTD."
+1561,8750.T,"Dai-ichi Life Holdings, Inc."
+1562,2502.T,"Asahi Group Holdings, Ltd."
+1563,5020.T,"JXTG Holdings, Inc."
+1564,8053.T,Sumitomo Corporation
+1565,4507.T,"Shionogi & Co., Ltd."
+1566,6326.T,Kubota Corporation
+1567,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1568,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1569,6502.T,Toshiba Corporation
+1570,7270.T,Subaru Corporation
+1571,8267.T,"Aeon Co., Ltd."
+1572,4901.T,FUJIFILM Holdings Corporation
+1573,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1574,9613.T,NTT DATA Corporation
+1575,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1576,8421.T,Shinkin Central Bank
+1577,6201.T,Toyota Industries Corporation
+1578,3407.T,Asahi Kasei Corporation
+1579,9843.T,"Nitori Holdings Co., Ltd."
+1580,2587.T,Suntory Beverage & Food Limited
+1581,7181.T,"Japan Post Insurance Co., Ltd."
+1582,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1583,9021.T,West Japan Railway Company
+1584,9503.T,"The Kansai Electric Power Company, Incorporated"
+1585,7309.T,Shimano Inc.
+1586,1605.T,Inpex Corporation
+1587,6702.T,Fujitsu Limited
+1588,4689.T,Yahoo Japan Corporation
+1589,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1590,4324.T,Dentsu Inc.
+1591,9201.T,"Japan Airlines Co., Ltd."
+1592,8002.T,Marubeni Corporation
+1593,8604.T,"Nomura Holdings, Inc."
+1594,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1595,9202.T,ANA Holdings Inc.
+1596,2269.T,"Meiji Holdings Co., Ltd."
+1597,3659.T,"NEXON Co., Ltd."
+1598,9531.T,"Tokyo Gas Co., Ltd."
+1599,2267.T,"Yakult Honsha Co.,Ltd."
+1600,7203.T,Toyota Motor Corporation
+1601,9437.T,"NTT DOCOMO, INC."
+1602,9432.T,Nippon Telegraph and Telephone Corporation
+1603,9984.T,SoftBank Group Corp.
+1604,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1605,6758.T,Sony Corporation
+1606,6861.T,Keyence Corporation
+1607,9433.T,KDDI Corporation
+1608,9434.T,SoftBank Corp.
+1609,9983.T,"Fast Retailing Co., Ltd."
+1610,6178.T,"Japan Post Holdings Co., Ltd."
+1611,7267.T,"Honda Motor Co., Ltd."
+1612,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1613,8058.T,Mitsubishi Corporation
+1614,2914.T,Japan Tobacco Inc.
+1615,9022.T,Central Japan Railway Company
+1616,7182.T,"JAPAN POST BANK Co.,Ltd."
+1617,6098.T,"Recruit Holdings Co., Ltd."
+1618,8411.T,"Mizuho Financial Group, Inc."
+1619,3382.T,"Seven & i Holdings Co., Ltd."
+1620,4452.T,Kao Corporation
+1621,8686.T,Aflac Incorporated
+1622,6902.T,DENSO Corporation
+1623,8766.T,"Tokio Marine Holdings, Inc."
+1624,9020.T,East Japan Railway Company
+1625,6594.T,Nidec Corporation
+1626,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1627,4661.T,"Oriental Land Co., Ltd."
+1628,7974.T,"Nintendo Co., Ltd."
+1629,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1630,7201.T,"Nissan Motor Co., Ltd."
+1631,6367.T,"Daikin Industries,Ltd."
+1632,7751.T,Canon Inc.
+1633,6954.T,Fanuc Corporation
+1634,6981.T,"Murata Manufacturing Co., Ltd."
+1635,5108.T,Bridgestone Corporation
+1636,8031.T,"Mitsui & Co., Ltd."
+1637,4502.T,Takeda Pharmaceutical Company Limited
+1638,8001.T,ITOCHU Corporation
+1639,6501.T,"Hitachi, Ltd."
+1640,4911.T,"Shiseido Company, Limited"
+1641,4503.T,Astellas Pharma Inc.
+1642,6503.T,Mitsubishi Electric Corporation
+1643,7269.T,Suzuki Motor Corporation
+1644,7741.T,HOYA Corporation
+1645,4523.T,"Eisai Co., Ltd."
+1646,4578.T,"Otsuka Holdings Co., Ltd."
+1647,8801.T,"Mitsui Fudosan Co., Ltd."
+1648,8802.T,"Mitsubishi Estate Co., Ltd."
+1649,1925.T,"Daiwa House Industry Co.,Ltd."
+1650,6752.T,Panasonic Corporation
+1651,4543.T,Terumo Corporation
+1652,4568.T,"Daiichi Sankyo Company, Limited"
+1653,6273.T,SMC Corporation
+1654,6301.T,Komatsu Ltd.
+1655,8113.T,Unicharm Corporation
+1656,8591.T,ORIX Corporation
+1657,8035.T,Tokyo Electron Limited
+1658,2503.T,"Kirin Holdings Company, Limited"
+1659,6971.T,Kyocera Corporation
+1660,9735.T,"SECOM CO., LTD."
+1661,8750.T,"Dai-ichi Life Holdings, Inc."
+1662,2502.T,"Asahi Group Holdings, Ltd."
+1663,5020.T,"JXTG Holdings, Inc."
+1664,8053.T,Sumitomo Corporation
+1665,4507.T,"Shionogi & Co., Ltd."
+1666,6326.T,Kubota Corporation
+1667,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1668,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1669,6502.T,Toshiba Corporation
+1670,7270.T,Subaru Corporation
+1671,8267.T,"Aeon Co., Ltd."
+1672,4901.T,FUJIFILM Holdings Corporation
+1673,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1674,9613.T,NTT DATA Corporation
+1675,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1676,8421.T,Shinkin Central Bank
+1677,6201.T,Toyota Industries Corporation
+1678,3407.T,Asahi Kasei Corporation
+1679,9843.T,"Nitori Holdings Co., Ltd."
+1680,2587.T,Suntory Beverage & Food Limited
+1681,7181.T,"Japan Post Insurance Co., Ltd."
+1682,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1683,9021.T,West Japan Railway Company
+1684,9503.T,"The Kansai Electric Power Company, Incorporated"
+1685,7309.T,Shimano Inc.
+1686,1605.T,Inpex Corporation
+1687,6702.T,Fujitsu Limited
+1688,4689.T,Yahoo Japan Corporation
+1689,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1690,4324.T,Dentsu Inc.
+1691,9201.T,"Japan Airlines Co., Ltd."
+1692,8002.T,Marubeni Corporation
+1693,8604.T,"Nomura Holdings, Inc."
+1694,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1695,9202.T,ANA Holdings Inc.
+1696,2269.T,"Meiji Holdings Co., Ltd."
+1697,3659.T,"NEXON Co., Ltd."
+1698,9531.T,"Tokyo Gas Co., Ltd."
+1699,2267.T,"Yakult Honsha Co.,Ltd."
+1700,7203.T,Toyota Motor Corporation
+1701,9437.T,"NTT DOCOMO, INC."
+1702,9432.T,Nippon Telegraph and Telephone Corporation
+1703,9984.T,SoftBank Group Corp.
+1704,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1705,6758.T,Sony Corporation
+1706,6861.T,Keyence Corporation
+1707,9433.T,KDDI Corporation
+1708,9434.T,SoftBank Corp.
+1709,9983.T,"Fast Retailing Co., Ltd."
+1710,6178.T,"Japan Post Holdings Co., Ltd."
+1711,7267.T,"Honda Motor Co., Ltd."
+1712,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1713,8058.T,Mitsubishi Corporation
+1714,2914.T,Japan Tobacco Inc.
+1715,9022.T,Central Japan Railway Company
+1716,7182.T,"JAPAN POST BANK Co.,Ltd."
+1717,6098.T,"Recruit Holdings Co., Ltd."
+1718,8411.T,"Mizuho Financial Group, Inc."
+1719,3382.T,"Seven & i Holdings Co., Ltd."
+1720,4452.T,Kao Corporation
+1721,8686.T,Aflac Incorporated
+1722,6902.T,DENSO Corporation
+1723,8766.T,"Tokio Marine Holdings, Inc."
+1724,9020.T,East Japan Railway Company
+1725,6594.T,Nidec Corporation
+1726,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1727,4661.T,"Oriental Land Co., Ltd."
+1728,7974.T,"Nintendo Co., Ltd."
+1729,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1730,7201.T,"Nissan Motor Co., Ltd."
+1731,6367.T,"Daikin Industries,Ltd."
+1732,7751.T,Canon Inc.
+1733,6954.T,Fanuc Corporation
+1734,6981.T,"Murata Manufacturing Co., Ltd."
+1735,5108.T,Bridgestone Corporation
+1736,8031.T,"Mitsui & Co., Ltd."
+1737,4502.T,Takeda Pharmaceutical Company Limited
+1738,8001.T,ITOCHU Corporation
+1739,6501.T,"Hitachi, Ltd."
+1740,4911.T,"Shiseido Company, Limited"
+1741,4503.T,Astellas Pharma Inc.
+1742,6503.T,Mitsubishi Electric Corporation
+1743,7269.T,Suzuki Motor Corporation
+1744,7741.T,HOYA Corporation
+1745,4523.T,"Eisai Co., Ltd."
+1746,4578.T,"Otsuka Holdings Co., Ltd."
+1747,8801.T,"Mitsui Fudosan Co., Ltd."
+1748,8802.T,"Mitsubishi Estate Co., Ltd."
+1749,1925.T,"Daiwa House Industry Co.,Ltd."
+1750,6752.T,Panasonic Corporation
+1751,4543.T,Terumo Corporation
+1752,4568.T,"Daiichi Sankyo Company, Limited"
+1753,6273.T,SMC Corporation
+1754,6301.T,Komatsu Ltd.
+1755,8113.T,Unicharm Corporation
+1756,8591.T,ORIX Corporation
+1757,8035.T,Tokyo Electron Limited
+1758,2503.T,"Kirin Holdings Company, Limited"
+1759,6971.T,Kyocera Corporation
+1760,9735.T,"SECOM CO., LTD."
+1761,8750.T,"Dai-ichi Life Holdings, Inc."
+1762,2502.T,"Asahi Group Holdings, Ltd."
+1763,5020.T,"JXTG Holdings, Inc."
+1764,8053.T,Sumitomo Corporation
+1765,4507.T,"Shionogi & Co., Ltd."
+1766,6326.T,Kubota Corporation
+1767,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1768,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1769,6502.T,Toshiba Corporation
+1770,7270.T,Subaru Corporation
+1771,8267.T,"Aeon Co., Ltd."
+1772,4901.T,FUJIFILM Holdings Corporation
+1773,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1774,9613.T,NTT DATA Corporation
+1775,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1776,8421.T,Shinkin Central Bank
+1777,6201.T,Toyota Industries Corporation
+1778,3407.T,Asahi Kasei Corporation
+1779,9843.T,"Nitori Holdings Co., Ltd."
+1780,2587.T,Suntory Beverage & Food Limited
+1781,7181.T,"Japan Post Insurance Co., Ltd."
+1782,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1783,9021.T,West Japan Railway Company
+1784,9503.T,"The Kansai Electric Power Company, Incorporated"
+1785,7309.T,Shimano Inc.
+1786,1605.T,Inpex Corporation
+1787,6702.T,Fujitsu Limited
+1788,4689.T,Yahoo Japan Corporation
+1789,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1790,4324.T,Dentsu Inc.
+1791,9201.T,"Japan Airlines Co., Ltd."
+1792,8002.T,Marubeni Corporation
+1793,8604.T,"Nomura Holdings, Inc."
+1794,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1795,9202.T,ANA Holdings Inc.
+1796,2269.T,"Meiji Holdings Co., Ltd."
+1797,3659.T,"NEXON Co., Ltd."
+1798,9531.T,"Tokyo Gas Co., Ltd."
+1799,2267.T,"Yakult Honsha Co.,Ltd."
+1800,7203.T,Toyota Motor Corporation
+1801,9437.T,"NTT DOCOMO, INC."
+1802,9432.T,Nippon Telegraph and Telephone Corporation
+1803,9984.T,SoftBank Group Corp.
+1804,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1805,6758.T,Sony Corporation
+1806,6861.T,Keyence Corporation
+1807,9433.T,KDDI Corporation
+1808,9434.T,SoftBank Corp.
+1809,9983.T,"Fast Retailing Co., Ltd."
+1810,6178.T,"Japan Post Holdings Co., Ltd."
+1811,7267.T,"Honda Motor Co., Ltd."
+1812,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1813,8058.T,Mitsubishi Corporation
+1814,2914.T,Japan Tobacco Inc.
+1815,9022.T,Central Japan Railway Company
+1816,7182.T,"JAPAN POST BANK Co.,Ltd."
+1817,6098.T,"Recruit Holdings Co., Ltd."
+1818,8411.T,"Mizuho Financial Group, Inc."
+1819,3382.T,"Seven & i Holdings Co., Ltd."
+1820,4452.T,Kao Corporation
+1821,8686.T,Aflac Incorporated
+1822,6902.T,DENSO Corporation
+1823,8766.T,"Tokio Marine Holdings, Inc."
+1824,9020.T,East Japan Railway Company
+1825,6594.T,Nidec Corporation
+1826,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1827,4661.T,"Oriental Land Co., Ltd."
+1828,7974.T,"Nintendo Co., Ltd."
+1829,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1830,7201.T,"Nissan Motor Co., Ltd."
+1831,6367.T,"Daikin Industries,Ltd."
+1832,7751.T,Canon Inc.
+1833,6954.T,Fanuc Corporation
+1834,6981.T,"Murata Manufacturing Co., Ltd."
+1835,5108.T,Bridgestone Corporation
+1836,8031.T,"Mitsui & Co., Ltd."
+1837,4502.T,Takeda Pharmaceutical Company Limited
+1838,8001.T,ITOCHU Corporation
+1839,6501.T,"Hitachi, Ltd."
+1840,4911.T,"Shiseido Company, Limited"
+1841,4503.T,Astellas Pharma Inc.
+1842,6503.T,Mitsubishi Electric Corporation
+1843,7269.T,Suzuki Motor Corporation
+1844,7741.T,HOYA Corporation
+1845,4523.T,"Eisai Co., Ltd."
+1846,4578.T,"Otsuka Holdings Co., Ltd."
+1847,8801.T,"Mitsui Fudosan Co., Ltd."
+1848,8802.T,"Mitsubishi Estate Co., Ltd."
+1849,1925.T,"Daiwa House Industry Co.,Ltd."
+1850,6752.T,Panasonic Corporation
+1851,4543.T,Terumo Corporation
+1852,4568.T,"Daiichi Sankyo Company, Limited"
+1853,6273.T,SMC Corporation
+1854,6301.T,Komatsu Ltd.
+1855,8113.T,Unicharm Corporation
+1856,8591.T,ORIX Corporation
+1857,8035.T,Tokyo Electron Limited
+1858,2503.T,"Kirin Holdings Company, Limited"
+1859,6971.T,Kyocera Corporation
+1860,9735.T,"SECOM CO., LTD."
+1861,8750.T,"Dai-ichi Life Holdings, Inc."
+1862,2502.T,"Asahi Group Holdings, Ltd."
+1863,5020.T,"JXTG Holdings, Inc."
+1864,8053.T,Sumitomo Corporation
+1865,4507.T,"Shionogi & Co., Ltd."
+1866,6326.T,Kubota Corporation
+1867,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1868,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1869,6502.T,Toshiba Corporation
+1870,7270.T,Subaru Corporation
+1871,8267.T,"Aeon Co., Ltd."
+1872,4901.T,FUJIFILM Holdings Corporation
+1873,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1874,9613.T,NTT DATA Corporation
+1875,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1876,8421.T,Shinkin Central Bank
+1877,6201.T,Toyota Industries Corporation
+1878,3407.T,Asahi Kasei Corporation
+1879,9843.T,"Nitori Holdings Co., Ltd."
+1880,2587.T,Suntory Beverage & Food Limited
+1881,7181.T,"Japan Post Insurance Co., Ltd."
+1882,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1883,9021.T,West Japan Railway Company
+1884,9503.T,"The Kansai Electric Power Company, Incorporated"
+1885,7309.T,Shimano Inc.
+1886,1605.T,Inpex Corporation
+1887,6702.T,Fujitsu Limited
+1888,4689.T,Yahoo Japan Corporation
+1889,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1890,4324.T,Dentsu Inc.
+1891,9201.T,"Japan Airlines Co., Ltd."
+1892,8002.T,Marubeni Corporation
+1893,8604.T,"Nomura Holdings, Inc."
+1894,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1895,9202.T,ANA Holdings Inc.
+1896,2269.T,"Meiji Holdings Co., Ltd."
+1897,3659.T,"NEXON Co., Ltd."
+1898,9531.T,"Tokyo Gas Co., Ltd."
+1899,2267.T,"Yakult Honsha Co.,Ltd."
+1900,7203.T,Toyota Motor Corporation
+1901,9437.T,"NTT DOCOMO, INC."
+1902,9432.T,Nippon Telegraph and Telephone Corporation
+1903,9984.T,SoftBank Group Corp.
+1904,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+1905,6758.T,Sony Corporation
+1906,6861.T,Keyence Corporation
+1907,9433.T,KDDI Corporation
+1908,9434.T,SoftBank Corp.
+1909,9983.T,"Fast Retailing Co., Ltd."
+1910,6178.T,"Japan Post Holdings Co., Ltd."
+1911,7267.T,"Honda Motor Co., Ltd."
+1912,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+1913,8058.T,Mitsubishi Corporation
+1914,2914.T,Japan Tobacco Inc.
+1915,9022.T,Central Japan Railway Company
+1916,7182.T,"JAPAN POST BANK Co.,Ltd."
+1917,6098.T,"Recruit Holdings Co., Ltd."
+1918,8411.T,"Mizuho Financial Group, Inc."
+1919,3382.T,"Seven & i Holdings Co., Ltd."
+1920,4452.T,Kao Corporation
+1921,8686.T,Aflac Incorporated
+1922,6902.T,DENSO Corporation
+1923,8766.T,"Tokio Marine Holdings, Inc."
+1924,9020.T,East Japan Railway Company
+1925,6594.T,Nidec Corporation
+1926,4063.T,"Shin-Etsu Chemical Co., Ltd."
+1927,4661.T,"Oriental Land Co., Ltd."
+1928,7974.T,"Nintendo Co., Ltd."
+1929,4519.T,"Chugai Pharmaceutical Co., Ltd."
+1930,7201.T,"Nissan Motor Co., Ltd."
+1931,6367.T,"Daikin Industries,Ltd."
+1932,7751.T,Canon Inc.
+1933,6954.T,Fanuc Corporation
+1934,6981.T,"Murata Manufacturing Co., Ltd."
+1935,5108.T,Bridgestone Corporation
+1936,8031.T,"Mitsui & Co., Ltd."
+1937,4502.T,Takeda Pharmaceutical Company Limited
+1938,8001.T,ITOCHU Corporation
+1939,6501.T,"Hitachi, Ltd."
+1940,4911.T,"Shiseido Company, Limited"
+1941,4503.T,Astellas Pharma Inc.
+1942,6503.T,Mitsubishi Electric Corporation
+1943,7269.T,Suzuki Motor Corporation
+1944,7741.T,HOYA Corporation
+1945,4523.T,"Eisai Co., Ltd."
+1946,4578.T,"Otsuka Holdings Co., Ltd."
+1947,8801.T,"Mitsui Fudosan Co., Ltd."
+1948,8802.T,"Mitsubishi Estate Co., Ltd."
+1949,1925.T,"Daiwa House Industry Co.,Ltd."
+1950,6752.T,Panasonic Corporation
+1951,4543.T,Terumo Corporation
+1952,4568.T,"Daiichi Sankyo Company, Limited"
+1953,6273.T,SMC Corporation
+1954,6301.T,Komatsu Ltd.
+1955,8113.T,Unicharm Corporation
+1956,8591.T,ORIX Corporation
+1957,8035.T,Tokyo Electron Limited
+1958,2503.T,"Kirin Holdings Company, Limited"
+1959,6971.T,Kyocera Corporation
+1960,9735.T,"SECOM CO., LTD."
+1961,8750.T,"Dai-ichi Life Holdings, Inc."
+1962,2502.T,"Asahi Group Holdings, Ltd."
+1963,5020.T,"JXTG Holdings, Inc."
+1964,8053.T,Sumitomo Corporation
+1965,4507.T,"Shionogi & Co., Ltd."
+1966,6326.T,Kubota Corporation
+1967,8830.T,"Sumitomo Realty & Development Co., Ltd."
+1968,8725.T,"MS&AD Insurance Group Holdings, Inc."
+1969,6502.T,Toshiba Corporation
+1970,7270.T,Subaru Corporation
+1971,8267.T,"Aeon Co., Ltd."
+1972,4901.T,FUJIFILM Holdings Corporation
+1973,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+1974,9613.T,NTT DATA Corporation
+1975,5401.T,Nippon Steel & Sumitomo Metal Corporation
+1976,8421.T,Shinkin Central Bank
+1977,6201.T,Toyota Industries Corporation
+1978,3407.T,Asahi Kasei Corporation
+1979,9843.T,"Nitori Holdings Co., Ltd."
+1980,2587.T,Suntory Beverage & Food Limited
+1981,7181.T,"Japan Post Insurance Co., Ltd."
+1982,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+1983,9021.T,West Japan Railway Company
+1984,9503.T,"The Kansai Electric Power Company, Incorporated"
+1985,7309.T,Shimano Inc.
+1986,1605.T,Inpex Corporation
+1987,6702.T,Fujitsu Limited
+1988,4689.T,Yahoo Japan Corporation
+1989,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+1990,4324.T,Dentsu Inc.
+1991,9201.T,"Japan Airlines Co., Ltd."
+1992,8002.T,Marubeni Corporation
+1993,8604.T,"Nomura Holdings, Inc."
+1994,7011.T,"Mitsubishi Heavy Industries, Ltd."
+1995,9202.T,ANA Holdings Inc.
+1996,2269.T,"Meiji Holdings Co., Ltd."
+1997,3659.T,"NEXON Co., Ltd."
+1998,9531.T,"Tokyo Gas Co., Ltd."
+1999,2267.T,"Yakult Honsha Co.,Ltd."
+2000,7203.T,Toyota Motor Corporation
+2001,9437.T,"NTT DOCOMO, INC."
+2002,9432.T,Nippon Telegraph and Telephone Corporation
+2003,9984.T,SoftBank Group Corp.
+2004,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2005,6758.T,Sony Corporation
+2006,6861.T,Keyence Corporation
+2007,9433.T,KDDI Corporation
+2008,9434.T,SoftBank Corp.
+2009,9983.T,"Fast Retailing Co., Ltd."
+2010,6178.T,"Japan Post Holdings Co., Ltd."
+2011,7267.T,"Honda Motor Co., Ltd."
+2012,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2013,8058.T,Mitsubishi Corporation
+2014,2914.T,Japan Tobacco Inc.
+2015,9022.T,Central Japan Railway Company
+2016,7182.T,"JAPAN POST BANK Co.,Ltd."
+2017,6098.T,"Recruit Holdings Co., Ltd."
+2018,8411.T,"Mizuho Financial Group, Inc."
+2019,3382.T,"Seven & i Holdings Co., Ltd."
+2020,4452.T,Kao Corporation
+2021,8686.T,Aflac Incorporated
+2022,6902.T,DENSO Corporation
+2023,8766.T,"Tokio Marine Holdings, Inc."
+2024,9020.T,East Japan Railway Company
+2025,6594.T,Nidec Corporation
+2026,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2027,4661.T,"Oriental Land Co., Ltd."
+2028,7974.T,"Nintendo Co., Ltd."
+2029,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2030,7201.T,"Nissan Motor Co., Ltd."
+2031,6367.T,"Daikin Industries,Ltd."
+2032,7751.T,Canon Inc.
+2033,6954.T,Fanuc Corporation
+2034,6981.T,"Murata Manufacturing Co., Ltd."
+2035,5108.T,Bridgestone Corporation
+2036,8031.T,"Mitsui & Co., Ltd."
+2037,4502.T,Takeda Pharmaceutical Company Limited
+2038,8001.T,ITOCHU Corporation
+2039,6501.T,"Hitachi, Ltd."
+2040,4911.T,"Shiseido Company, Limited"
+2041,4503.T,Astellas Pharma Inc.
+2042,6503.T,Mitsubishi Electric Corporation
+2043,7269.T,Suzuki Motor Corporation
+2044,7741.T,HOYA Corporation
+2045,4523.T,"Eisai Co., Ltd."
+2046,4578.T,"Otsuka Holdings Co., Ltd."
+2047,8801.T,"Mitsui Fudosan Co., Ltd."
+2048,8802.T,"Mitsubishi Estate Co., Ltd."
+2049,1925.T,"Daiwa House Industry Co.,Ltd."
+2050,6752.T,Panasonic Corporation
+2051,4543.T,Terumo Corporation
+2052,4568.T,"Daiichi Sankyo Company, Limited"
+2053,6273.T,SMC Corporation
+2054,6301.T,Komatsu Ltd.
+2055,8113.T,Unicharm Corporation
+2056,8591.T,ORIX Corporation
+2057,8035.T,Tokyo Electron Limited
+2058,2503.T,"Kirin Holdings Company, Limited"
+2059,6971.T,Kyocera Corporation
+2060,9735.T,"SECOM CO., LTD."
+2061,8750.T,"Dai-ichi Life Holdings, Inc."
+2062,2502.T,"Asahi Group Holdings, Ltd."
+2063,5020.T,"JXTG Holdings, Inc."
+2064,8053.T,Sumitomo Corporation
+2065,4507.T,"Shionogi & Co., Ltd."
+2066,6326.T,Kubota Corporation
+2067,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2068,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2069,6502.T,Toshiba Corporation
+2070,7270.T,Subaru Corporation
+2071,8267.T,"Aeon Co., Ltd."
+2072,4901.T,FUJIFILM Holdings Corporation
+2073,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2074,9613.T,NTT DATA Corporation
+2075,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2076,8421.T,Shinkin Central Bank
+2077,6201.T,Toyota Industries Corporation
+2078,3407.T,Asahi Kasei Corporation
+2079,9843.T,"Nitori Holdings Co., Ltd."
+2080,2587.T,Suntory Beverage & Food Limited
+2081,7181.T,"Japan Post Insurance Co., Ltd."
+2082,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2083,9021.T,West Japan Railway Company
+2084,9503.T,"The Kansai Electric Power Company, Incorporated"
+2085,7309.T,Shimano Inc.
+2086,1605.T,Inpex Corporation
+2087,6702.T,Fujitsu Limited
+2088,4689.T,Yahoo Japan Corporation
+2089,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2090,4324.T,Dentsu Inc.
+2091,9201.T,"Japan Airlines Co., Ltd."
+2092,8002.T,Marubeni Corporation
+2093,8604.T,"Nomura Holdings, Inc."
+2094,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2095,9202.T,ANA Holdings Inc.
+2096,2269.T,"Meiji Holdings Co., Ltd."
+2097,3659.T,"NEXON Co., Ltd."
+2098,9531.T,"Tokyo Gas Co., Ltd."
+2099,2267.T,"Yakult Honsha Co.,Ltd."
+2100,7203.T,Toyota Motor Corporation
+2101,9437.T,"NTT DOCOMO, INC."
+2102,9432.T,Nippon Telegraph and Telephone Corporation
+2103,9984.T,SoftBank Group Corp.
+2104,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2105,6758.T,Sony Corporation
+2106,6861.T,Keyence Corporation
+2107,9433.T,KDDI Corporation
+2108,9434.T,SoftBank Corp.
+2109,9983.T,"Fast Retailing Co., Ltd."
+2110,6178.T,"Japan Post Holdings Co., Ltd."
+2111,7267.T,"Honda Motor Co., Ltd."
+2112,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2113,8058.T,Mitsubishi Corporation
+2114,2914.T,Japan Tobacco Inc.
+2115,9022.T,Central Japan Railway Company
+2116,7182.T,"JAPAN POST BANK Co.,Ltd."
+2117,6098.T,"Recruit Holdings Co., Ltd."
+2118,8411.T,"Mizuho Financial Group, Inc."
+2119,3382.T,"Seven & i Holdings Co., Ltd."
+2120,4452.T,Kao Corporation
+2121,8686.T,Aflac Incorporated
+2122,6902.T,DENSO Corporation
+2123,8766.T,"Tokio Marine Holdings, Inc."
+2124,9020.T,East Japan Railway Company
+2125,6594.T,Nidec Corporation
+2126,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2127,4661.T,"Oriental Land Co., Ltd."
+2128,7974.T,"Nintendo Co., Ltd."
+2129,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2130,7201.T,"Nissan Motor Co., Ltd."
+2131,6367.T,"Daikin Industries,Ltd."
+2132,7751.T,Canon Inc.
+2133,6954.T,Fanuc Corporation
+2134,6981.T,"Murata Manufacturing Co., Ltd."
+2135,5108.T,Bridgestone Corporation
+2136,8031.T,"Mitsui & Co., Ltd."
+2137,4502.T,Takeda Pharmaceutical Company Limited
+2138,8001.T,ITOCHU Corporation
+2139,6501.T,"Hitachi, Ltd."
+2140,4911.T,"Shiseido Company, Limited"
+2141,4503.T,Astellas Pharma Inc.
+2142,6503.T,Mitsubishi Electric Corporation
+2143,7269.T,Suzuki Motor Corporation
+2144,7741.T,HOYA Corporation
+2145,4523.T,"Eisai Co., Ltd."
+2146,4578.T,"Otsuka Holdings Co., Ltd."
+2147,8801.T,"Mitsui Fudosan Co., Ltd."
+2148,8802.T,"Mitsubishi Estate Co., Ltd."
+2149,1925.T,"Daiwa House Industry Co.,Ltd."
+2150,6752.T,Panasonic Corporation
+2151,4543.T,Terumo Corporation
+2152,4568.T,"Daiichi Sankyo Company, Limited"
+2153,6273.T,SMC Corporation
+2154,6301.T,Komatsu Ltd.
+2155,8113.T,Unicharm Corporation
+2156,8591.T,ORIX Corporation
+2157,8035.T,Tokyo Electron Limited
+2158,2503.T,"Kirin Holdings Company, Limited"
+2159,6971.T,Kyocera Corporation
+2160,9735.T,"SECOM CO., LTD."
+2161,8750.T,"Dai-ichi Life Holdings, Inc."
+2162,2502.T,"Asahi Group Holdings, Ltd."
+2163,5020.T,"JXTG Holdings, Inc."
+2164,8053.T,Sumitomo Corporation
+2165,4507.T,"Shionogi & Co., Ltd."
+2166,6326.T,Kubota Corporation
+2167,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2168,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2169,6502.T,Toshiba Corporation
+2170,7270.T,Subaru Corporation
+2171,8267.T,"Aeon Co., Ltd."
+2172,4901.T,FUJIFILM Holdings Corporation
+2173,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2174,9613.T,NTT DATA Corporation
+2175,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2176,8421.T,Shinkin Central Bank
+2177,6201.T,Toyota Industries Corporation
+2178,3407.T,Asahi Kasei Corporation
+2179,9843.T,"Nitori Holdings Co., Ltd."
+2180,2587.T,Suntory Beverage & Food Limited
+2181,7181.T,"Japan Post Insurance Co., Ltd."
+2182,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2183,9021.T,West Japan Railway Company
+2184,9503.T,"The Kansai Electric Power Company, Incorporated"
+2185,7309.T,Shimano Inc.
+2186,1605.T,Inpex Corporation
+2187,6702.T,Fujitsu Limited
+2188,4689.T,Yahoo Japan Corporation
+2189,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2190,4324.T,Dentsu Inc.
+2191,9201.T,"Japan Airlines Co., Ltd."
+2192,8002.T,Marubeni Corporation
+2193,8604.T,"Nomura Holdings, Inc."
+2194,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2195,9202.T,ANA Holdings Inc.
+2196,2269.T,"Meiji Holdings Co., Ltd."
+2197,3659.T,"NEXON Co., Ltd."
+2198,9531.T,"Tokyo Gas Co., Ltd."
+2199,2267.T,"Yakult Honsha Co.,Ltd."
+2200,7203.T,Toyota Motor Corporation
+2201,9437.T,"NTT DOCOMO, INC."
+2202,9432.T,Nippon Telegraph and Telephone Corporation
+2203,9984.T,SoftBank Group Corp.
+2204,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2205,6758.T,Sony Corporation
+2206,6861.T,Keyence Corporation
+2207,9433.T,KDDI Corporation
+2208,9434.T,SoftBank Corp.
+2209,9983.T,"Fast Retailing Co., Ltd."
+2210,6178.T,"Japan Post Holdings Co., Ltd."
+2211,7267.T,"Honda Motor Co., Ltd."
+2212,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2213,8058.T,Mitsubishi Corporation
+2214,2914.T,Japan Tobacco Inc.
+2215,9022.T,Central Japan Railway Company
+2216,7182.T,"JAPAN POST BANK Co.,Ltd."
+2217,6098.T,"Recruit Holdings Co., Ltd."
+2218,8411.T,"Mizuho Financial Group, Inc."
+2219,3382.T,"Seven & i Holdings Co., Ltd."
+2220,4452.T,Kao Corporation
+2221,8686.T,Aflac Incorporated
+2222,6902.T,DENSO Corporation
+2223,8766.T,"Tokio Marine Holdings, Inc."
+2224,9020.T,East Japan Railway Company
+2225,6594.T,Nidec Corporation
+2226,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2227,4661.T,"Oriental Land Co., Ltd."
+2228,7974.T,"Nintendo Co., Ltd."
+2229,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2230,7201.T,"Nissan Motor Co., Ltd."
+2231,6367.T,"Daikin Industries,Ltd."
+2232,7751.T,Canon Inc.
+2233,6954.T,Fanuc Corporation
+2234,6981.T,"Murata Manufacturing Co., Ltd."
+2235,5108.T,Bridgestone Corporation
+2236,8031.T,"Mitsui & Co., Ltd."
+2237,4502.T,Takeda Pharmaceutical Company Limited
+2238,8001.T,ITOCHU Corporation
+2239,6501.T,"Hitachi, Ltd."
+2240,4911.T,"Shiseido Company, Limited"
+2241,4503.T,Astellas Pharma Inc.
+2242,6503.T,Mitsubishi Electric Corporation
+2243,7269.T,Suzuki Motor Corporation
+2244,7741.T,HOYA Corporation
+2245,4523.T,"Eisai Co., Ltd."
+2246,4578.T,"Otsuka Holdings Co., Ltd."
+2247,8801.T,"Mitsui Fudosan Co., Ltd."
+2248,8802.T,"Mitsubishi Estate Co., Ltd."
+2249,1925.T,"Daiwa House Industry Co.,Ltd."
+2250,6752.T,Panasonic Corporation
+2251,4543.T,Terumo Corporation
+2252,4568.T,"Daiichi Sankyo Company, Limited"
+2253,6273.T,SMC Corporation
+2254,6301.T,Komatsu Ltd.
+2255,8113.T,Unicharm Corporation
+2256,8591.T,ORIX Corporation
+2257,8035.T,Tokyo Electron Limited
+2258,2503.T,"Kirin Holdings Company, Limited"
+2259,6971.T,Kyocera Corporation
+2260,9735.T,"SECOM CO., LTD."
+2261,8750.T,"Dai-ichi Life Holdings, Inc."
+2262,2502.T,"Asahi Group Holdings, Ltd."
+2263,5020.T,"JXTG Holdings, Inc."
+2264,8053.T,Sumitomo Corporation
+2265,4507.T,"Shionogi & Co., Ltd."
+2266,6326.T,Kubota Corporation
+2267,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2268,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2269,6502.T,Toshiba Corporation
+2270,7270.T,Subaru Corporation
+2271,8267.T,"Aeon Co., Ltd."
+2272,4901.T,FUJIFILM Holdings Corporation
+2273,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2274,9613.T,NTT DATA Corporation
+2275,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2276,8421.T,Shinkin Central Bank
+2277,6201.T,Toyota Industries Corporation
+2278,3407.T,Asahi Kasei Corporation
+2279,9843.T,"Nitori Holdings Co., Ltd."
+2280,2587.T,Suntory Beverage & Food Limited
+2281,7181.T,"Japan Post Insurance Co., Ltd."
+2282,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2283,9021.T,West Japan Railway Company
+2284,9503.T,"The Kansai Electric Power Company, Incorporated"
+2285,7309.T,Shimano Inc.
+2286,1605.T,Inpex Corporation
+2287,6702.T,Fujitsu Limited
+2288,4689.T,Yahoo Japan Corporation
+2289,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2290,4324.T,Dentsu Inc.
+2291,9201.T,"Japan Airlines Co., Ltd."
+2292,8002.T,Marubeni Corporation
+2293,8604.T,"Nomura Holdings, Inc."
+2294,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2295,9202.T,ANA Holdings Inc.
+2296,2269.T,"Meiji Holdings Co., Ltd."
+2297,3659.T,"NEXON Co., Ltd."
+2298,9531.T,"Tokyo Gas Co., Ltd."
+2299,2267.T,"Yakult Honsha Co.,Ltd."
+2300,7203.T,Toyota Motor Corporation
+2301,9437.T,"NTT DOCOMO, INC."
+2302,9432.T,Nippon Telegraph and Telephone Corporation
+2303,9984.T,SoftBank Group Corp.
+2304,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2305,6758.T,Sony Corporation
+2306,6861.T,Keyence Corporation
+2307,9433.T,KDDI Corporation
+2308,9434.T,SoftBank Corp.
+2309,9983.T,"Fast Retailing Co., Ltd."
+2310,6178.T,"Japan Post Holdings Co., Ltd."
+2311,7267.T,"Honda Motor Co., Ltd."
+2312,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2313,8058.T,Mitsubishi Corporation
+2314,2914.T,Japan Tobacco Inc.
+2315,9022.T,Central Japan Railway Company
+2316,7182.T,"JAPAN POST BANK Co.,Ltd."
+2317,6098.T,"Recruit Holdings Co., Ltd."
+2318,8411.T,"Mizuho Financial Group, Inc."
+2319,3382.T,"Seven & i Holdings Co., Ltd."
+2320,4452.T,Kao Corporation
+2321,8686.T,Aflac Incorporated
+2322,6902.T,DENSO Corporation
+2323,8766.T,"Tokio Marine Holdings, Inc."
+2324,9020.T,East Japan Railway Company
+2325,6594.T,Nidec Corporation
+2326,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2327,4661.T,"Oriental Land Co., Ltd."
+2328,7974.T,"Nintendo Co., Ltd."
+2329,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2330,7201.T,"Nissan Motor Co., Ltd."
+2331,6367.T,"Daikin Industries,Ltd."
+2332,7751.T,Canon Inc.
+2333,6954.T,Fanuc Corporation
+2334,6981.T,"Murata Manufacturing Co., Ltd."
+2335,5108.T,Bridgestone Corporation
+2336,8031.T,"Mitsui & Co., Ltd."
+2337,4502.T,Takeda Pharmaceutical Company Limited
+2338,8001.T,ITOCHU Corporation
+2339,6501.T,"Hitachi, Ltd."
+2340,4911.T,"Shiseido Company, Limited"
+2341,4503.T,Astellas Pharma Inc.
+2342,6503.T,Mitsubishi Electric Corporation
+2343,7269.T,Suzuki Motor Corporation
+2344,7741.T,HOYA Corporation
+2345,4523.T,"Eisai Co., Ltd."
+2346,4578.T,"Otsuka Holdings Co., Ltd."
+2347,8801.T,"Mitsui Fudosan Co., Ltd."
+2348,8802.T,"Mitsubishi Estate Co., Ltd."
+2349,1925.T,"Daiwa House Industry Co.,Ltd."
+2350,6752.T,Panasonic Corporation
+2351,4543.T,Terumo Corporation
+2352,4568.T,"Daiichi Sankyo Company, Limited"
+2353,6273.T,SMC Corporation
+2354,6301.T,Komatsu Ltd.
+2355,8113.T,Unicharm Corporation
+2356,8591.T,ORIX Corporation
+2357,8035.T,Tokyo Electron Limited
+2358,2503.T,"Kirin Holdings Company, Limited"
+2359,6971.T,Kyocera Corporation
+2360,9735.T,"SECOM CO., LTD."
+2361,8750.T,"Dai-ichi Life Holdings, Inc."
+2362,2502.T,"Asahi Group Holdings, Ltd."
+2363,5020.T,"JXTG Holdings, Inc."
+2364,8053.T,Sumitomo Corporation
+2365,4507.T,"Shionogi & Co., Ltd."
+2366,6326.T,Kubota Corporation
+2367,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2368,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2369,6502.T,Toshiba Corporation
+2370,7270.T,Subaru Corporation
+2371,8267.T,"Aeon Co., Ltd."
+2372,4901.T,FUJIFILM Holdings Corporation
+2373,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2374,9613.T,NTT DATA Corporation
+2375,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2376,8421.T,Shinkin Central Bank
+2377,6201.T,Toyota Industries Corporation
+2378,3407.T,Asahi Kasei Corporation
+2379,9843.T,"Nitori Holdings Co., Ltd."
+2380,2587.T,Suntory Beverage & Food Limited
+2381,7181.T,"Japan Post Insurance Co., Ltd."
+2382,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2383,9021.T,West Japan Railway Company
+2384,9503.T,"The Kansai Electric Power Company, Incorporated"
+2385,7309.T,Shimano Inc.
+2386,1605.T,Inpex Corporation
+2387,6702.T,Fujitsu Limited
+2388,4689.T,Yahoo Japan Corporation
+2389,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2390,4324.T,Dentsu Inc.
+2391,9201.T,"Japan Airlines Co., Ltd."
+2392,8002.T,Marubeni Corporation
+2393,8604.T,"Nomura Holdings, Inc."
+2394,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2395,9202.T,ANA Holdings Inc.
+2396,2269.T,"Meiji Holdings Co., Ltd."
+2397,3659.T,"NEXON Co., Ltd."
+2398,9531.T,"Tokyo Gas Co., Ltd."
+2399,2267.T,"Yakult Honsha Co.,Ltd."
+2400,7203.T,Toyota Motor Corporation
+2401,9437.T,"NTT DOCOMO, INC."
+2402,9432.T,Nippon Telegraph and Telephone Corporation
+2403,9984.T,SoftBank Group Corp.
+2404,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2405,6758.T,Sony Corporation
+2406,6861.T,Keyence Corporation
+2407,9433.T,KDDI Corporation
+2408,9434.T,SoftBank Corp.
+2409,9983.T,"Fast Retailing Co., Ltd."
+2410,6178.T,"Japan Post Holdings Co., Ltd."
+2411,7267.T,"Honda Motor Co., Ltd."
+2412,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2413,8058.T,Mitsubishi Corporation
+2414,2914.T,Japan Tobacco Inc.
+2415,9022.T,Central Japan Railway Company
+2416,7182.T,"JAPAN POST BANK Co.,Ltd."
+2417,6098.T,"Recruit Holdings Co., Ltd."
+2418,8411.T,"Mizuho Financial Group, Inc."
+2419,3382.T,"Seven & i Holdings Co., Ltd."
+2420,4452.T,Kao Corporation
+2421,8686.T,Aflac Incorporated
+2422,6902.T,DENSO Corporation
+2423,8766.T,"Tokio Marine Holdings, Inc."
+2424,9020.T,East Japan Railway Company
+2425,6594.T,Nidec Corporation
+2426,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2427,4661.T,"Oriental Land Co., Ltd."
+2428,7974.T,"Nintendo Co., Ltd."
+2429,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2430,7201.T,"Nissan Motor Co., Ltd."
+2431,6367.T,"Daikin Industries,Ltd."
+2432,7751.T,Canon Inc.
+2433,6954.T,Fanuc Corporation
+2434,6981.T,"Murata Manufacturing Co., Ltd."
+2435,5108.T,Bridgestone Corporation
+2436,8031.T,"Mitsui & Co., Ltd."
+2437,4502.T,Takeda Pharmaceutical Company Limited
+2438,8001.T,ITOCHU Corporation
+2439,6501.T,"Hitachi, Ltd."
+2440,4911.T,"Shiseido Company, Limited"
+2441,4503.T,Astellas Pharma Inc.
+2442,6503.T,Mitsubishi Electric Corporation
+2443,7269.T,Suzuki Motor Corporation
+2444,7741.T,HOYA Corporation
+2445,4523.T,"Eisai Co., Ltd."
+2446,4578.T,"Otsuka Holdings Co., Ltd."
+2447,8801.T,"Mitsui Fudosan Co., Ltd."
+2448,8802.T,"Mitsubishi Estate Co., Ltd."
+2449,1925.T,"Daiwa House Industry Co.,Ltd."
+2450,6752.T,Panasonic Corporation
+2451,4543.T,Terumo Corporation
+2452,4568.T,"Daiichi Sankyo Company, Limited"
+2453,6273.T,SMC Corporation
+2454,6301.T,Komatsu Ltd.
+2455,8113.T,Unicharm Corporation
+2456,8591.T,ORIX Corporation
+2457,8035.T,Tokyo Electron Limited
+2458,2503.T,"Kirin Holdings Company, Limited"
+2459,6971.T,Kyocera Corporation
+2460,9735.T,"SECOM CO., LTD."
+2461,8750.T,"Dai-ichi Life Holdings, Inc."
+2462,2502.T,"Asahi Group Holdings, Ltd."
+2463,5020.T,"JXTG Holdings, Inc."
+2464,8053.T,Sumitomo Corporation
+2465,4507.T,"Shionogi & Co., Ltd."
+2466,6326.T,Kubota Corporation
+2467,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2468,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2469,6502.T,Toshiba Corporation
+2470,7270.T,Subaru Corporation
+2471,8267.T,"Aeon Co., Ltd."
+2472,4901.T,FUJIFILM Holdings Corporation
+2473,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2474,9613.T,NTT DATA Corporation
+2475,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2476,8421.T,Shinkin Central Bank
+2477,6201.T,Toyota Industries Corporation
+2478,3407.T,Asahi Kasei Corporation
+2479,9843.T,"Nitori Holdings Co., Ltd."
+2480,2587.T,Suntory Beverage & Food Limited
+2481,7181.T,"Japan Post Insurance Co., Ltd."
+2482,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2483,9021.T,West Japan Railway Company
+2484,9503.T,"The Kansai Electric Power Company, Incorporated"
+2485,7309.T,Shimano Inc.
+2486,1605.T,Inpex Corporation
+2487,6702.T,Fujitsu Limited
+2488,4689.T,Yahoo Japan Corporation
+2489,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2490,4324.T,Dentsu Inc.
+2491,9201.T,"Japan Airlines Co., Ltd."
+2492,8002.T,Marubeni Corporation
+2493,8604.T,"Nomura Holdings, Inc."
+2494,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2495,9202.T,ANA Holdings Inc.
+2496,2269.T,"Meiji Holdings Co., Ltd."
+2497,3659.T,"NEXON Co., Ltd."
+2498,9531.T,"Tokyo Gas Co., Ltd."
+2499,2267.T,"Yakult Honsha Co.,Ltd."
+2500,7203.T,Toyota Motor Corporation
+2501,9437.T,"NTT DOCOMO, INC."
+2502,9432.T,Nippon Telegraph and Telephone Corporation
+2503,9984.T,SoftBank Group Corp.
+2504,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2505,6758.T,Sony Corporation
+2506,6861.T,Keyence Corporation
+2507,9433.T,KDDI Corporation
+2508,9434.T,SoftBank Corp.
+2509,9983.T,"Fast Retailing Co., Ltd."
+2510,6178.T,"Japan Post Holdings Co., Ltd."
+2511,7267.T,"Honda Motor Co., Ltd."
+2512,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2513,8058.T,Mitsubishi Corporation
+2514,2914.T,Japan Tobacco Inc.
+2515,9022.T,Central Japan Railway Company
+2516,7182.T,"JAPAN POST BANK Co.,Ltd."
+2517,6098.T,"Recruit Holdings Co., Ltd."
+2518,8411.T,"Mizuho Financial Group, Inc."
+2519,3382.T,"Seven & i Holdings Co., Ltd."
+2520,4452.T,Kao Corporation
+2521,8686.T,Aflac Incorporated
+2522,6902.T,DENSO Corporation
+2523,8766.T,"Tokio Marine Holdings, Inc."
+2524,9020.T,East Japan Railway Company
+2525,6594.T,Nidec Corporation
+2526,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2527,4661.T,"Oriental Land Co., Ltd."
+2528,7974.T,"Nintendo Co., Ltd."
+2529,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2530,7201.T,"Nissan Motor Co., Ltd."
+2531,6367.T,"Daikin Industries,Ltd."
+2532,7751.T,Canon Inc.
+2533,6954.T,Fanuc Corporation
+2534,6981.T,"Murata Manufacturing Co., Ltd."
+2535,5108.T,Bridgestone Corporation
+2536,8031.T,"Mitsui & Co., Ltd."
+2537,4502.T,Takeda Pharmaceutical Company Limited
+2538,8001.T,ITOCHU Corporation
+2539,6501.T,"Hitachi, Ltd."
+2540,4911.T,"Shiseido Company, Limited"
+2541,4503.T,Astellas Pharma Inc.
+2542,6503.T,Mitsubishi Electric Corporation
+2543,7269.T,Suzuki Motor Corporation
+2544,7741.T,HOYA Corporation
+2545,4523.T,"Eisai Co., Ltd."
+2546,4578.T,"Otsuka Holdings Co., Ltd."
+2547,8801.T,"Mitsui Fudosan Co., Ltd."
+2548,8802.T,"Mitsubishi Estate Co., Ltd."
+2549,1925.T,"Daiwa House Industry Co.,Ltd."
+2550,6752.T,Panasonic Corporation
+2551,4543.T,Terumo Corporation
+2552,4568.T,"Daiichi Sankyo Company, Limited"
+2553,6273.T,SMC Corporation
+2554,6301.T,Komatsu Ltd.
+2555,8113.T,Unicharm Corporation
+2556,8591.T,ORIX Corporation
+2557,8035.T,Tokyo Electron Limited
+2558,2503.T,"Kirin Holdings Company, Limited"
+2559,6971.T,Kyocera Corporation
+2560,9735.T,"SECOM CO., LTD."
+2561,8750.T,"Dai-ichi Life Holdings, Inc."
+2562,2502.T,"Asahi Group Holdings, Ltd."
+2563,5020.T,"JXTG Holdings, Inc."
+2564,8053.T,Sumitomo Corporation
+2565,4507.T,"Shionogi & Co., Ltd."
+2566,6326.T,Kubota Corporation
+2567,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2568,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2569,6502.T,Toshiba Corporation
+2570,7270.T,Subaru Corporation
+2571,8267.T,"Aeon Co., Ltd."
+2572,4901.T,FUJIFILM Holdings Corporation
+2573,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2574,9613.T,NTT DATA Corporation
+2575,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2576,8421.T,Shinkin Central Bank
+2577,6201.T,Toyota Industries Corporation
+2578,3407.T,Asahi Kasei Corporation
+2579,9843.T,"Nitori Holdings Co., Ltd."
+2580,2587.T,Suntory Beverage & Food Limited
+2581,7181.T,"Japan Post Insurance Co., Ltd."
+2582,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2583,9021.T,West Japan Railway Company
+2584,9503.T,"The Kansai Electric Power Company, Incorporated"
+2585,7309.T,Shimano Inc.
+2586,1605.T,Inpex Corporation
+2587,6702.T,Fujitsu Limited
+2588,4689.T,Yahoo Japan Corporation
+2589,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2590,4324.T,Dentsu Inc.
+2591,9201.T,"Japan Airlines Co., Ltd."
+2592,8002.T,Marubeni Corporation
+2593,8604.T,"Nomura Holdings, Inc."
+2594,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2595,9202.T,ANA Holdings Inc.
+2596,2269.T,"Meiji Holdings Co., Ltd."
+2597,3659.T,"NEXON Co., Ltd."
+2598,9531.T,"Tokyo Gas Co., Ltd."
+2599,2267.T,"Yakult Honsha Co.,Ltd."
+2600,7203.T,Toyota Motor Corporation
+2601,9437.T,"NTT DOCOMO, INC."
+2602,9432.T,Nippon Telegraph and Telephone Corporation
+2603,9984.T,SoftBank Group Corp.
+2604,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2605,6758.T,Sony Corporation
+2606,6861.T,Keyence Corporation
+2607,9433.T,KDDI Corporation
+2608,9434.T,SoftBank Corp.
+2609,9983.T,"Fast Retailing Co., Ltd."
+2610,6178.T,"Japan Post Holdings Co., Ltd."
+2611,7267.T,"Honda Motor Co., Ltd."
+2612,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2613,8058.T,Mitsubishi Corporation
+2614,2914.T,Japan Tobacco Inc.
+2615,9022.T,Central Japan Railway Company
+2616,7182.T,"JAPAN POST BANK Co.,Ltd."
+2617,6098.T,"Recruit Holdings Co., Ltd."
+2618,8411.T,"Mizuho Financial Group, Inc."
+2619,3382.T,"Seven & i Holdings Co., Ltd."
+2620,4452.T,Kao Corporation
+2621,8686.T,Aflac Incorporated
+2622,6902.T,DENSO Corporation
+2623,8766.T,"Tokio Marine Holdings, Inc."
+2624,9020.T,East Japan Railway Company
+2625,6594.T,Nidec Corporation
+2626,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2627,4661.T,"Oriental Land Co., Ltd."
+2628,7974.T,"Nintendo Co., Ltd."
+2629,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2630,7201.T,"Nissan Motor Co., Ltd."
+2631,6367.T,"Daikin Industries,Ltd."
+2632,7751.T,Canon Inc.
+2633,6954.T,Fanuc Corporation
+2634,6981.T,"Murata Manufacturing Co., Ltd."
+2635,5108.T,Bridgestone Corporation
+2636,8031.T,"Mitsui & Co., Ltd."
+2637,4502.T,Takeda Pharmaceutical Company Limited
+2638,8001.T,ITOCHU Corporation
+2639,6501.T,"Hitachi, Ltd."
+2640,4911.T,"Shiseido Company, Limited"
+2641,4503.T,Astellas Pharma Inc.
+2642,6503.T,Mitsubishi Electric Corporation
+2643,7269.T,Suzuki Motor Corporation
+2644,7741.T,HOYA Corporation
+2645,4523.T,"Eisai Co., Ltd."
+2646,4578.T,"Otsuka Holdings Co., Ltd."
+2647,8801.T,"Mitsui Fudosan Co., Ltd."
+2648,8802.T,"Mitsubishi Estate Co., Ltd."
+2649,1925.T,"Daiwa House Industry Co.,Ltd."
+2650,6752.T,Panasonic Corporation
+2651,4543.T,Terumo Corporation
+2652,4568.T,"Daiichi Sankyo Company, Limited"
+2653,6273.T,SMC Corporation
+2654,6301.T,Komatsu Ltd.
+2655,8113.T,Unicharm Corporation
+2656,8591.T,ORIX Corporation
+2657,8035.T,Tokyo Electron Limited
+2658,2503.T,"Kirin Holdings Company, Limited"
+2659,6971.T,Kyocera Corporation
+2660,9735.T,"SECOM CO., LTD."
+2661,8750.T,"Dai-ichi Life Holdings, Inc."
+2662,2502.T,"Asahi Group Holdings, Ltd."
+2663,5020.T,"JXTG Holdings, Inc."
+2664,8053.T,Sumitomo Corporation
+2665,4507.T,"Shionogi & Co., Ltd."
+2666,6326.T,Kubota Corporation
+2667,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2668,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2669,6502.T,Toshiba Corporation
+2670,7270.T,Subaru Corporation
+2671,8267.T,"Aeon Co., Ltd."
+2672,4901.T,FUJIFILM Holdings Corporation
+2673,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2674,9613.T,NTT DATA Corporation
+2675,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2676,8421.T,Shinkin Central Bank
+2677,6201.T,Toyota Industries Corporation
+2678,3407.T,Asahi Kasei Corporation
+2679,9843.T,"Nitori Holdings Co., Ltd."
+2680,2587.T,Suntory Beverage & Food Limited
+2681,7181.T,"Japan Post Insurance Co., Ltd."
+2682,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2683,9021.T,West Japan Railway Company
+2684,9503.T,"The Kansai Electric Power Company, Incorporated"
+2685,7309.T,Shimano Inc.
+2686,1605.T,Inpex Corporation
+2687,6702.T,Fujitsu Limited
+2688,4689.T,Yahoo Japan Corporation
+2689,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2690,4324.T,Dentsu Inc.
+2691,9201.T,"Japan Airlines Co., Ltd."
+2692,8002.T,Marubeni Corporation
+2693,8604.T,"Nomura Holdings, Inc."
+2694,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2695,9202.T,ANA Holdings Inc.
+2696,2269.T,"Meiji Holdings Co., Ltd."
+2697,3659.T,"NEXON Co., Ltd."
+2698,9531.T,"Tokyo Gas Co., Ltd."
+2699,2267.T,"Yakult Honsha Co.,Ltd."
+2700,7203.T,Toyota Motor Corporation
+2701,9437.T,"NTT DOCOMO, INC."
+2702,9432.T,Nippon Telegraph and Telephone Corporation
+2703,9984.T,SoftBank Group Corp.
+2704,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2705,6758.T,Sony Corporation
+2706,6861.T,Keyence Corporation
+2707,9433.T,KDDI Corporation
+2708,9434.T,SoftBank Corp.
+2709,9983.T,"Fast Retailing Co., Ltd."
+2710,6178.T,"Japan Post Holdings Co., Ltd."
+2711,7267.T,"Honda Motor Co., Ltd."
+2712,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2713,8058.T,Mitsubishi Corporation
+2714,2914.T,Japan Tobacco Inc.
+2715,9022.T,Central Japan Railway Company
+2716,7182.T,"JAPAN POST BANK Co.,Ltd."
+2717,6098.T,"Recruit Holdings Co., Ltd."
+2718,8411.T,"Mizuho Financial Group, Inc."
+2719,3382.T,"Seven & i Holdings Co., Ltd."
+2720,4452.T,Kao Corporation
+2721,8686.T,Aflac Incorporated
+2722,6902.T,DENSO Corporation
+2723,8766.T,"Tokio Marine Holdings, Inc."
+2724,9020.T,East Japan Railway Company
+2725,6594.T,Nidec Corporation
+2726,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2727,4661.T,"Oriental Land Co., Ltd."
+2728,7974.T,"Nintendo Co., Ltd."
+2729,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2730,7201.T,"Nissan Motor Co., Ltd."
+2731,6367.T,"Daikin Industries,Ltd."
+2732,7751.T,Canon Inc.
+2733,6954.T,Fanuc Corporation
+2734,6981.T,"Murata Manufacturing Co., Ltd."
+2735,5108.T,Bridgestone Corporation
+2736,8031.T,"Mitsui & Co., Ltd."
+2737,4502.T,Takeda Pharmaceutical Company Limited
+2738,8001.T,ITOCHU Corporation
+2739,6501.T,"Hitachi, Ltd."
+2740,4911.T,"Shiseido Company, Limited"
+2741,4503.T,Astellas Pharma Inc.
+2742,6503.T,Mitsubishi Electric Corporation
+2743,7269.T,Suzuki Motor Corporation
+2744,7741.T,HOYA Corporation
+2745,4523.T,"Eisai Co., Ltd."
+2746,4578.T,"Otsuka Holdings Co., Ltd."
+2747,8801.T,"Mitsui Fudosan Co., Ltd."
+2748,8802.T,"Mitsubishi Estate Co., Ltd."
+2749,1925.T,"Daiwa House Industry Co.,Ltd."
+2750,6752.T,Panasonic Corporation
+2751,4543.T,Terumo Corporation
+2752,4568.T,"Daiichi Sankyo Company, Limited"
+2753,6273.T,SMC Corporation
+2754,6301.T,Komatsu Ltd.
+2755,8113.T,Unicharm Corporation
+2756,8591.T,ORIX Corporation
+2757,8035.T,Tokyo Electron Limited
+2758,2503.T,"Kirin Holdings Company, Limited"
+2759,6971.T,Kyocera Corporation
+2760,9735.T,"SECOM CO., LTD."
+2761,8750.T,"Dai-ichi Life Holdings, Inc."
+2762,2502.T,"Asahi Group Holdings, Ltd."
+2763,5020.T,"JXTG Holdings, Inc."
+2764,8053.T,Sumitomo Corporation
+2765,4507.T,"Shionogi & Co., Ltd."
+2766,6326.T,Kubota Corporation
+2767,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2768,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2769,6502.T,Toshiba Corporation
+2770,7270.T,Subaru Corporation
+2771,8267.T,"Aeon Co., Ltd."
+2772,4901.T,FUJIFILM Holdings Corporation
+2773,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2774,9613.T,NTT DATA Corporation
+2775,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2776,8421.T,Shinkin Central Bank
+2777,6201.T,Toyota Industries Corporation
+2778,3407.T,Asahi Kasei Corporation
+2779,9843.T,"Nitori Holdings Co., Ltd."
+2780,2587.T,Suntory Beverage & Food Limited
+2781,7181.T,"Japan Post Insurance Co., Ltd."
+2782,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2783,9021.T,West Japan Railway Company
+2784,9503.T,"The Kansai Electric Power Company, Incorporated"
+2785,7309.T,Shimano Inc.
+2786,1605.T,Inpex Corporation
+2787,6702.T,Fujitsu Limited
+2788,4689.T,Yahoo Japan Corporation
+2789,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2790,4324.T,Dentsu Inc.
+2791,9201.T,"Japan Airlines Co., Ltd."
+2792,8002.T,Marubeni Corporation
+2793,8604.T,"Nomura Holdings, Inc."
+2794,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2795,9202.T,ANA Holdings Inc.
+2796,2269.T,"Meiji Holdings Co., Ltd."
+2797,3659.T,"NEXON Co., Ltd."
+2798,9531.T,"Tokyo Gas Co., Ltd."
+2799,2267.T,"Yakult Honsha Co.,Ltd."
+2800,7203.T,Toyota Motor Corporation
+2801,9437.T,"NTT DOCOMO, INC."
+2802,9432.T,Nippon Telegraph and Telephone Corporation
+2803,9984.T,SoftBank Group Corp.
+2804,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2805,6758.T,Sony Corporation
+2806,6861.T,Keyence Corporation
+2807,9433.T,KDDI Corporation
+2808,9434.T,SoftBank Corp.
+2809,9983.T,"Fast Retailing Co., Ltd."
+2810,6178.T,"Japan Post Holdings Co., Ltd."
+2811,7267.T,"Honda Motor Co., Ltd."
+2812,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2813,8058.T,Mitsubishi Corporation
+2814,2914.T,Japan Tobacco Inc.
+2815,9022.T,Central Japan Railway Company
+2816,7182.T,"JAPAN POST BANK Co.,Ltd."
+2817,6098.T,"Recruit Holdings Co., Ltd."
+2818,8411.T,"Mizuho Financial Group, Inc."
+2819,3382.T,"Seven & i Holdings Co., Ltd."
+2820,4452.T,Kao Corporation
+2821,8686.T,Aflac Incorporated
+2822,6902.T,DENSO Corporation
+2823,8766.T,"Tokio Marine Holdings, Inc."
+2824,9020.T,East Japan Railway Company
+2825,6594.T,Nidec Corporation
+2826,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2827,4661.T,"Oriental Land Co., Ltd."
+2828,7974.T,"Nintendo Co., Ltd."
+2829,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2830,7201.T,"Nissan Motor Co., Ltd."
+2831,6367.T,"Daikin Industries,Ltd."
+2832,7751.T,Canon Inc.
+2833,6954.T,Fanuc Corporation
+2834,6981.T,"Murata Manufacturing Co., Ltd."
+2835,5108.T,Bridgestone Corporation
+2836,8031.T,"Mitsui & Co., Ltd."
+2837,4502.T,Takeda Pharmaceutical Company Limited
+2838,8001.T,ITOCHU Corporation
+2839,6501.T,"Hitachi, Ltd."
+2840,4911.T,"Shiseido Company, Limited"
+2841,4503.T,Astellas Pharma Inc.
+2842,6503.T,Mitsubishi Electric Corporation
+2843,7269.T,Suzuki Motor Corporation
+2844,7741.T,HOYA Corporation
+2845,4523.T,"Eisai Co., Ltd."
+2846,4578.T,"Otsuka Holdings Co., Ltd."
+2847,8801.T,"Mitsui Fudosan Co., Ltd."
+2848,8802.T,"Mitsubishi Estate Co., Ltd."
+2849,1925.T,"Daiwa House Industry Co.,Ltd."
+2850,6752.T,Panasonic Corporation
+2851,4543.T,Terumo Corporation
+2852,4568.T,"Daiichi Sankyo Company, Limited"
+2853,6273.T,SMC Corporation
+2854,6301.T,Komatsu Ltd.
+2855,8113.T,Unicharm Corporation
+2856,8591.T,ORIX Corporation
+2857,8035.T,Tokyo Electron Limited
+2858,2503.T,"Kirin Holdings Company, Limited"
+2859,6971.T,Kyocera Corporation
+2860,9735.T,"SECOM CO., LTD."
+2861,8750.T,"Dai-ichi Life Holdings, Inc."
+2862,2502.T,"Asahi Group Holdings, Ltd."
+2863,5020.T,"JXTG Holdings, Inc."
+2864,8053.T,Sumitomo Corporation
+2865,4507.T,"Shionogi & Co., Ltd."
+2866,6326.T,Kubota Corporation
+2867,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2868,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2869,6502.T,Toshiba Corporation
+2870,7270.T,Subaru Corporation
+2871,8267.T,"Aeon Co., Ltd."
+2872,4901.T,FUJIFILM Holdings Corporation
+2873,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2874,9613.T,NTT DATA Corporation
+2875,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2876,8421.T,Shinkin Central Bank
+2877,6201.T,Toyota Industries Corporation
+2878,3407.T,Asahi Kasei Corporation
+2879,9843.T,"Nitori Holdings Co., Ltd."
+2880,2587.T,Suntory Beverage & Food Limited
+2881,7181.T,"Japan Post Insurance Co., Ltd."
+2882,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2883,9021.T,West Japan Railway Company
+2884,9503.T,"The Kansai Electric Power Company, Incorporated"
+2885,7309.T,Shimano Inc.
+2886,1605.T,Inpex Corporation
+2887,6702.T,Fujitsu Limited
+2888,4689.T,Yahoo Japan Corporation
+2889,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2890,4324.T,Dentsu Inc.
+2891,9201.T,"Japan Airlines Co., Ltd."
+2892,8002.T,Marubeni Corporation
+2893,8604.T,"Nomura Holdings, Inc."
+2894,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2895,9202.T,ANA Holdings Inc.
+2896,2269.T,"Meiji Holdings Co., Ltd."
+2897,3659.T,"NEXON Co., Ltd."
+2898,9531.T,"Tokyo Gas Co., Ltd."
+2899,2267.T,"Yakult Honsha Co.,Ltd."
+2900,7203.T,Toyota Motor Corporation
+2901,9437.T,"NTT DOCOMO, INC."
+2902,9432.T,Nippon Telegraph and Telephone Corporation
+2903,9984.T,SoftBank Group Corp.
+2904,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+2905,6758.T,Sony Corporation
+2906,6861.T,Keyence Corporation
+2907,9433.T,KDDI Corporation
+2908,9434.T,SoftBank Corp.
+2909,9983.T,"Fast Retailing Co., Ltd."
+2910,6178.T,"Japan Post Holdings Co., Ltd."
+2911,7267.T,"Honda Motor Co., Ltd."
+2912,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+2913,8058.T,Mitsubishi Corporation
+2914,2914.T,Japan Tobacco Inc.
+2915,9022.T,Central Japan Railway Company
+2916,7182.T,"JAPAN POST BANK Co.,Ltd."
+2917,6098.T,"Recruit Holdings Co., Ltd."
+2918,8411.T,"Mizuho Financial Group, Inc."
+2919,3382.T,"Seven & i Holdings Co., Ltd."
+2920,4452.T,Kao Corporation
+2921,8686.T,Aflac Incorporated
+2922,6902.T,DENSO Corporation
+2923,8766.T,"Tokio Marine Holdings, Inc."
+2924,9020.T,East Japan Railway Company
+2925,6594.T,Nidec Corporation
+2926,4063.T,"Shin-Etsu Chemical Co., Ltd."
+2927,4661.T,"Oriental Land Co., Ltd."
+2928,7974.T,"Nintendo Co., Ltd."
+2929,4519.T,"Chugai Pharmaceutical Co., Ltd."
+2930,7201.T,"Nissan Motor Co., Ltd."
+2931,6367.T,"Daikin Industries,Ltd."
+2932,7751.T,Canon Inc.
+2933,6954.T,Fanuc Corporation
+2934,6981.T,"Murata Manufacturing Co., Ltd."
+2935,5108.T,Bridgestone Corporation
+2936,8031.T,"Mitsui & Co., Ltd."
+2937,4502.T,Takeda Pharmaceutical Company Limited
+2938,8001.T,ITOCHU Corporation
+2939,6501.T,"Hitachi, Ltd."
+2940,4911.T,"Shiseido Company, Limited"
+2941,4503.T,Astellas Pharma Inc.
+2942,6503.T,Mitsubishi Electric Corporation
+2943,7269.T,Suzuki Motor Corporation
+2944,7741.T,HOYA Corporation
+2945,4523.T,"Eisai Co., Ltd."
+2946,4578.T,"Otsuka Holdings Co., Ltd."
+2947,8801.T,"Mitsui Fudosan Co., Ltd."
+2948,8802.T,"Mitsubishi Estate Co., Ltd."
+2949,1925.T,"Daiwa House Industry Co.,Ltd."
+2950,6752.T,Panasonic Corporation
+2951,4543.T,Terumo Corporation
+2952,4568.T,"Daiichi Sankyo Company, Limited"
+2953,6273.T,SMC Corporation
+2954,6301.T,Komatsu Ltd.
+2955,8113.T,Unicharm Corporation
+2956,8591.T,ORIX Corporation
+2957,8035.T,Tokyo Electron Limited
+2958,2503.T,"Kirin Holdings Company, Limited"
+2959,6971.T,Kyocera Corporation
+2960,9735.T,"SECOM CO., LTD."
+2961,8750.T,"Dai-ichi Life Holdings, Inc."
+2962,2502.T,"Asahi Group Holdings, Ltd."
+2963,5020.T,"JXTG Holdings, Inc."
+2964,8053.T,Sumitomo Corporation
+2965,4507.T,"Shionogi & Co., Ltd."
+2966,6326.T,Kubota Corporation
+2967,8830.T,"Sumitomo Realty & Development Co., Ltd."
+2968,8725.T,"MS&AD Insurance Group Holdings, Inc."
+2969,6502.T,Toshiba Corporation
+2970,7270.T,Subaru Corporation
+2971,8267.T,"Aeon Co., Ltd."
+2972,4901.T,FUJIFILM Holdings Corporation
+2973,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+2974,9613.T,NTT DATA Corporation
+2975,5401.T,Nippon Steel & Sumitomo Metal Corporation
+2976,8421.T,Shinkin Central Bank
+2977,6201.T,Toyota Industries Corporation
+2978,3407.T,Asahi Kasei Corporation
+2979,9843.T,"Nitori Holdings Co., Ltd."
+2980,2587.T,Suntory Beverage & Food Limited
+2981,7181.T,"Japan Post Insurance Co., Ltd."
+2982,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+2983,9021.T,West Japan Railway Company
+2984,9503.T,"The Kansai Electric Power Company, Incorporated"
+2985,7309.T,Shimano Inc.
+2986,1605.T,Inpex Corporation
+2987,6702.T,Fujitsu Limited
+2988,4689.T,Yahoo Japan Corporation
+2989,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+2990,4324.T,Dentsu Inc.
+2991,9201.T,"Japan Airlines Co., Ltd."
+2992,8002.T,Marubeni Corporation
+2993,8604.T,"Nomura Holdings, Inc."
+2994,7011.T,"Mitsubishi Heavy Industries, Ltd."
+2995,9202.T,ANA Holdings Inc.
+2996,2269.T,"Meiji Holdings Co., Ltd."
+2997,3659.T,"NEXON Co., Ltd."
+2998,9531.T,"Tokyo Gas Co., Ltd."
+2999,2267.T,"Yakult Honsha Co.,Ltd."
+3000,7203.T,Toyota Motor Corporation
+3001,9437.T,"NTT DOCOMO, INC."
+3002,9432.T,Nippon Telegraph and Telephone Corporation
+3003,9984.T,SoftBank Group Corp.
+3004,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3005,6758.T,Sony Corporation
+3006,6861.T,Keyence Corporation
+3007,9433.T,KDDI Corporation
+3008,9434.T,SoftBank Corp.
+3009,9983.T,"Fast Retailing Co., Ltd."
+3010,6178.T,"Japan Post Holdings Co., Ltd."
+3011,7267.T,"Honda Motor Co., Ltd."
+3012,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3013,8058.T,Mitsubishi Corporation
+3014,2914.T,Japan Tobacco Inc.
+3015,9022.T,Central Japan Railway Company
+3016,7182.T,"JAPAN POST BANK Co.,Ltd."
+3017,6098.T,"Recruit Holdings Co., Ltd."
+3018,8411.T,"Mizuho Financial Group, Inc."
+3019,3382.T,"Seven & i Holdings Co., Ltd."
+3020,4452.T,Kao Corporation
+3021,8686.T,Aflac Incorporated
+3022,6902.T,DENSO Corporation
+3023,8766.T,"Tokio Marine Holdings, Inc."
+3024,9020.T,East Japan Railway Company
+3025,6594.T,Nidec Corporation
+3026,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3027,4661.T,"Oriental Land Co., Ltd."
+3028,7974.T,"Nintendo Co., Ltd."
+3029,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3030,7201.T,"Nissan Motor Co., Ltd."
+3031,6367.T,"Daikin Industries,Ltd."
+3032,7751.T,Canon Inc.
+3033,6954.T,Fanuc Corporation
+3034,6981.T,"Murata Manufacturing Co., Ltd."
+3035,5108.T,Bridgestone Corporation
+3036,8031.T,"Mitsui & Co., Ltd."
+3037,4502.T,Takeda Pharmaceutical Company Limited
+3038,8001.T,ITOCHU Corporation
+3039,6501.T,"Hitachi, Ltd."
+3040,4911.T,"Shiseido Company, Limited"
+3041,4503.T,Astellas Pharma Inc.
+3042,6503.T,Mitsubishi Electric Corporation
+3043,7269.T,Suzuki Motor Corporation
+3044,7741.T,HOYA Corporation
+3045,4523.T,"Eisai Co., Ltd."
+3046,4578.T,"Otsuka Holdings Co., Ltd."
+3047,8801.T,"Mitsui Fudosan Co., Ltd."
+3048,8802.T,"Mitsubishi Estate Co., Ltd."
+3049,1925.T,"Daiwa House Industry Co.,Ltd."
+3050,6752.T,Panasonic Corporation
+3051,4543.T,Terumo Corporation
+3052,4568.T,"Daiichi Sankyo Company, Limited"
+3053,6273.T,SMC Corporation
+3054,6301.T,Komatsu Ltd.
+3055,8113.T,Unicharm Corporation
+3056,8591.T,ORIX Corporation
+3057,8035.T,Tokyo Electron Limited
+3058,2503.T,"Kirin Holdings Company, Limited"
+3059,6971.T,Kyocera Corporation
+3060,9735.T,"SECOM CO., LTD."
+3061,8750.T,"Dai-ichi Life Holdings, Inc."
+3062,2502.T,"Asahi Group Holdings, Ltd."
+3063,5020.T,"JXTG Holdings, Inc."
+3064,8053.T,Sumitomo Corporation
+3065,4507.T,"Shionogi & Co., Ltd."
+3066,6326.T,Kubota Corporation
+3067,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3068,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3069,6502.T,Toshiba Corporation
+3070,7270.T,Subaru Corporation
+3071,8267.T,"Aeon Co., Ltd."
+3072,4901.T,FUJIFILM Holdings Corporation
+3073,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3074,9613.T,NTT DATA Corporation
+3075,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3076,8421.T,Shinkin Central Bank
+3077,6201.T,Toyota Industries Corporation
+3078,3407.T,Asahi Kasei Corporation
+3079,9843.T,"Nitori Holdings Co., Ltd."
+3080,2587.T,Suntory Beverage & Food Limited
+3081,7181.T,"Japan Post Insurance Co., Ltd."
+3082,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3083,9021.T,West Japan Railway Company
+3084,9503.T,"The Kansai Electric Power Company, Incorporated"
+3085,7309.T,Shimano Inc.
+3086,1605.T,Inpex Corporation
+3087,6702.T,Fujitsu Limited
+3088,4689.T,Yahoo Japan Corporation
+3089,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3090,4324.T,Dentsu Inc.
+3091,9201.T,"Japan Airlines Co., Ltd."
+3092,8002.T,Marubeni Corporation
+3093,8604.T,"Nomura Holdings, Inc."
+3094,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3095,9202.T,ANA Holdings Inc.
+3096,2269.T,"Meiji Holdings Co., Ltd."
+3097,3659.T,"NEXON Co., Ltd."
+3098,9531.T,"Tokyo Gas Co., Ltd."
+3099,2267.T,"Yakult Honsha Co.,Ltd."
+3100,7203.T,Toyota Motor Corporation
+3101,9437.T,"NTT DOCOMO, INC."
+3102,9432.T,Nippon Telegraph and Telephone Corporation
+3103,9984.T,SoftBank Group Corp.
+3104,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3105,6758.T,Sony Corporation
+3106,6861.T,Keyence Corporation
+3107,9433.T,KDDI Corporation
+3108,9434.T,SoftBank Corp.
+3109,9983.T,"Fast Retailing Co., Ltd."
+3110,6178.T,"Japan Post Holdings Co., Ltd."
+3111,7267.T,"Honda Motor Co., Ltd."
+3112,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3113,8058.T,Mitsubishi Corporation
+3114,2914.T,Japan Tobacco Inc.
+3115,9022.T,Central Japan Railway Company
+3116,7182.T,"JAPAN POST BANK Co.,Ltd."
+3117,6098.T,"Recruit Holdings Co., Ltd."
+3118,8411.T,"Mizuho Financial Group, Inc."
+3119,3382.T,"Seven & i Holdings Co., Ltd."
+3120,4452.T,Kao Corporation
+3121,8686.T,Aflac Incorporated
+3122,6902.T,DENSO Corporation
+3123,8766.T,"Tokio Marine Holdings, Inc."
+3124,9020.T,East Japan Railway Company
+3125,6594.T,Nidec Corporation
+3126,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3127,4661.T,"Oriental Land Co., Ltd."
+3128,7974.T,"Nintendo Co., Ltd."
+3129,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3130,7201.T,"Nissan Motor Co., Ltd."
+3131,6367.T,"Daikin Industries,Ltd."
+3132,7751.T,Canon Inc.
+3133,6954.T,Fanuc Corporation
+3134,6981.T,"Murata Manufacturing Co., Ltd."
+3135,5108.T,Bridgestone Corporation
+3136,8031.T,"Mitsui & Co., Ltd."
+3137,4502.T,Takeda Pharmaceutical Company Limited
+3138,8001.T,ITOCHU Corporation
+3139,6501.T,"Hitachi, Ltd."
+3140,4911.T,"Shiseido Company, Limited"
+3141,4503.T,Astellas Pharma Inc.
+3142,6503.T,Mitsubishi Electric Corporation
+3143,7269.T,Suzuki Motor Corporation
+3144,7741.T,HOYA Corporation
+3145,4523.T,"Eisai Co., Ltd."
+3146,4578.T,"Otsuka Holdings Co., Ltd."
+3147,8801.T,"Mitsui Fudosan Co., Ltd."
+3148,8802.T,"Mitsubishi Estate Co., Ltd."
+3149,1925.T,"Daiwa House Industry Co.,Ltd."
+3150,6752.T,Panasonic Corporation
+3151,4543.T,Terumo Corporation
+3152,4568.T,"Daiichi Sankyo Company, Limited"
+3153,6273.T,SMC Corporation
+3154,6301.T,Komatsu Ltd.
+3155,8113.T,Unicharm Corporation
+3156,8591.T,ORIX Corporation
+3157,8035.T,Tokyo Electron Limited
+3158,2503.T,"Kirin Holdings Company, Limited"
+3159,6971.T,Kyocera Corporation
+3160,9735.T,"SECOM CO., LTD."
+3161,8750.T,"Dai-ichi Life Holdings, Inc."
+3162,2502.T,"Asahi Group Holdings, Ltd."
+3163,5020.T,"JXTG Holdings, Inc."
+3164,8053.T,Sumitomo Corporation
+3165,4507.T,"Shionogi & Co., Ltd."
+3166,6326.T,Kubota Corporation
+3167,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3168,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3169,6502.T,Toshiba Corporation
+3170,7270.T,Subaru Corporation
+3171,8267.T,"Aeon Co., Ltd."
+3172,4901.T,FUJIFILM Holdings Corporation
+3173,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3174,9613.T,NTT DATA Corporation
+3175,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3176,8421.T,Shinkin Central Bank
+3177,6201.T,Toyota Industries Corporation
+3178,3407.T,Asahi Kasei Corporation
+3179,9843.T,"Nitori Holdings Co., Ltd."
+3180,2587.T,Suntory Beverage & Food Limited
+3181,7181.T,"Japan Post Insurance Co., Ltd."
+3182,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3183,9021.T,West Japan Railway Company
+3184,9503.T,"The Kansai Electric Power Company, Incorporated"
+3185,7309.T,Shimano Inc.
+3186,1605.T,Inpex Corporation
+3187,6702.T,Fujitsu Limited
+3188,4689.T,Yahoo Japan Corporation
+3189,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3190,4324.T,Dentsu Inc.
+3191,9201.T,"Japan Airlines Co., Ltd."
+3192,8002.T,Marubeni Corporation
+3193,8604.T,"Nomura Holdings, Inc."
+3194,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3195,9202.T,ANA Holdings Inc.
+3196,2269.T,"Meiji Holdings Co., Ltd."
+3197,3659.T,"NEXON Co., Ltd."
+3198,9531.T,"Tokyo Gas Co., Ltd."
+3199,2267.T,"Yakult Honsha Co.,Ltd."
+3200,7203.T,Toyota Motor Corporation
+3201,9437.T,"NTT DOCOMO, INC."
+3202,9432.T,Nippon Telegraph and Telephone Corporation
+3203,9984.T,SoftBank Group Corp.
+3204,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3205,6758.T,Sony Corporation
+3206,6861.T,Keyence Corporation
+3207,9433.T,KDDI Corporation
+3208,9434.T,SoftBank Corp.
+3209,9983.T,"Fast Retailing Co., Ltd."
+3210,6178.T,"Japan Post Holdings Co., Ltd."
+3211,7267.T,"Honda Motor Co., Ltd."
+3212,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3213,8058.T,Mitsubishi Corporation
+3214,2914.T,Japan Tobacco Inc.
+3215,9022.T,Central Japan Railway Company
+3216,7182.T,"JAPAN POST BANK Co.,Ltd."
+3217,6098.T,"Recruit Holdings Co., Ltd."
+3218,8411.T,"Mizuho Financial Group, Inc."
+3219,3382.T,"Seven & i Holdings Co., Ltd."
+3220,4452.T,Kao Corporation
+3221,8686.T,Aflac Incorporated
+3222,6902.T,DENSO Corporation
+3223,8766.T,"Tokio Marine Holdings, Inc."
+3224,9020.T,East Japan Railway Company
+3225,6594.T,Nidec Corporation
+3226,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3227,4661.T,"Oriental Land Co., Ltd."
+3228,7974.T,"Nintendo Co., Ltd."
+3229,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3230,7201.T,"Nissan Motor Co., Ltd."
+3231,6367.T,"Daikin Industries,Ltd."
+3232,7751.T,Canon Inc.
+3233,6954.T,Fanuc Corporation
+3234,6981.T,"Murata Manufacturing Co., Ltd."
+3235,5108.T,Bridgestone Corporation
+3236,8031.T,"Mitsui & Co., Ltd."
+3237,4502.T,Takeda Pharmaceutical Company Limited
+3238,8001.T,ITOCHU Corporation
+3239,6501.T,"Hitachi, Ltd."
+3240,4911.T,"Shiseido Company, Limited"
+3241,4503.T,Astellas Pharma Inc.
+3242,6503.T,Mitsubishi Electric Corporation
+3243,7269.T,Suzuki Motor Corporation
+3244,7741.T,HOYA Corporation
+3245,4523.T,"Eisai Co., Ltd."
+3246,4578.T,"Otsuka Holdings Co., Ltd."
+3247,8801.T,"Mitsui Fudosan Co., Ltd."
+3248,8802.T,"Mitsubishi Estate Co., Ltd."
+3249,1925.T,"Daiwa House Industry Co.,Ltd."
+3250,6752.T,Panasonic Corporation
+3251,4543.T,Terumo Corporation
+3252,4568.T,"Daiichi Sankyo Company, Limited"
+3253,6273.T,SMC Corporation
+3254,6301.T,Komatsu Ltd.
+3255,8113.T,Unicharm Corporation
+3256,8591.T,ORIX Corporation
+3257,8035.T,Tokyo Electron Limited
+3258,2503.T,"Kirin Holdings Company, Limited"
+3259,6971.T,Kyocera Corporation
+3260,9735.T,"SECOM CO., LTD."
+3261,8750.T,"Dai-ichi Life Holdings, Inc."
+3262,2502.T,"Asahi Group Holdings, Ltd."
+3263,5020.T,"JXTG Holdings, Inc."
+3264,8053.T,Sumitomo Corporation
+3265,4507.T,"Shionogi & Co., Ltd."
+3266,6326.T,Kubota Corporation
+3267,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3268,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3269,6502.T,Toshiba Corporation
+3270,7270.T,Subaru Corporation
+3271,8267.T,"Aeon Co., Ltd."
+3272,4901.T,FUJIFILM Holdings Corporation
+3273,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3274,9613.T,NTT DATA Corporation
+3275,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3276,8421.T,Shinkin Central Bank
+3277,6201.T,Toyota Industries Corporation
+3278,3407.T,Asahi Kasei Corporation
+3279,9843.T,"Nitori Holdings Co., Ltd."
+3280,2587.T,Suntory Beverage & Food Limited
+3281,7181.T,"Japan Post Insurance Co., Ltd."
+3282,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3283,9021.T,West Japan Railway Company
+3284,9503.T,"The Kansai Electric Power Company, Incorporated"
+3285,7309.T,Shimano Inc.
+3286,1605.T,Inpex Corporation
+3287,6702.T,Fujitsu Limited
+3288,4689.T,Yahoo Japan Corporation
+3289,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3290,4324.T,Dentsu Inc.
+3291,9201.T,"Japan Airlines Co., Ltd."
+3292,8002.T,Marubeni Corporation
+3293,8604.T,"Nomura Holdings, Inc."
+3294,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3295,9202.T,ANA Holdings Inc.
+3296,2269.T,"Meiji Holdings Co., Ltd."
+3297,3659.T,"NEXON Co., Ltd."
+3298,9531.T,"Tokyo Gas Co., Ltd."
+3299,2267.T,"Yakult Honsha Co.,Ltd."
+3300,7203.T,Toyota Motor Corporation
+3301,9437.T,"NTT DOCOMO, INC."
+3302,9432.T,Nippon Telegraph and Telephone Corporation
+3303,9984.T,SoftBank Group Corp.
+3304,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3305,6758.T,Sony Corporation
+3306,6861.T,Keyence Corporation
+3307,9433.T,KDDI Corporation
+3308,9434.T,SoftBank Corp.
+3309,9983.T,"Fast Retailing Co., Ltd."
+3310,6178.T,"Japan Post Holdings Co., Ltd."
+3311,7267.T,"Honda Motor Co., Ltd."
+3312,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3313,8058.T,Mitsubishi Corporation
+3314,2914.T,Japan Tobacco Inc.
+3315,9022.T,Central Japan Railway Company
+3316,7182.T,"JAPAN POST BANK Co.,Ltd."
+3317,6098.T,"Recruit Holdings Co., Ltd."
+3318,8411.T,"Mizuho Financial Group, Inc."
+3319,3382.T,"Seven & i Holdings Co., Ltd."
+3320,4452.T,Kao Corporation
+3321,8686.T,Aflac Incorporated
+3322,6902.T,DENSO Corporation
+3323,8766.T,"Tokio Marine Holdings, Inc."
+3324,9020.T,East Japan Railway Company
+3325,6594.T,Nidec Corporation
+3326,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3327,4661.T,"Oriental Land Co., Ltd."
+3328,7974.T,"Nintendo Co., Ltd."
+3329,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3330,7201.T,"Nissan Motor Co., Ltd."
+3331,6367.T,"Daikin Industries,Ltd."
+3332,7751.T,Canon Inc.
+3333,6954.T,Fanuc Corporation
+3334,6981.T,"Murata Manufacturing Co., Ltd."
+3335,5108.T,Bridgestone Corporation
+3336,8031.T,"Mitsui & Co., Ltd."
+3337,4502.T,Takeda Pharmaceutical Company Limited
+3338,8001.T,ITOCHU Corporation
+3339,6501.T,"Hitachi, Ltd."
+3340,4911.T,"Shiseido Company, Limited"
+3341,4503.T,Astellas Pharma Inc.
+3342,6503.T,Mitsubishi Electric Corporation
+3343,7269.T,Suzuki Motor Corporation
+3344,7741.T,HOYA Corporation
+3345,4523.T,"Eisai Co., Ltd."
+3346,4578.T,"Otsuka Holdings Co., Ltd."
+3347,8801.T,"Mitsui Fudosan Co., Ltd."
+3348,8802.T,"Mitsubishi Estate Co., Ltd."
+3349,1925.T,"Daiwa House Industry Co.,Ltd."
+3350,6752.T,Panasonic Corporation
+3351,4543.T,Terumo Corporation
+3352,4568.T,"Daiichi Sankyo Company, Limited"
+3353,6273.T,SMC Corporation
+3354,6301.T,Komatsu Ltd.
+3355,8113.T,Unicharm Corporation
+3356,8591.T,ORIX Corporation
+3357,8035.T,Tokyo Electron Limited
+3358,2503.T,"Kirin Holdings Company, Limited"
+3359,6971.T,Kyocera Corporation
+3360,9735.T,"SECOM CO., LTD."
+3361,8750.T,"Dai-ichi Life Holdings, Inc."
+3362,2502.T,"Asahi Group Holdings, Ltd."
+3363,5020.T,"JXTG Holdings, Inc."
+3364,8053.T,Sumitomo Corporation
+3365,4507.T,"Shionogi & Co., Ltd."
+3366,6326.T,Kubota Corporation
+3367,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3368,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3369,6502.T,Toshiba Corporation
+3370,7270.T,Subaru Corporation
+3371,8267.T,"Aeon Co., Ltd."
+3372,4901.T,FUJIFILM Holdings Corporation
+3373,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3374,9613.T,NTT DATA Corporation
+3375,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3376,8421.T,Shinkin Central Bank
+3377,6201.T,Toyota Industries Corporation
+3378,3407.T,Asahi Kasei Corporation
+3379,9843.T,"Nitori Holdings Co., Ltd."
+3380,2587.T,Suntory Beverage & Food Limited
+3381,7181.T,"Japan Post Insurance Co., Ltd."
+3382,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3383,9021.T,West Japan Railway Company
+3384,9503.T,"The Kansai Electric Power Company, Incorporated"
+3385,7309.T,Shimano Inc.
+3386,1605.T,Inpex Corporation
+3387,6702.T,Fujitsu Limited
+3388,4689.T,Yahoo Japan Corporation
+3389,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3390,4324.T,Dentsu Inc.
+3391,9201.T,"Japan Airlines Co., Ltd."
+3392,8002.T,Marubeni Corporation
+3393,8604.T,"Nomura Holdings, Inc."
+3394,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3395,9202.T,ANA Holdings Inc.
+3396,2269.T,"Meiji Holdings Co., Ltd."
+3397,3659.T,"NEXON Co., Ltd."
+3398,9531.T,"Tokyo Gas Co., Ltd."
+3399,2267.T,"Yakult Honsha Co.,Ltd."
+3400,7203.T,Toyota Motor Corporation
+3401,9437.T,"NTT DOCOMO, INC."
+3402,9432.T,Nippon Telegraph and Telephone Corporation
+3403,9984.T,SoftBank Group Corp.
+3404,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3405,6758.T,Sony Corporation
+3406,6861.T,Keyence Corporation
+3407,9433.T,KDDI Corporation
+3408,9434.T,SoftBank Corp.
+3409,9983.T,"Fast Retailing Co., Ltd."
+3410,6178.T,"Japan Post Holdings Co., Ltd."
+3411,7267.T,"Honda Motor Co., Ltd."
+3412,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3413,8058.T,Mitsubishi Corporation
+3414,2914.T,Japan Tobacco Inc.
+3415,9022.T,Central Japan Railway Company
+3416,7182.T,"JAPAN POST BANK Co.,Ltd."
+3417,6098.T,"Recruit Holdings Co., Ltd."
+3418,8411.T,"Mizuho Financial Group, Inc."
+3419,3382.T,"Seven & i Holdings Co., Ltd."
+3420,4452.T,Kao Corporation
+3421,8686.T,Aflac Incorporated
+3422,6902.T,DENSO Corporation
+3423,8766.T,"Tokio Marine Holdings, Inc."
+3424,9020.T,East Japan Railway Company
+3425,6594.T,Nidec Corporation
+3426,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3427,4661.T,"Oriental Land Co., Ltd."
+3428,7974.T,"Nintendo Co., Ltd."
+3429,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3430,7201.T,"Nissan Motor Co., Ltd."
+3431,6367.T,"Daikin Industries,Ltd."
+3432,7751.T,Canon Inc.
+3433,6954.T,Fanuc Corporation
+3434,6981.T,"Murata Manufacturing Co., Ltd."
+3435,5108.T,Bridgestone Corporation
+3436,8031.T,"Mitsui & Co., Ltd."
+3437,4502.T,Takeda Pharmaceutical Company Limited
+3438,8001.T,ITOCHU Corporation
+3439,6501.T,"Hitachi, Ltd."
+3440,4911.T,"Shiseido Company, Limited"
+3441,4503.T,Astellas Pharma Inc.
+3442,6503.T,Mitsubishi Electric Corporation
+3443,7269.T,Suzuki Motor Corporation
+3444,7741.T,HOYA Corporation
+3445,4523.T,"Eisai Co., Ltd."
+3446,4578.T,"Otsuka Holdings Co., Ltd."
+3447,8801.T,"Mitsui Fudosan Co., Ltd."
+3448,8802.T,"Mitsubishi Estate Co., Ltd."
+3449,1925.T,"Daiwa House Industry Co.,Ltd."
+3450,6752.T,Panasonic Corporation
+3451,4543.T,Terumo Corporation
+3452,4568.T,"Daiichi Sankyo Company, Limited"
+3453,6273.T,SMC Corporation
+3454,6301.T,Komatsu Ltd.
+3455,8113.T,Unicharm Corporation
+3456,8591.T,ORIX Corporation
+3457,8035.T,Tokyo Electron Limited
+3458,2503.T,"Kirin Holdings Company, Limited"
+3459,6971.T,Kyocera Corporation
+3460,9735.T,"SECOM CO., LTD."
+3461,8750.T,"Dai-ichi Life Holdings, Inc."
+3462,2502.T,"Asahi Group Holdings, Ltd."
+3463,5020.T,"JXTG Holdings, Inc."
+3464,8053.T,Sumitomo Corporation
+3465,4507.T,"Shionogi & Co., Ltd."
+3466,6326.T,Kubota Corporation
+3467,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3468,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3469,6502.T,Toshiba Corporation
+3470,7270.T,Subaru Corporation
+3471,8267.T,"Aeon Co., Ltd."
+3472,4901.T,FUJIFILM Holdings Corporation
+3473,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3474,9613.T,NTT DATA Corporation
+3475,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3476,8421.T,Shinkin Central Bank
+3477,6201.T,Toyota Industries Corporation
+3478,3407.T,Asahi Kasei Corporation
+3479,9843.T,"Nitori Holdings Co., Ltd."
+3480,2587.T,Suntory Beverage & Food Limited
+3481,7181.T,"Japan Post Insurance Co., Ltd."
+3482,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3483,9021.T,West Japan Railway Company
+3484,9503.T,"The Kansai Electric Power Company, Incorporated"
+3485,7309.T,Shimano Inc.
+3486,1605.T,Inpex Corporation
+3487,6702.T,Fujitsu Limited
+3488,4689.T,Yahoo Japan Corporation
+3489,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3490,4324.T,Dentsu Inc.
+3491,9201.T,"Japan Airlines Co., Ltd."
+3492,8002.T,Marubeni Corporation
+3493,8604.T,"Nomura Holdings, Inc."
+3494,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3495,9202.T,ANA Holdings Inc.
+3496,2269.T,"Meiji Holdings Co., Ltd."
+3497,3659.T,"NEXON Co., Ltd."
+3498,9531.T,"Tokyo Gas Co., Ltd."
+3499,2267.T,"Yakult Honsha Co.,Ltd."
+3500,7203.T,Toyota Motor Corporation
+3501,9437.T,"NTT DOCOMO, INC."
+3502,9432.T,Nippon Telegraph and Telephone Corporation
+3503,9984.T,SoftBank Group Corp.
+3504,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3505,6758.T,Sony Corporation
+3506,6861.T,Keyence Corporation
+3507,9433.T,KDDI Corporation
+3508,9434.T,SoftBank Corp.
+3509,9983.T,"Fast Retailing Co., Ltd."
+3510,6178.T,"Japan Post Holdings Co., Ltd."
+3511,7267.T,"Honda Motor Co., Ltd."
+3512,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3513,8058.T,Mitsubishi Corporation
+3514,2914.T,Japan Tobacco Inc.
+3515,9022.T,Central Japan Railway Company
+3516,7182.T,"JAPAN POST BANK Co.,Ltd."
+3517,6098.T,"Recruit Holdings Co., Ltd."
+3518,8411.T,"Mizuho Financial Group, Inc."
+3519,3382.T,"Seven & i Holdings Co., Ltd."
+3520,4452.T,Kao Corporation
+3521,8686.T,Aflac Incorporated
+3522,6902.T,DENSO Corporation
+3523,8766.T,"Tokio Marine Holdings, Inc."
+3524,9020.T,East Japan Railway Company
+3525,6594.T,Nidec Corporation
+3526,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3527,4661.T,"Oriental Land Co., Ltd."
+3528,7974.T,"Nintendo Co., Ltd."
+3529,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3530,7201.T,"Nissan Motor Co., Ltd."
+3531,6367.T,"Daikin Industries,Ltd."
+3532,7751.T,Canon Inc.
+3533,6954.T,Fanuc Corporation
+3534,6981.T,"Murata Manufacturing Co., Ltd."
+3535,5108.T,Bridgestone Corporation
+3536,8031.T,"Mitsui & Co., Ltd."
+3537,4502.T,Takeda Pharmaceutical Company Limited
+3538,8001.T,ITOCHU Corporation
+3539,6501.T,"Hitachi, Ltd."
+3540,4911.T,"Shiseido Company, Limited"
+3541,4503.T,Astellas Pharma Inc.
+3542,6503.T,Mitsubishi Electric Corporation
+3543,7269.T,Suzuki Motor Corporation
+3544,7741.T,HOYA Corporation
+3545,4523.T,"Eisai Co., Ltd."
+3546,4578.T,"Otsuka Holdings Co., Ltd."
+3547,8801.T,"Mitsui Fudosan Co., Ltd."
+3548,8802.T,"Mitsubishi Estate Co., Ltd."
+3549,1925.T,"Daiwa House Industry Co.,Ltd."
+3550,6752.T,Panasonic Corporation
+3551,4543.T,Terumo Corporation
+3552,4568.T,"Daiichi Sankyo Company, Limited"
+3553,6273.T,SMC Corporation
+3554,6301.T,Komatsu Ltd.
+3555,8113.T,Unicharm Corporation
+3556,8591.T,ORIX Corporation
+3557,8035.T,Tokyo Electron Limited
+3558,2503.T,"Kirin Holdings Company, Limited"
+3559,6971.T,Kyocera Corporation
+3560,9735.T,"SECOM CO., LTD."
+3561,8750.T,"Dai-ichi Life Holdings, Inc."
+3562,2502.T,"Asahi Group Holdings, Ltd."
+3563,5020.T,"JXTG Holdings, Inc."
+3564,8053.T,Sumitomo Corporation
+3565,4507.T,"Shionogi & Co., Ltd."
+3566,6326.T,Kubota Corporation
+3567,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3568,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3569,6502.T,Toshiba Corporation
+3570,7270.T,Subaru Corporation
+3571,8267.T,"Aeon Co., Ltd."
+3572,4901.T,FUJIFILM Holdings Corporation
+3573,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3574,9613.T,NTT DATA Corporation
+3575,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3576,8421.T,Shinkin Central Bank
+3577,6201.T,Toyota Industries Corporation
+3578,3407.T,Asahi Kasei Corporation
+3579,9843.T,"Nitori Holdings Co., Ltd."
+3580,2587.T,Suntory Beverage & Food Limited
+3581,7181.T,"Japan Post Insurance Co., Ltd."
+3582,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3583,9021.T,West Japan Railway Company
+3584,9503.T,"The Kansai Electric Power Company, Incorporated"
+3585,7309.T,Shimano Inc.
+3586,1605.T,Inpex Corporation
+3587,6702.T,Fujitsu Limited
+3588,4689.T,Yahoo Japan Corporation
+3589,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3590,4324.T,Dentsu Inc.
+3591,9201.T,"Japan Airlines Co., Ltd."
+3592,8002.T,Marubeni Corporation
+3593,8604.T,"Nomura Holdings, Inc."
+3594,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3595,9202.T,ANA Holdings Inc.
+3596,2269.T,"Meiji Holdings Co., Ltd."
+3597,3659.T,"NEXON Co., Ltd."
+3598,9531.T,"Tokyo Gas Co., Ltd."
+3599,2267.T,"Yakult Honsha Co.,Ltd."
+3600,7203.T,Toyota Motor Corporation
+3601,9437.T,"NTT DOCOMO, INC."
+3602,9432.T,Nippon Telegraph and Telephone Corporation
+3603,9984.T,SoftBank Group Corp.
+3604,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3605,6758.T,Sony Corporation
+3606,6861.T,Keyence Corporation
+3607,9433.T,KDDI Corporation
+3608,9434.T,SoftBank Corp.
+3609,9983.T,"Fast Retailing Co., Ltd."
+3610,6178.T,"Japan Post Holdings Co., Ltd."
+3611,7267.T,"Honda Motor Co., Ltd."
+3612,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3613,8058.T,Mitsubishi Corporation
+3614,2914.T,Japan Tobacco Inc.
+3615,9022.T,Central Japan Railway Company
+3616,7182.T,"JAPAN POST BANK Co.,Ltd."
+3617,6098.T,"Recruit Holdings Co., Ltd."
+3618,8411.T,"Mizuho Financial Group, Inc."
+3619,3382.T,"Seven & i Holdings Co., Ltd."
+3620,4452.T,Kao Corporation
+3621,8686.T,Aflac Incorporated
+3622,6902.T,DENSO Corporation
+3623,8766.T,"Tokio Marine Holdings, Inc."
+3624,9020.T,East Japan Railway Company
+3625,6594.T,Nidec Corporation
+3626,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3627,4661.T,"Oriental Land Co., Ltd."
+3628,7974.T,"Nintendo Co., Ltd."
+3629,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3630,7201.T,"Nissan Motor Co., Ltd."
+3631,6367.T,"Daikin Industries,Ltd."
+3632,7751.T,Canon Inc.
+3633,6954.T,Fanuc Corporation
+3634,6981.T,"Murata Manufacturing Co., Ltd."
+3635,5108.T,Bridgestone Corporation
+3636,8031.T,"Mitsui & Co., Ltd."
+3637,4502.T,Takeda Pharmaceutical Company Limited
+3638,8001.T,ITOCHU Corporation
+3639,6501.T,"Hitachi, Ltd."
+3640,4911.T,"Shiseido Company, Limited"
+3641,4503.T,Astellas Pharma Inc.
+3642,6503.T,Mitsubishi Electric Corporation
+3643,7269.T,Suzuki Motor Corporation
+3644,7741.T,HOYA Corporation
+3645,4523.T,"Eisai Co., Ltd."
+3646,4578.T,"Otsuka Holdings Co., Ltd."
+3647,8801.T,"Mitsui Fudosan Co., Ltd."
+3648,8802.T,"Mitsubishi Estate Co., Ltd."
+3649,1925.T,"Daiwa House Industry Co.,Ltd."
+3650,6752.T,Panasonic Corporation
+3651,4543.T,Terumo Corporation
+3652,4568.T,"Daiichi Sankyo Company, Limited"
+3653,6273.T,SMC Corporation
+3654,6301.T,Komatsu Ltd.
+3655,8113.T,Unicharm Corporation
+3656,8591.T,ORIX Corporation
+3657,8035.T,Tokyo Electron Limited
+3658,2503.T,"Kirin Holdings Company, Limited"
+3659,6971.T,Kyocera Corporation
+3660,9735.T,"SECOM CO., LTD."
+3661,8750.T,"Dai-ichi Life Holdings, Inc."
+3662,2502.T,"Asahi Group Holdings, Ltd."
+3663,5020.T,"JXTG Holdings, Inc."
+3664,8053.T,Sumitomo Corporation
+3665,4507.T,"Shionogi & Co., Ltd."
+3666,6326.T,Kubota Corporation
+3667,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3668,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3669,6502.T,Toshiba Corporation
+3670,7270.T,Subaru Corporation
+3671,8267.T,"Aeon Co., Ltd."
+3672,4901.T,FUJIFILM Holdings Corporation
+3673,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3674,9613.T,NTT DATA Corporation
+3675,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3676,8421.T,Shinkin Central Bank
+3677,6201.T,Toyota Industries Corporation
+3678,3407.T,Asahi Kasei Corporation
+3679,9843.T,"Nitori Holdings Co., Ltd."
+3680,2587.T,Suntory Beverage & Food Limited
+3681,7181.T,"Japan Post Insurance Co., Ltd."
+3682,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3683,9021.T,West Japan Railway Company
+3684,9503.T,"The Kansai Electric Power Company, Incorporated"
+3685,7309.T,Shimano Inc.
+3686,1605.T,Inpex Corporation
+3687,6702.T,Fujitsu Limited
+3688,4689.T,Yahoo Japan Corporation
+3689,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3690,4324.T,Dentsu Inc.
+3691,9201.T,"Japan Airlines Co., Ltd."
+3692,8002.T,Marubeni Corporation
+3693,8604.T,"Nomura Holdings, Inc."
+3694,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3695,9202.T,ANA Holdings Inc.
+3696,2269.T,"Meiji Holdings Co., Ltd."
+3697,3659.T,"NEXON Co., Ltd."
+3698,9531.T,"Tokyo Gas Co., Ltd."
+3699,2267.T,"Yakult Honsha Co.,Ltd."
+3700,7203.T,Toyota Motor Corporation
+3701,9437.T,"NTT DOCOMO, INC."
+3702,9432.T,Nippon Telegraph and Telephone Corporation
+3703,9984.T,SoftBank Group Corp.
+3704,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3705,6758.T,Sony Corporation
+3706,6861.T,Keyence Corporation
+3707,9433.T,KDDI Corporation
+3708,9434.T,SoftBank Corp.
+3709,9983.T,"Fast Retailing Co., Ltd."
+3710,6178.T,"Japan Post Holdings Co., Ltd."
+3711,7267.T,"Honda Motor Co., Ltd."
+3712,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3713,8058.T,Mitsubishi Corporation
+3714,2914.T,Japan Tobacco Inc.
+3715,9022.T,Central Japan Railway Company
+3716,7182.T,"JAPAN POST BANK Co.,Ltd."
+3717,6098.T,"Recruit Holdings Co., Ltd."
+3718,8411.T,"Mizuho Financial Group, Inc."
+3719,3382.T,"Seven & i Holdings Co., Ltd."
+3720,4452.T,Kao Corporation
+3721,8686.T,Aflac Incorporated
+3722,6902.T,DENSO Corporation
+3723,8766.T,"Tokio Marine Holdings, Inc."
+3724,9020.T,East Japan Railway Company
+3725,6594.T,Nidec Corporation
+3726,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3727,4661.T,"Oriental Land Co., Ltd."
+3728,7974.T,"Nintendo Co., Ltd."
+3729,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3730,7201.T,"Nissan Motor Co., Ltd."
+3731,6367.T,"Daikin Industries,Ltd."
+3732,7751.T,Canon Inc.
+3733,6954.T,Fanuc Corporation
+3734,6981.T,"Murata Manufacturing Co., Ltd."
+3735,5108.T,Bridgestone Corporation
+3736,8031.T,"Mitsui & Co., Ltd."
+3737,4502.T,Takeda Pharmaceutical Company Limited
+3738,8001.T,ITOCHU Corporation
+3739,6501.T,"Hitachi, Ltd."
+3740,4911.T,"Shiseido Company, Limited"
+3741,4503.T,Astellas Pharma Inc.
+3742,6503.T,Mitsubishi Electric Corporation
+3743,7269.T,Suzuki Motor Corporation
+3744,7741.T,HOYA Corporation
+3745,4523.T,"Eisai Co., Ltd."
+3746,4578.T,"Otsuka Holdings Co., Ltd."
+3747,8801.T,"Mitsui Fudosan Co., Ltd."
+3748,8802.T,"Mitsubishi Estate Co., Ltd."
+3749,1925.T,"Daiwa House Industry Co.,Ltd."
+3750,6752.T,Panasonic Corporation
+3751,4543.T,Terumo Corporation
+3752,4568.T,"Daiichi Sankyo Company, Limited"
+3753,6273.T,SMC Corporation
+3754,6301.T,Komatsu Ltd.
+3755,8113.T,Unicharm Corporation
+3756,8591.T,ORIX Corporation
+3757,8035.T,Tokyo Electron Limited
+3758,2503.T,"Kirin Holdings Company, Limited"
+3759,6971.T,Kyocera Corporation
+3760,9735.T,"SECOM CO., LTD."
+3761,8750.T,"Dai-ichi Life Holdings, Inc."
+3762,2502.T,"Asahi Group Holdings, Ltd."
+3763,5020.T,"JXTG Holdings, Inc."
+3764,8053.T,Sumitomo Corporation
+3765,4507.T,"Shionogi & Co., Ltd."
+3766,6326.T,Kubota Corporation
+3767,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3768,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3769,6502.T,Toshiba Corporation
+3770,7270.T,Subaru Corporation
+3771,8267.T,"Aeon Co., Ltd."
+3772,4901.T,FUJIFILM Holdings Corporation
+3773,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3774,9613.T,NTT DATA Corporation
+3775,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3776,8421.T,Shinkin Central Bank
+3777,6201.T,Toyota Industries Corporation
+3778,3407.T,Asahi Kasei Corporation
+3779,9843.T,"Nitori Holdings Co., Ltd."
+3780,2587.T,Suntory Beverage & Food Limited
+3781,7181.T,"Japan Post Insurance Co., Ltd."
+3782,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3783,9021.T,West Japan Railway Company
+3784,9503.T,"The Kansai Electric Power Company, Incorporated"
+3785,7309.T,Shimano Inc.
+3786,1605.T,Inpex Corporation
+3787,6702.T,Fujitsu Limited
+3788,4689.T,Yahoo Japan Corporation
+3789,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3790,4324.T,Dentsu Inc.
+3791,9201.T,"Japan Airlines Co., Ltd."
+3792,8002.T,Marubeni Corporation
+3793,8604.T,"Nomura Holdings, Inc."
+3794,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3795,9202.T,ANA Holdings Inc.
+3796,2269.T,"Meiji Holdings Co., Ltd."
+3797,3659.T,"NEXON Co., Ltd."
+3798,9531.T,"Tokyo Gas Co., Ltd."
+3799,2267.T,"Yakult Honsha Co.,Ltd."
+3800,7203.T,Toyota Motor Corporation
+3801,9437.T,"NTT DOCOMO, INC."
+3802,9432.T,Nippon Telegraph and Telephone Corporation
+3803,9984.T,SoftBank Group Corp.
+3804,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3805,6758.T,Sony Corporation
+3806,6861.T,Keyence Corporation
+3807,9433.T,KDDI Corporation
+3808,9434.T,SoftBank Corp.
+3809,9983.T,"Fast Retailing Co., Ltd."
+3810,6178.T,"Japan Post Holdings Co., Ltd."
+3811,7267.T,"Honda Motor Co., Ltd."
+3812,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3813,8058.T,Mitsubishi Corporation
+3814,2914.T,Japan Tobacco Inc.
+3815,9022.T,Central Japan Railway Company
+3816,7182.T,"JAPAN POST BANK Co.,Ltd."
+3817,6098.T,"Recruit Holdings Co., Ltd."
+3818,8411.T,"Mizuho Financial Group, Inc."
+3819,3382.T,"Seven & i Holdings Co., Ltd."
+3820,4452.T,Kao Corporation
+3821,8686.T,Aflac Incorporated
+3822,6902.T,DENSO Corporation
+3823,8766.T,"Tokio Marine Holdings, Inc."
+3824,9020.T,East Japan Railway Company
+3825,6594.T,Nidec Corporation
+3826,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3827,4661.T,"Oriental Land Co., Ltd."
+3828,7974.T,"Nintendo Co., Ltd."
+3829,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3830,7201.T,"Nissan Motor Co., Ltd."
+3831,6367.T,"Daikin Industries,Ltd."
+3832,7751.T,Canon Inc.
+3833,6954.T,Fanuc Corporation
+3834,6981.T,"Murata Manufacturing Co., Ltd."
+3835,5108.T,Bridgestone Corporation
+3836,8031.T,"Mitsui & Co., Ltd."
+3837,4502.T,Takeda Pharmaceutical Company Limited
+3838,8001.T,ITOCHU Corporation
+3839,6501.T,"Hitachi, Ltd."
+3840,4911.T,"Shiseido Company, Limited"
+3841,4503.T,Astellas Pharma Inc.
+3842,6503.T,Mitsubishi Electric Corporation
+3843,7269.T,Suzuki Motor Corporation
+3844,7741.T,HOYA Corporation
+3845,4523.T,"Eisai Co., Ltd."
+3846,4578.T,"Otsuka Holdings Co., Ltd."
+3847,8801.T,"Mitsui Fudosan Co., Ltd."
+3848,8802.T,"Mitsubishi Estate Co., Ltd."
+3849,1925.T,"Daiwa House Industry Co.,Ltd."
+3850,6752.T,Panasonic Corporation
+3851,4543.T,Terumo Corporation
+3852,4568.T,"Daiichi Sankyo Company, Limited"
+3853,6273.T,SMC Corporation
+3854,6301.T,Komatsu Ltd.
+3855,8113.T,Unicharm Corporation
+3856,8591.T,ORIX Corporation
+3857,8035.T,Tokyo Electron Limited
+3858,2503.T,"Kirin Holdings Company, Limited"
+3859,6971.T,Kyocera Corporation
+3860,9735.T,"SECOM CO., LTD."
+3861,8750.T,"Dai-ichi Life Holdings, Inc."
+3862,2502.T,"Asahi Group Holdings, Ltd."
+3863,5020.T,"JXTG Holdings, Inc."
+3864,8053.T,Sumitomo Corporation
+3865,4507.T,"Shionogi & Co., Ltd."
+3866,6326.T,Kubota Corporation
+3867,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3868,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3869,6502.T,Toshiba Corporation
+3870,7270.T,Subaru Corporation
+3871,8267.T,"Aeon Co., Ltd."
+3872,4901.T,FUJIFILM Holdings Corporation
+3873,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3874,9613.T,NTT DATA Corporation
+3875,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3876,8421.T,Shinkin Central Bank
+3877,6201.T,Toyota Industries Corporation
+3878,3407.T,Asahi Kasei Corporation
+3879,9843.T,"Nitori Holdings Co., Ltd."
+3880,2587.T,Suntory Beverage & Food Limited
+3881,7181.T,"Japan Post Insurance Co., Ltd."
+3882,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3883,9021.T,West Japan Railway Company
+3884,9503.T,"The Kansai Electric Power Company, Incorporated"
+3885,7309.T,Shimano Inc.
+3886,1605.T,Inpex Corporation
+3887,6702.T,Fujitsu Limited
+3888,4689.T,Yahoo Japan Corporation
+3889,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3890,4324.T,Dentsu Inc.
+3891,9201.T,"Japan Airlines Co., Ltd."
+3892,8002.T,Marubeni Corporation
+3893,8604.T,"Nomura Holdings, Inc."
+3894,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3895,9202.T,ANA Holdings Inc.
+3896,2269.T,"Meiji Holdings Co., Ltd."
+3897,3659.T,"NEXON Co., Ltd."
+3898,9531.T,"Tokyo Gas Co., Ltd."
+3899,2267.T,"Yakult Honsha Co.,Ltd."
+3900,7203.T,Toyota Motor Corporation
+3901,9437.T,"NTT DOCOMO, INC."
+3902,9432.T,Nippon Telegraph and Telephone Corporation
+3903,9984.T,SoftBank Group Corp.
+3904,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+3905,6758.T,Sony Corporation
+3906,6861.T,Keyence Corporation
+3907,9433.T,KDDI Corporation
+3908,9434.T,SoftBank Corp.
+3909,9983.T,"Fast Retailing Co., Ltd."
+3910,6178.T,"Japan Post Holdings Co., Ltd."
+3911,7267.T,"Honda Motor Co., Ltd."
+3912,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+3913,8058.T,Mitsubishi Corporation
+3914,2914.T,Japan Tobacco Inc.
+3915,9022.T,Central Japan Railway Company
+3916,7182.T,"JAPAN POST BANK Co.,Ltd."
+3917,6098.T,"Recruit Holdings Co., Ltd."
+3918,8411.T,"Mizuho Financial Group, Inc."
+3919,3382.T,"Seven & i Holdings Co., Ltd."
+3920,4452.T,Kao Corporation
+3921,8686.T,Aflac Incorporated
+3922,6902.T,DENSO Corporation
+3923,8766.T,"Tokio Marine Holdings, Inc."
+3924,9020.T,East Japan Railway Company
+3925,6594.T,Nidec Corporation
+3926,4063.T,"Shin-Etsu Chemical Co., Ltd."
+3927,4661.T,"Oriental Land Co., Ltd."
+3928,7974.T,"Nintendo Co., Ltd."
+3929,4519.T,"Chugai Pharmaceutical Co., Ltd."
+3930,7201.T,"Nissan Motor Co., Ltd."
+3931,6367.T,"Daikin Industries,Ltd."
+3932,7751.T,Canon Inc.
+3933,6954.T,Fanuc Corporation
+3934,6981.T,"Murata Manufacturing Co., Ltd."
+3935,5108.T,Bridgestone Corporation
+3936,8031.T,"Mitsui & Co., Ltd."
+3937,4502.T,Takeda Pharmaceutical Company Limited
+3938,8001.T,ITOCHU Corporation
+3939,6501.T,"Hitachi, Ltd."
+3940,4911.T,"Shiseido Company, Limited"
+3941,4503.T,Astellas Pharma Inc.
+3942,6503.T,Mitsubishi Electric Corporation
+3943,7269.T,Suzuki Motor Corporation
+3944,7741.T,HOYA Corporation
+3945,4523.T,"Eisai Co., Ltd."
+3946,4578.T,"Otsuka Holdings Co., Ltd."
+3947,8801.T,"Mitsui Fudosan Co., Ltd."
+3948,8802.T,"Mitsubishi Estate Co., Ltd."
+3949,1925.T,"Daiwa House Industry Co.,Ltd."
+3950,6752.T,Panasonic Corporation
+3951,4543.T,Terumo Corporation
+3952,4568.T,"Daiichi Sankyo Company, Limited"
+3953,6273.T,SMC Corporation
+3954,6301.T,Komatsu Ltd.
+3955,8113.T,Unicharm Corporation
+3956,8591.T,ORIX Corporation
+3957,8035.T,Tokyo Electron Limited
+3958,2503.T,"Kirin Holdings Company, Limited"
+3959,6971.T,Kyocera Corporation
+3960,9735.T,"SECOM CO., LTD."
+3961,8750.T,"Dai-ichi Life Holdings, Inc."
+3962,2502.T,"Asahi Group Holdings, Ltd."
+3963,5020.T,"JXTG Holdings, Inc."
+3964,8053.T,Sumitomo Corporation
+3965,4507.T,"Shionogi & Co., Ltd."
+3966,6326.T,Kubota Corporation
+3967,8830.T,"Sumitomo Realty & Development Co., Ltd."
+3968,8725.T,"MS&AD Insurance Group Holdings, Inc."
+3969,6502.T,Toshiba Corporation
+3970,7270.T,Subaru Corporation
+3971,8267.T,"Aeon Co., Ltd."
+3972,4901.T,FUJIFILM Holdings Corporation
+3973,8028.T,"FamilyMart UNY Holdings Co., Ltd."
+3974,9613.T,NTT DATA Corporation
+3975,5401.T,Nippon Steel & Sumitomo Metal Corporation
+3976,8421.T,Shinkin Central Bank
+3977,6201.T,Toyota Industries Corporation
+3978,3407.T,Asahi Kasei Corporation
+3979,9843.T,"Nitori Holdings Co., Ltd."
+3980,2587.T,Suntory Beverage & Food Limited
+3981,7181.T,"Japan Post Insurance Co., Ltd."
+3982,8309.T,"Sumitomo Mitsui Trust Holdings, Inc."
+3983,9021.T,West Japan Railway Company
+3984,9503.T,"The Kansai Electric Power Company, Incorporated"
+3985,7309.T,Shimano Inc.
+3986,1605.T,Inpex Corporation
+3987,6702.T,Fujitsu Limited
+3988,4689.T,Yahoo Japan Corporation
+3989,4506.T,"Sumitomo Dainippon Pharma Co., Ltd."
+3990,4324.T,Dentsu Inc.
+3991,9201.T,"Japan Airlines Co., Ltd."
+3992,8002.T,Marubeni Corporation
+3993,8604.T,"Nomura Holdings, Inc."
+3994,7011.T,"Mitsubishi Heavy Industries, Ltd."
+3995,9202.T,ANA Holdings Inc.
+3996,2269.T,"Meiji Holdings Co., Ltd."
+3997,3659.T,"NEXON Co., Ltd."
+3998,9531.T,"Tokyo Gas Co., Ltd."
+3999,2267.T,"Yakult Honsha Co.,Ltd."

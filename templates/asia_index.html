@@ -1,0 +1,67 @@
+{%extends "layout_new.html"%}
+{%block stock_content%}
+<link rel="stylesheet" href={{cdn_css | safe}} type="text/css" />
+<script type="text/javascript" src={{cdn_js | safe}}></script>
+<link rel="stylesheet" href="../static/css/main.css">
+
+<div class="about">
+  <div id="plot_1">
+    {{script1 | safe}}
+    {{div1 | safe}}
+  </div>
+  <div id="plot_2">
+    {{script2 | safe}}
+    {{div2 | safe}}
+  </div>
+</div>
+  {%endblock stock_content%}
+
+  {%block right_sidebar%}
+  <form  method="POST" >
+      <div>
+        <input class="form-control" list="browers4" name="asia_index_name">
+          <datalist id="browers4">
+          <option value="0388.HK">HONGKONG EXCHANGES AND CLEARING LIMITED</option>
+          <option value="^DJAT" >DOW JONES TITANS 50</option>
+          <option value="ES3.SG" >SPDR STRAITS TIMES</option>
+          <option value="FSTM.SI" >FTSE ST MID CAP</option>
+          <option value="FSTS.SI" >FTSE ST SMALL CAP</option>
+          <option value="000001.SS" >SHANGHAI STOCK EXCHANGES</option>
+        </datalist>
+
+      </div >
+      <label >Start Date</label>
+       <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="start_date_sp"></input>
+
+       <label >End Date</label>
+        <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="end_date_sp"></input>
+
+   <button type="submit" class="btn btn-primary m-2"  name="action" value="submit_sp" s>Submit</button>
+
+  </form>
+</div>
+
+<!--Create the form send to backend for companys in S&P500-->
+
+<div id="SP_company_form">
+<form method="POST" >
+  <div>
+    <input class="form-control" list="browers5" name="asia_company_name_index">
+      <datalist id="browers5">
+        {% for (index,name) in asia_list_company_name%}
+        <option value="{{index}}">{{name}}</option>
+        {% endfor %}
+      </datalist>
+
+  </div>
+<!--Time input for companys in S&P 500-->
+    <label>Start Date</label>
+     <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="start_date_company"></input>
+
+     <label>End Date</label>
+      <input type="date" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" name="end_date_company"></input>
+
+ <button type="submit" class="btn btn-primary m-2" name="action" value="submit_company">Submit</button>
+
+</form>
+  {%endblock right_sidebar%}
